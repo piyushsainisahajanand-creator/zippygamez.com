@@ -7,10 +7,10 @@
   const GPT_SCRIPT_URL = "https://securepubads.g.doubleclick.net/tag/js/gpt.js";
     const CONVERSION_SEND_TO = ""; // previous shared Ads event is off on this domain
   const CONFIG = {
-    native01: "/23330730517/zippygamez.com_d1",
-    native02: "/23330730517/zippygamez.com_d2",
-    native03: "/23330730517/zippygamez.com_d2",
-    interstitial: "/23330730517/zippygamez.com_inter",
+    native01: "/23393188659/zippygamez.com_d1",
+    native02: "/23393188659/zippygamez.com_d2",
+    native03: "/23393188659/zippygamez.com_d2",
+    interstitial: "/23393188659/zippygamez.com_inter",
     refreshDelay: 30000,
     maximumRefreshes: 2,
     minimumViewability: 50,

@@ -23,7 +23,7 @@
   const REWARDED_WARMUP_RETRY_MS = 2600;
   const REWARDED_WARMUP_MAX_ATTEMPTS = 3;
   const PWA_MANIFEST_VERSION = "pwa-portrait-20260713";
-  const GPT_REWARDED_AD_UNIT = "/23330730517/zippygamez.com_reward";
+  const GPT_REWARDED_AD_UNIT = "/23393188659/zippygamez.com_reward";
   const PRIMARY_CTA_SELECTOR = "section.download .btn-down.enable, #playBtn";
   const CONVERSION_SEND_TO = ""; // previous shared Ads event is off on this domain
   const CTA_SELECTOR =
