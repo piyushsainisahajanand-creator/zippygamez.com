@@ -343,7 +343,17 @@
       let h = 0;
       for (const c of current) h = (h * 31 + c.charCodeAt(0)) >>> 0;
       const pool = list.slice(0, 120); // same section as the page: apps on app pages, games elsewhere
-      const picks = pool.length >= 8 ? Array.from({ length: 8 }, (_, i) => pool[(h + i * 13) % pool.length]) : [];
+      const hashed = pool.length >= 8 ? Array.from({ length: 8 }, (_, i) => pool[(h + i * 13) % pool.length]) : [];
+      // Games pages: the box shows trending games only (the trending list: Delta Force, PUBG, Free Fire, ...), 8 at a time.
+      // The 8 change: every page starts at a different point of the list, and the set rotates every ROTATE_MS (see below).
+      // Apps pages (and any page where fewer than 8 trending games exist in the catalogue) keep the per-page rotation.
+      const adTrend = kind !== "app" && pinned.length >= 8 ? pinned : null;
+      const adPicksAt = (t) => {
+        const n = adTrend.length;
+        const start = (h + Math.floor(t / ROTATE_MS) * 3) % n;
+        return Array.from({ length: 8 }, (_, i) => adTrend[(start + i) % n]);
+      };
+      const picks = adTrend ? adPicksAt(Date.now()) : hashed;
       const right = detail.querySelector(".page-right");
       if (right) {
         Array.from(right.children).forEach((el) => { el.style.display = "none"; });
@@ -355,6 +365,31 @@
           (sim.length ? `<section class="gm-card gm-similar"><h5 class="gm-title">Similar ${noun}</h5><div class="gm-grid">${sim.map(tile).join("")}</div></section>` : "") +
           (picks.length ? `<section class="gm-card gm-ad-box"><p class="gm-ad-label">Advertisement</p><div class="gm-grid">${picks.map((g) => tile(Object.assign({}, g, { href: root + kind + "/index.html" }))).join("")}</div></section>` : "");
         while (wrap.firstChild) right.appendChild(wrap.firstChild);
+      }
+
+      // Advertisement box: swap the trending icons in place every ROTATE_MS (same wall-clock slots as the Trending box).
+      // The click target of every tile stays the section's main page, so only the picture and name change.
+      const adGrid = adTrend && right ? right.querySelector(".gm-ad-box .gm-grid") : null;
+      if (adGrid) {
+        const swapAd = () => {
+          const next = adPicksAt(Date.now());
+          Array.from(adGrid.children).forEach((a, i) => {
+            const g = next[i];
+            if (!g || (a.querySelector("img") || {}).alt === g.name) return;
+            a.style.transition = "opacity .4s";
+            a.style.opacity = "0";
+            setTimeout(() => {
+              a.title = g.name;
+              const im = a.querySelector("img");
+              const localSrc = g.local ? root + g.local.replace(/^\//, "") : "";
+              im.alt = g.name;
+              im.onerror = function () { this.onerror = null; if (localSrc) this.src = localSrc; };
+              im.src = g.logo || localSrc;
+              a.style.opacity = "1";
+            }, 400 + i * 40);
+          });
+        };
+        setTimeout(() => { swapAd(); setInterval(swapAd, ROTATE_MS); }, ROTATE_MS - (Date.now() % ROTATE_MS) + 50);
       }
 
       // Bottom: Similar section (moved full width) + Editor's Choice
