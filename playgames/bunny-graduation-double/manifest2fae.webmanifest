@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/bunny-graduation-double/play/",
+  "name": "Bunny Graduation Double - ZippyGamez",
+  "short_name": "Bunny Graduation Double",
+  "description": "Play Bunny Graduation Double instantly on ZippyGamez.",
+  "start_url": "/playgames/bunny-graduation-double/play/",
+  "scope": "/playgames/bunny-graduation-double/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/bunny-graduation-double-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/bunny-graduation-double.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

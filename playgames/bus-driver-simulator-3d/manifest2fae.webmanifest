@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/bus-driver-simulator-3d/play/",
+  "name": "Bus Driver Simulator 3D - ZippyGamez",
+  "short_name": "Bus Driver Simulator 3D",
+  "description": "Play Bus Driver Simulator 3D instantly on ZippyGamez.",
+  "start_url": "/playgames/bus-driver-simulator-3d/play/",
+  "scope": "/playgames/bus-driver-simulator-3d/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "racing"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/bus-driver-simulator-3d-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/bus-driver-simulator-3d.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

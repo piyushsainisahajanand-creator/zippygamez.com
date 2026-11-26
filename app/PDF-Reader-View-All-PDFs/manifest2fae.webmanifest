@@ -1,0 +1,30 @@
+{
+  "id": "/app/PDF-Reader-View-All-PDFs/",
+  "name": "PDF Reader: View All PDFs - ZippyGamez",
+  "short_name": "PDF Reader: View All PDFs",
+  "description": "Open PDF Reader: View All PDFs details and official store access on ZippyGamez.",
+  "start_url": "/app/PDF-Reader-View-All-PDFs/download/",
+  "scope": "/app/PDF-Reader-View-All-PDFs/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "tools"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

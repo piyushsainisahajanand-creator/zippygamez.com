@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/roll-this-ball/play/",
+  "name": "Roll this Ball - ZippyGamez",
+  "short_name": "Roll this Ball",
+  "description": "Play Roll this Ball instantly on ZippyGamez.",
+  "start_url": "/playgames/roll-this-ball/play/",
+  "scope": "/playgames/roll-this-ball/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/roll-this-ball-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/roll-this-ball.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/checkers-legend/play/",
+  "name": "Checkers Legend - ZippyGamez",
+  "short_name": "Checkers Legend",
+  "description": "Play Checkers Legend instantly on ZippyGamez.",
+  "start_url": "/playgames/checkers-legend/play/",
+  "scope": "/playgames/checkers-legend/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/checkers-legend-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/checkers-legend.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

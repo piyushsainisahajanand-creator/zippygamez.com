@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/baby-hazel-backyard-party/play/",
+  "name": "Baby Hazel Backyard Party - ZippyGamez",
+  "short_name": "Baby Hazel Backyard Party",
+  "description": "Play Baby Hazel Backyard Party instantly on ZippyGamez.",
+  "start_url": "/playgames/baby-hazel-backyard-party/play/",
+  "scope": "/playgames/baby-hazel-backyard-party/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/baby-hazel-backyard-party-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/baby-hazel-backyard-party.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

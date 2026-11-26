@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/flashcount/play/",
+  "name": "FlashCount - ZippyGamez",
+  "short_name": "FlashCount",
+  "description": "Play FlashCount instantly on ZippyGamez.",
+  "start_url": "/playgames/flashcount/play/",
+  "scope": "/playgames/flashcount/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/flashcount-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/flashcount.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

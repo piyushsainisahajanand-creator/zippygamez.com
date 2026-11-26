@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/red-and-blue-stickman-huggy/play/",
+  "name": "Red and Blue Stickman Huggy - ZippyGamez",
+  "short_name": "Red and Blue Stickman Huggy",
+  "description": "Play Red and Blue Stickman Huggy instantly on ZippyGamez.",
+  "start_url": "/playgames/red-and-blue-stickman-huggy/play/",
+  "scope": "/playgames/red-and-blue-stickman-huggy/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/red-and-blue-stickman-huggy-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/red-and-blue-stickman-huggy.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

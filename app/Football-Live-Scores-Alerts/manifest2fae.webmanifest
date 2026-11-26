@@ -1,0 +1,30 @@
+{
+  "id": "/app/Football-Live-Scores-Alerts/",
+  "name": "Football Live Scores & Alerts - ZippyGamez",
+  "short_name": "Football Live Scores & Alerts",
+  "description": "Open Football Live Scores & Alerts details and official store access on ZippyGamez.",
+  "start_url": "/app/Football-Live-Scores-Alerts/download/",
+  "scope": "/app/Football-Live-Scores-Alerts/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

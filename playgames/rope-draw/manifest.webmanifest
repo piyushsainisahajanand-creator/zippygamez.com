@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/rope-draw/play/",
+  "name": "Rope Draw - ZippyGamez",
+  "short_name": "Rope Draw",
+  "description": "Play Rope Draw instantly on ZippyGamez.",
+  "start_url": "/playgames/rope-draw/play/",
+  "scope": "/playgames/rope-draw/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/rope-draw-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/rope-draw.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

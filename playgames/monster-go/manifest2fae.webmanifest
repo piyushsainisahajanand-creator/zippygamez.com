@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/monster-go/play/",
+  "name": "Monster Go - ZippyGamez",
+  "short_name": "Monster Go",
+  "description": "Play Monster Go instantly on ZippyGamez.",
+  "start_url": "/playgames/monster-go/play/",
+  "scope": "/playgames/monster-go/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/monster-go-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/monster-go.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

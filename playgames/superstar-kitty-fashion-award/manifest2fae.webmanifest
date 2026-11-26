@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/superstar-kitty-fashion-award/play/",
+  "name": "Superstar Kitty Fashion Award - ZippyGamez",
+  "short_name": "Superstar Kitty Fashion Award",
+  "description": "Play Superstar Kitty Fashion Award instantly on ZippyGamez.",
+  "start_url": "/playgames/superstar-kitty-fashion-award/play/",
+  "scope": "/playgames/superstar-kitty-fashion-award/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/superstar-kitty-fashion-award-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/superstar-kitty-fashion-award.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

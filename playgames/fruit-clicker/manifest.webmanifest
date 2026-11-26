@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/fruit-clicker/play/",
+  "name": "Fruit Clicker - ZippyGamez",
+  "short_name": "Fruit Clicker",
+  "description": "Play Fruit Clicker instantly on ZippyGamez.",
+  "start_url": "/playgames/fruit-clicker/play/",
+  "scope": "/playgames/fruit-clicker/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/fruit-clicker-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/fruit-clicker.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/go-chicken-go/play/",
+  "name": "Go Chicken Go - ZippyGamez",
+  "short_name": "Go Chicken Go",
+  "description": "Play Go Chicken Go instantly on ZippyGamez.",
+  "start_url": "/playgames/go-chicken-go/play/",
+  "scope": "/playgames/go-chicken-go/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/go-chicken-go-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/go-chicken-go.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

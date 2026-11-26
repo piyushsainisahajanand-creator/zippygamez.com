@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/squid-dentist-game/play/",
+  "name": "Squid Dentist Game - ZippyGamez",
+  "short_name": "Squid Dentist Game",
+  "description": "Play Squid Dentist Game instantly on ZippyGamez.",
+  "start_url": "/playgames/squid-dentist-game/play/",
+  "scope": "/playgames/squid-dentist-game/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "junior"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/squid-dentist-game-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/squid-dentist-game.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

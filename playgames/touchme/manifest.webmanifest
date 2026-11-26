@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/touchme/play/",
+  "name": "Touchme - ZippyGamez",
+  "short_name": "Touchme",
+  "description": "Play Touchme instantly on ZippyGamez.",
+  "start_url": "/playgames/touchme/play/",
+  "scope": "/playgames/touchme/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/touchme-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/touchme.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

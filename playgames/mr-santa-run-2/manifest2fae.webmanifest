@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/mr-santa-run-2/play/",
+  "name": "Mr Santa Run 2 - ZippyGamez",
+  "short_name": "Mr Santa Run 2",
+  "description": "Play Mr Santa Run 2 instantly on ZippyGamez.",
+  "start_url": "/playgames/mr-santa-run-2/play/",
+  "scope": "/playgames/mr-santa-run-2/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/mr-santa-run-2-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/mr-santa-run-2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

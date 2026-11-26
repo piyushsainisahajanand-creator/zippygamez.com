@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/zoo-trivia/play/",
+  "name": "Zoo Trivia - ZippyGamez",
+  "short_name": "Zoo Trivia",
+  "description": "Play Zoo Trivia instantly on ZippyGamez.",
+  "start_url": "/playgames/zoo-trivia/play/",
+  "scope": "/playgames/zoo-trivia/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/zoo-trivia-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/zoo-trivia.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

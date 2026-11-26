@@ -1,0 +1,30 @@
+{
+  "id": "/app/TextNow-Call-Text-Unlimited/",
+  "name": "TextNow: Call + Text Unlimited - ZippyGamez",
+  "short_name": "TextNow: Call + Text Unlimited",
+  "description": "Open TextNow: Call + Text Unlimited details and official store access on ZippyGamez.",
+  "start_url": "/app/TextNow-Call-Text-Unlimited/download/",
+  "scope": "/app/TextNow-Call-Text-Unlimited/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "communication"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

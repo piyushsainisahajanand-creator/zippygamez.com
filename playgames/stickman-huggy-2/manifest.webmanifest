@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/stickman-huggy-2/play/",
+  "name": "Stickman Huggy 2 - ZippyGamez",
+  "short_name": "Stickman Huggy 2",
+  "description": "Play Stickman Huggy 2 instantly on ZippyGamez.",
+  "start_url": "/playgames/stickman-huggy-2/play/",
+  "scope": "/playgames/stickman-huggy-2/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/stickman-huggy-2-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/stickman-huggy-2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

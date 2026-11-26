@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/your-queen-destiny/play/",
+  "name": "Your Queen Destiny - ZippyGamez",
+  "short_name": "Your Queen Destiny",
+  "description": "Play Your Queen Destiny instantly on ZippyGamez.",
+  "start_url": "/playgames/your-queen-destiny/play/",
+  "scope": "/playgames/your-queen-destiny/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/your-queen-destiny-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/your-queen-destiny.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

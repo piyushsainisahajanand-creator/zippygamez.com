@@ -1,0 +1,410 @@
+.policy-page {
+  min-height: 100vh;
+  margin: 0;
+  color: #102033;
+  background:
+    radial-gradient(circle at 12% 0%, rgba(8, 145, 178, 0.14), transparent 28rem),
+    radial-gradient(circle at 92% 14%, rgba(124, 58, 237, 0.12), transparent 24rem),
+    linear-gradient(180deg, #f9fcff 0%, #f4f0ff 52%, #fff8ee 100%);
+  font-family: "Saira", Arial, Helvetica, sans-serif;
+}
+
+.policy-page *,
+.policy-page *::before,
+.policy-page *::after {
+  box-sizing: border-box;
+}
+
+.policy-page a {
+  color: inherit;
+}
+
+.policy-main {
+  width: min(100% - 18px, 1080px);
+  margin: 0 auto;
+  padding: 30px 0 12px;
+}
+
+.policy-hero {
+  position: relative;
+  overflow: hidden;
+  padding: clamp(22px, 4vw, 42px);
+  border: 1px solid rgba(8, 145, 178, 0.18);
+  border-radius: 30px;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(235, 250, 249, 0.88)),
+    radial-gradient(circle at 90% 10%, rgba(124, 58, 237, 0.14), transparent 14rem);
+  box-shadow: 0 24px 70px rgba(31, 72, 105, 0.13);
+}
+
+.policy-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(90deg, rgba(8, 145, 178, 0.55), rgba(124, 58, 237, 0.5)) top left / 100% 4px no-repeat,
+    repeating-linear-gradient(135deg, rgba(8, 145, 178, 0.045) 0 1px, transparent 1px 12px);
+}
+
+.policy-hero > * {
+  position: relative;
+  z-index: 1;
+}
+
+.policy-kicker {
+  display: inline-flex;
+  width: fit-content;
+  margin-bottom: 12px;
+  padding: 7px 11px;
+  border-radius: 999px;
+  background: #f4f0ff;
+  color: #0891b2;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.policy-hero h1 {
+  margin: 0;
+  color: #102033;
+  font-size: clamp(34px, 5vw, 58px);
+  line-height: 0.98;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+}
+
+.policy-hero p {
+  max-width: 780px;
+  margin: 14px 0 0;
+  color: #4d6075;
+  font-size: 16px;
+  line-height: 1.72;
+  font-weight: 600;
+}
+
+.policy-facts {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 9px;
+  margin-top: 22px;
+}
+
+.policy-fact {
+  min-width: 0;
+  padding: 12px;
+  border: 1px solid rgba(8, 145, 178, 0.16);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.74);
+}
+
+.policy-fact span {
+  display: block;
+  color: #60748a;
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.policy-fact strong {
+  display: block;
+  margin-top: 4px;
+  color: #102033;
+  font-size: 14px;
+  font-weight: 900;
+  overflow-wrap: anywhere;
+}
+
+.policy-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.policy-section {
+  padding: clamp(18px, 3vw, 28px);
+  border: 1px solid rgba(8, 145, 178, 0.18);
+  border-radius: 24px;
+  background: rgba(255, 255, 255, 0.88);
+  box-shadow: 0 14px 34px rgba(31, 72, 105, 0.09);
+}
+
+.policy-section h2 {
+  margin: 0 0 10px;
+  color: #102033;
+  font-size: clamp(22px, 3vw, 32px);
+  line-height: 1.08;
+  font-weight: 900;
+  letter-spacing: -0.03em;
+}
+
+.policy-section h3 {
+  margin: 18px 0 8px;
+  color: #172033;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 900;
+}
+
+.policy-section p,
+.policy-section li {
+  color: #4d6075;
+  font-size: 15px;
+  line-height: 1.72;
+  font-weight: 600;
+}
+
+.policy-section p {
+  margin: 0;
+}
+
+.policy-section p + p {
+  margin-top: 10px;
+}
+
+.policy-section ul {
+  display: grid;
+  gap: 7px;
+  margin: 10px 0 0;
+  padding-left: 22px;
+}
+
+.policy-callout {
+  margin-top: 14px;
+  padding: 14px;
+  border: 1px solid rgba(8, 145, 178, 0.18);
+  border-radius: 18px;
+  background: linear-gradient(135deg, #f4f0ff, #fff8ee);
+  color: #23384e;
+  font-weight: 800;
+}
+
+.policy-contact-form {
+  display: grid;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.policy-form-row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.policy-contact-form label {
+  display: grid;
+  gap: 6px;
+  color: #31485e;
+  font-size: 13px;
+  font-weight: 900;
+}
+
+.policy-contact-form input,
+.policy-contact-form textarea {
+  width: 100%;
+  min-height: 44px;
+  padding: 11px 12px;
+  border: 1px solid rgba(8, 145, 178, 0.22);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.92);
+  color: #102033;
+  font: inherit;
+  font-size: 14px;
+}
+
+.policy-contact-form textarea {
+  min-height: 130px;
+  resize: vertical;
+}
+
+.policy-contact-form button {
+  width: fit-content;
+  min-height: 44px;
+  padding: 12px 18px;
+  border: 0;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #7c3aed, #f5c14a);
+  color: #fff;
+  font: inherit;
+  font-weight: 900;
+  cursor: pointer;
+  box-shadow: 0 14px 28px rgba(8, 145, 178, 0.2);
+}
+
+.policy-form-status {
+  min-height: 20px;
+  color: #6d28d9;
+  font-size: 13px;
+  font-weight: 800;
+}
+
+@media (max-width: 720px) {
+  .policy-facts,
+  .policy-form-row {
+    grid-template-columns: 1fr;
+  }
+
+  .policy-main {
+    padding-top: 18px;
+  }
+
+  .policy-hero,
+  .policy-section {
+    border-radius: 20px;
+  }
+}
+
+/* Sitewide readable typography refresh - start */
+@font-face {
+  font-family: "Nunito Sans Local";
+  src: url("../fonts/nunito-sans-latin-var.woff2") format("woff2");
+  font-weight: 300 800;
+  font-style: normal;
+  font-stretch: 100%;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+:root {
+  --site-font-sans: "Nunito Sans Local", "Nunito Sans", "Google Sans", "Product Sans", Roboto, "Segoe UI", Arial, sans-serif;
+}
+
+html,
+body,
+body * {
+  font-family: var(--site-font-sans) !important;
+  letter-spacing: 0 !important;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title, .section-title, .section-heading, .home-section-title,
+.game-title, .app-title, .card-title, .article-title,
+.game-name, .app-name, .item-title, .name {
+  font-family: var(--site-font-sans) !important;
+  font-weight: 600 !important;
+}
+
+.download-ready, .download-btn, .download-cta, .store-badge,
+button, .btn, .view-all, .view-more {
+  font-family: var(--site-font-sans) !important;
+  font-weight: 700 !important;
+}
+
+p, li, .description, .desc, .short-description, .detail-copy,
+.meta, .category, .subtitle, .supporting-copy, .footer-copy {
+  font-family: var(--site-font-sans) !important;
+}
+
+.description, .desc, .short-description, .detail-copy,
+p, li {
+  font-weight: 400 !important;
+}
+
+.meta, .category, .subtitle, .supporting-copy, small {
+  font-weight: 500 !important;
+}
+
+strong, b {
+  font-weight: 600 !important;
+}
+/* Sitewide readable typography refresh - end */
+
+/* Finalized-font wrapping safeguards for legal and contact pages. */
+.policy-main,
+.policy-hero,
+.policy-hero > *,
+.policy-grid,
+.policy-section,
+.policy-fact,
+.policy-contact-form,
+.policy-form-row > * {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.policy-hero h1,
+.policy-hero p,
+.policy-section h2,
+.policy-section h3,
+.policy-section p,
+.policy-section li,
+.policy-fact strong,
+.policy-contact-form label,
+.policy-contact-form button {
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+.policy-hero h1 {
+  line-height: 1.08;
+}
+
+.policy-section h2 {
+  line-height: 1.16;
+}
+
+.policy-contact-form button {
+  max-width: 100%;
+  line-height: 1.2;
+  text-align: center;
+  white-space: normal;
+}
+
+/* Match policy-page typography to the approved detail-page scale. */
+.policy-hero h1 {
+  font-size: clamp(1.82rem, 3.15vw, 2.72rem) !important;
+  font-weight: 550 !important;
+  line-height: 1.04 !important;
+}
+
+.policy-section h2 {
+  font-size: clamp(1.25rem, 1.55vw, 1.65rem) !important;
+  line-height: 1.15 !important;
+}
+
+.policy-section h3 {
+  font-size: clamp(0.98rem, 1.1vw, 1.12rem) !important;
+  line-height: 1.25 !important;
+}
+
+.policy-hero p,
+.policy-section p,
+.policy-section li,
+.policy-contact-form label {
+  font-size: 15px !important;
+  line-height: 1.72 !important;
+}
+
+.policy-section p {
+  margin-bottom: 14px;
+}
+
+@media (max-width: 820px) {
+  .policy-hero h1 {
+    font-size: clamp(1.52rem, 6.7vw, 2.02rem) !important;
+  }
+
+  .policy-hero p,
+  .policy-section p,
+  .policy-section li,
+  .policy-contact-form label {
+    font-size: 14px !important;
+    line-height: 1.68 !important;
+  }
+}
+
+@media (max-width: 350px) {
+  .policy-hero h1 {
+    font-size: 1.12rem !important;
+  }
+}

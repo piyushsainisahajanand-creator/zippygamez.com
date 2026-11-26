@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/intergalactic-battleship/play/",
+  "name": "Intergalactic Battleship - ZippyGamez",
+  "short_name": "Intergalactic Battleship",
+  "description": "Play Intergalactic Battleship instantly on ZippyGamez.",
+  "start_url": "/playgames/intergalactic-battleship/play/",
+  "scope": "/playgames/intergalactic-battleship/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "strategy"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/intergalactic-battleship-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/intergalactic-battleship.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

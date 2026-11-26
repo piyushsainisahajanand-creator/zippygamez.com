@@ -1,0 +1,30 @@
+{
+  "id": "/app/FlixBus-Book-Bus-Tickets/",
+  "name": "FlixBus: Book Bus Tickets - ZippyGamez",
+  "short_name": "FlixBus: Book Bus Tickets",
+  "description": "Open FlixBus: Book Bus Tickets details and official store access on ZippyGamez.",
+  "start_url": "/app/FlixBus-Book-Bus-Tickets/download/",
+  "scope": "/app/FlixBus-Book-Bus-Tickets/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "travel & local"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

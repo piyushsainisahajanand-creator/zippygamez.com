@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/merge-block-puzzle/play/",
+  "name": "Merge Block Puzzle - ZippyGamez",
+  "short_name": "Merge Block Puzzle",
+  "description": "Play Merge Block Puzzle instantly on ZippyGamez.",
+  "start_url": "/playgames/merge-block-puzzle/play/",
+  "scope": "/playgames/merge-block-puzzle/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/merge-block-puzzle-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/merge-block-puzzle.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

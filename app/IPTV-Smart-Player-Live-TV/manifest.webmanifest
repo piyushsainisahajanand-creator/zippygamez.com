@@ -1,0 +1,30 @@
+{
+  "id": "/app/IPTV-Smart-Player-Live-TV/",
+  "name": "IPTV Smart Player: Live TV - ZippyGamez",
+  "short_name": "IPTV Smart Player: Live TV",
+  "description": "Open IPTV Smart Player: Live TV details and official store access on ZippyGamez.",
+  "start_url": "/app/IPTV-Smart-Player-Live-TV/download/",
+  "scope": "/app/IPTV-Smart-Player-Live-TV/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

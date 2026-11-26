@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/snail-run/play/",
+  "name": "Snail Run - ZippyGamez",
+  "short_name": "Snail Run",
+  "description": "Play Snail Run instantly on ZippyGamez.",
+  "start_url": "/playgames/snail-run/play/",
+  "scope": "/playgames/snail-run/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "junior"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/snail-run-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/snail-run.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

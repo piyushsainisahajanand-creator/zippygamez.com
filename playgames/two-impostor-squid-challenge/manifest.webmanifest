@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/two-impostor-squid-challenge/play/",
+  "name": "Two Impostor Squid Challenge - ZippyGamez",
+  "short_name": "Two Impostor Squid Challenge",
+  "description": "Play Two Impostor Squid Challenge instantly on ZippyGamez.",
+  "start_url": "/playgames/two-impostor-squid-challenge/play/",
+  "scope": "/playgames/two-impostor-squid-challenge/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/two-impostor-squid-challenge-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/two-impostor-squid-challenge.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

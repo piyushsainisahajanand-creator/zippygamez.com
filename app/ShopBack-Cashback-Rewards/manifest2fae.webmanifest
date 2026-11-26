@@ -1,0 +1,30 @@
+{
+  "id": "/app/ShopBack-Cashback-Rewards/",
+  "name": "ShopBack: Cashback & Rewards - ZippyGamez",
+  "short_name": "ShopBack: Cashback & Rewards",
+  "description": "Open ShopBack: Cashback & Rewards details and official store access on ZippyGamez.",
+  "start_url": "/app/ShopBack-Cashback-Rewards/download/",
+  "scope": "/app/ShopBack-Cashback-Rewards/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

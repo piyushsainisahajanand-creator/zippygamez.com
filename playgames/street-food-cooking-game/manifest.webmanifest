@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/street-food-cooking-game/play/",
+  "name": "Street Food - Cooking Game - ZippyGamez",
+  "short_name": "Street Food - Cooking Game",
+  "description": "Play Street Food - Cooking Game instantly on ZippyGamez.",
+  "start_url": "/playgames/street-food-cooking-game/play/",
+  "scope": "/playgames/street-food-cooking-game/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/street-food-cooking-game-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/street-food-cooking-game.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

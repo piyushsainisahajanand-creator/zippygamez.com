@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/let-me-in/play/",
+  "name": "Let me in - ZippyGamez",
+  "short_name": "Let me in",
+  "description": "Play Let me in instantly on ZippyGamez.",
+  "start_url": "/playgames/let-me-in/play/",
+  "scope": "/playgames/let-me-in/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "simulation"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/let-me-in-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/let-me-in.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "/app/ZEE5-Movies-Web-Series-Shows/",
+  "name": "ZEE5 Movies, Web Series, Shows - ZippyGamez",
+  "short_name": "ZEE5 Movies, Web Series, Shows",
+  "description": "Open ZEE5 Movies, Web Series, Shows details and official store access on ZippyGamez.",
+  "start_url": "/app/ZEE5-Movies-Web-Series-Shows/download/",
+  "scope": "/app/ZEE5-Movies-Web-Series-Shows/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

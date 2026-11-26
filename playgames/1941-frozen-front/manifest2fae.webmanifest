@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/1941-frozen-front/play/",
+  "name": "1941 Frozen Front - ZippyGamez",
+  "short_name": "1941 Frozen Front",
+  "description": "Play 1941 Frozen Front instantly on ZippyGamez.",
+  "start_url": "/playgames/1941-frozen-front/play/",
+  "scope": "/playgames/1941-frozen-front/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "strategy"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/1941-frozen-front-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/1941-frozen-front.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

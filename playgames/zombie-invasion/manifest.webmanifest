@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/zombie-invasion/play/",
+  "name": "Zombie Invasion - ZippyGamez",
+  "short_name": "Zombie Invasion",
+  "description": "Play Zombie Invasion instantly on ZippyGamez.",
+  "start_url": "/playgames/zombie-invasion/play/",
+  "scope": "/playgames/zombie-invasion/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/zombie-invasion-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/zombie-invasion.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

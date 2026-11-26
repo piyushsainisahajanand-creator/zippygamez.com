@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/creative-puzzle/play/",
+  "name": "Creative Puzzle - ZippyGamez",
+  "short_name": "Creative Puzzle",
+  "description": "Play Creative Puzzle instantly on ZippyGamez.",
+  "start_url": "/playgames/creative-puzzle/play/",
+  "scope": "/playgames/creative-puzzle/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/creative-puzzle-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/creative-puzzle.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/extreme-way/play/",
+  "name": "Extreme Way - ZippyGamez",
+  "short_name": "Extreme Way",
+  "description": "Play Extreme Way instantly on ZippyGamez.",
+  "start_url": "/playgames/extreme-way/play/",
+  "scope": "/playgames/extreme-way/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/extreme-way-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/extreme-way.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

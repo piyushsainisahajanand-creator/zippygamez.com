@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/baby-hazel-at-beach/play/",
+  "name": "Baby Hazel At Beach - ZippyGamez",
+  "short_name": "Baby Hazel At Beach",
+  "description": "Play Baby Hazel At Beach instantly on ZippyGamez.",
+  "start_url": "/playgames/baby-hazel-at-beach/play/",
+  "scope": "/playgames/baby-hazel-at-beach/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/baby-hazel-at-beach-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/baby-hazel-at-beach.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/parking/play/",
+  "name": "Parking - ZippyGamez",
+  "short_name": "Parking",
+  "description": "Play Parking instantly on ZippyGamez.",
+  "start_url": "/playgames/parking/play/",
+  "scope": "/playgames/parking/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "strategy"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/parking-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/parking.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

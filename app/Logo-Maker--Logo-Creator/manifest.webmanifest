@@ -1,0 +1,30 @@
+{
+  "id": "/app/Logo-Maker--Logo-Creator/",
+  "name": "Logo Maker : Ai Logo Generator - ZippyGamez",
+  "short_name": "Logo Maker : Ai Logo Generator",
+  "description": "Open Logo Maker : Ai Logo Generator details and official access options on ZippyGamez.",
+  "start_url": "/app/Logo-Maker--Logo-Creator/download/",
+  "scope": "/app/Logo-Maker--Logo-Creator/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png?v=full-icon-20260709",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pwa-icon-512.png?v=full-icon-20260709",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

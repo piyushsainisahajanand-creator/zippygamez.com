@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/final-freeway-2r/play/",
+  "name": "Final Freeway 2R - ZippyGamez",
+  "short_name": "Final Freeway 2R",
+  "description": "Play Final Freeway 2R instantly on ZippyGamez.",
+  "start_url": "/playgames/final-freeway-2r/play/",
+  "scope": "/playgames/final-freeway-2r/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "racing"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/final-freeway-2r-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/final-freeway-2r.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

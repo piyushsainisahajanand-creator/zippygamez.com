@@ -1,0 +1,30 @@
+{
+  "id": "/app/Skyscanner-Flights-Hotels-Cars/",
+  "name": "Skyscanner Flights Hotels Cars - ZippyGamez",
+  "short_name": "Skyscanner Flights Hotels Cars",
+  "description": "Open Skyscanner Flights Hotels Cars details and official store access on ZippyGamez.",
+  "start_url": "/app/Skyscanner-Flights-Hotels-Cars/download/",
+  "scope": "/app/Skyscanner-Flights-Hotels-Cars/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "travel & local"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

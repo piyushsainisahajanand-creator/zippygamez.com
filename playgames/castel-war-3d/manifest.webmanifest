@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/castel-war-3d/play/",
+  "name": "Castel War 3D - ZippyGamez",
+  "short_name": "Castel War 3D",
+  "description": "Play Castel War 3D instantly on ZippyGamez.",
+  "start_url": "/playgames/castel-war-3d/play/",
+  "scope": "/playgames/castel-war-3d/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "strategy"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/castel-war-3d-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/castel-war-3d.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

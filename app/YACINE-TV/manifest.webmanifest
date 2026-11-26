@@ -1,0 +1,30 @@
+{
+  "id": "/app/YACINE-TV/",
+  "name": "YACINE TV - ZippyGamez",
+  "short_name": "YACINE TV",
+  "description": "Open YACINE TV details and official store access on ZippyGamez.",
+  "start_url": "/app/YACINE-TV/download/",
+  "scope": "/app/YACINE-TV/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

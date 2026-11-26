@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/airspace2/play/",
+  "name": "AirSpace2 - ZippyGamez",
+  "short_name": "AirSpace2",
+  "description": "Play AirSpace2 instantly on ZippyGamez.",
+  "start_url": "/playgames/airspace2/play/",
+  "scope": "/playgames/airspace2/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/airspace2-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/airspace2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

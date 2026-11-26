@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/tap-double-tap-remake/play/",
+  "name": "Tap Double-Tap REMAKE! - ZippyGamez",
+  "short_name": "Tap Double-Tap REMAKE!",
+  "description": "Play Tap Double-Tap REMAKE! instantly on ZippyGamez.",
+  "start_url": "/playgames/tap-double-tap-remake/play/",
+  "scope": "/playgames/tap-double-tap-remake/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/tap-double-tap-remake-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/tap-double-tap-remake.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

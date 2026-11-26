@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/popit-vs-spinner/play/",
+  "name": "Popit vs Spinner - ZippyGamez",
+  "short_name": "Popit vs Spinner",
+  "description": "Play Popit vs Spinner instantly on ZippyGamez.",
+  "start_url": "/playgames/popit-vs-spinner/play/",
+  "scope": "/playgames/popit-vs-spinner/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/popit-vs-spinner-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/popit-vs-spinner.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

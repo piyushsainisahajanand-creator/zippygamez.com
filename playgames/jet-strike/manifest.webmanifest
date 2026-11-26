@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/jet-strike/play/",
+  "name": "Jet Strike - ZippyGamez",
+  "short_name": "Jet Strike",
+  "description": "Play Jet Strike instantly on ZippyGamez.",
+  "start_url": "/playgames/jet-strike/play/",
+  "scope": "/playgames/jet-strike/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/jet-strike-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/jet-strike.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

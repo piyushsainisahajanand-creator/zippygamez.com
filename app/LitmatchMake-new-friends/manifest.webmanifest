@@ -1,0 +1,30 @@
+{
+  "id": "/app/LitmatchMake-new-friends/",
+  "name": "Litmatch—Make new friends - ZippyGamez",
+  "short_name": "Litmatch—Make new friends",
+  "description": "Open Litmatch—Make new friends details and official store access on ZippyGamez.",
+  "start_url": "/app/LitmatchMake-new-friends/download/",
+  "scope": "/app/LitmatchMake-new-friends/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "social"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

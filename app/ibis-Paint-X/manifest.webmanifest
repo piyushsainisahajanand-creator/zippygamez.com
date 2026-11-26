@@ -1,0 +1,30 @@
+{
+  "id": "/app/ibis-Paint-X/",
+  "name": "ibis Paint X - ZippyGamez",
+  "short_name": "ibis Paint X",
+  "description": "Open ibis Paint X details and official store access on ZippyGamez.",
+  "start_url": "/app/ibis-Paint-X/download/",
+  "scope": "/app/ibis-Paint-X/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "art & design"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

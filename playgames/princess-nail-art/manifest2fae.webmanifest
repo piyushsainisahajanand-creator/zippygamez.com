@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/princess-nail-art/play/",
+  "name": "Princess Nail Art - ZippyGamez",
+  "short_name": "Princess Nail Art",
+  "description": "Play Princess Nail Art instantly on ZippyGamez.",
+  "start_url": "/playgames/princess-nail-art/play/",
+  "scope": "/playgames/princess-nail-art/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/princess-nail-art-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/princess-nail-art.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

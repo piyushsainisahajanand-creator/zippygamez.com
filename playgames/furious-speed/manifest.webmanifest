@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/furious-speed/play/",
+  "name": "Furious Speed - ZippyGamez",
+  "short_name": "Furious Speed",
+  "description": "Play Furious Speed instantly on ZippyGamez.",
+  "start_url": "/playgames/furious-speed/play/",
+  "scope": "/playgames/furious-speed/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "racing"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/furious-speed-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/furious-speed.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

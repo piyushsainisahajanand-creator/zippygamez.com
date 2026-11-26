@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/fruit-smash-master/play/",
+  "name": "Fruit Smash Master - ZippyGamez",
+  "short_name": "Fruit Smash Master",
+  "description": "Play Fruit Smash Master instantly on ZippyGamez.",
+  "start_url": "/playgames/fruit-smash-master/play/",
+  "scope": "/playgames/fruit-smash-master/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/fruit-smash-master-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/fruit-smash-master.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

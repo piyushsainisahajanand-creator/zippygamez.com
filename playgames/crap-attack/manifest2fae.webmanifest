@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/crap-attack/play/",
+  "name": "Crap Attack - ZippyGamez",
+  "short_name": "Crap Attack",
+  "description": "Play Crap Attack instantly on ZippyGamez.",
+  "start_url": "/playgames/crap-attack/play/",
+  "scope": "/playgames/crap-attack/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/crap-attack-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/crap-attack.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

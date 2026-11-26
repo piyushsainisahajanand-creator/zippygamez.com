@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/ocean-kids-back-to-school/play/",
+  "name": "Ocean Kids Back to School - ZippyGamez",
+  "short_name": "Ocean Kids Back to School",
+  "description": "Play Ocean Kids Back to School instantly on ZippyGamez.",
+  "start_url": "/playgames/ocean-kids-back-to-school/play/",
+  "scope": "/playgames/ocean-kids-back-to-school/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/ocean-kids-back-to-school-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/ocean-kids-back-to-school.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

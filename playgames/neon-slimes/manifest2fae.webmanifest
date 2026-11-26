@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/neon-slimes/play/",
+  "name": "Neon Slimes - ZippyGamez",
+  "short_name": "Neon Slimes",
+  "description": "Play Neon Slimes instantly on ZippyGamez.",
+  "start_url": "/playgames/neon-slimes/play/",
+  "scope": "/playgames/neon-slimes/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/neon-slimes-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/neon-slimes.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

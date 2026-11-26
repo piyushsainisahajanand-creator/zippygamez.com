@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/apples/play/",
+  "name": "Apples - ZippyGamez",
+  "short_name": "Apples",
+  "description": "Play Apples instantly on ZippyGamez.",
+  "start_url": "/playgames/apples/play/",
+  "scope": "/playgames/apples/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/apples-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/apples.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

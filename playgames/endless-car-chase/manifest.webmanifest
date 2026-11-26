@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/endless-car-chase/play/",
+  "name": "Endless Car Chase - ZippyGamez",
+  "short_name": "Endless Car Chase",
+  "description": "Play Endless Car Chase instantly on ZippyGamez.",
+  "start_url": "/playgames/endless-car-chase/play/",
+  "scope": "/playgames/endless-car-chase/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "racing"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/endless-car-chase-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/endless-car-chase.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

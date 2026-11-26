@@ -1,0 +1,30 @@
+{
+  "id": "/app/PineDrama-Short-Dramas/",
+  "name": "PineDrama - Short Dramas - ZippyGamez",
+  "short_name": "PineDrama - Short Dramas",
+  "description": "Open PineDrama - Short Dramas details and official store access on ZippyGamez.",
+  "start_url": "/app/PineDrama-Short-Dramas/download/",
+  "scope": "/app/PineDrama-Short-Dramas/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

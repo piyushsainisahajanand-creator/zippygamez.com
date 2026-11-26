@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/big-shark/play/",
+  "name": "Big Shark - ZippyGamez",
+  "short_name": "Big Shark",
+  "description": "Play Big Shark instantly on ZippyGamez.",
+  "start_url": "/playgames/big-shark/play/",
+  "scope": "/playgames/big-shark/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/big-shark-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/big-shark.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "/app/Norton360-Antivirus-Security/",
+  "name": "Norton360 Antivirus & Security - ZippyGamez",
+  "short_name": "Norton360 Antivirus & Security",
+  "description": "Open Norton360 Antivirus & Security details and official store access on ZippyGamez.",
+  "start_url": "/app/Norton360-Antivirus-Security/download/",
+  "scope": "/app/Norton360-Antivirus-Security/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "tools"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

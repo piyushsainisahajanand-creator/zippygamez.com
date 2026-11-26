@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/prism-match-3d/play/",
+  "name": "Prism Match 3D - ZippyGamez",
+  "short_name": "Prism Match 3D",
+  "description": "Play Prism Match 3D instantly on ZippyGamez.",
+  "start_url": "/playgames/prism-match-3d/play/",
+  "scope": "/playgames/prism-match-3d/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/prism-match-3d-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/prism-match-3d.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

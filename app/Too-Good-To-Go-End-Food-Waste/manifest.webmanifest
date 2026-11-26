@@ -1,0 +1,30 @@
+{
+  "id": "/app/Too-Good-To-Go-End-Food-Waste/",
+  "name": "Too Good To Go: End Food Waste - ZippyGamez",
+  "short_name": "Too Good To Go: End Food Waste",
+  "description": "Open Too Good To Go: End Food Waste details and official store access on ZippyGamez.",
+  "start_url": "/app/Too-Good-To-Go-End-Food-Waste/download/",
+  "scope": "/app/Too-Good-To-Go-End-Food-Waste/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "food & drink"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

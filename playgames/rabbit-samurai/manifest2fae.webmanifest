@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/rabbit-samurai/play/",
+  "name": "Rabbit Samurai - ZippyGamez",
+  "short_name": "Rabbit Samurai",
+  "description": "Play Rabbit Samurai instantly on ZippyGamez.",
+  "start_url": "/playgames/rabbit-samurai/play/",
+  "scope": "/playgames/rabbit-samurai/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/rabbit-samurai-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/rabbit-samurai.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

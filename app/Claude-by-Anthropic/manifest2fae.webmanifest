@@ -1,0 +1,30 @@
+{
+  "id": "/app/Claude-by-Anthropic/",
+  "name": "Claude by Anthropic - ZippyGamez",
+  "short_name": "Claude by Anthropic",
+  "description": "Open Claude by Anthropic details and official store access on ZippyGamez.",
+  "start_url": "/app/Claude-by-Anthropic/download/",
+  "scope": "/app/Claude-by-Anthropic/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

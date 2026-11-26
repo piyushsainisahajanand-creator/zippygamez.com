@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/red-stickman-vs-monster-school/play/",
+  "name": "Red Stickman vs Monster School - ZippyGamez",
+  "short_name": "Red Stickman vs Monster School",
+  "description": "Play Red Stickman vs Monster School instantly on ZippyGamez.",
+  "start_url": "/playgames/red-stickman-vs-monster-school/play/",
+  "scope": "/playgames/red-stickman-vs-monster-school/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/red-stickman-vs-monster-school-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/red-stickman-vs-monster-school.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

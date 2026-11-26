@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/foot-chinko/play/",
+  "name": "Foot Chinko - ZippyGamez",
+  "short_name": "Foot Chinko",
+  "description": "Play Foot Chinko instantly on ZippyGamez.",
+  "start_url": "/playgames/foot-chinko/play/",
+  "scope": "/playgames/foot-chinko/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/foot-chinko-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/foot-chinko.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

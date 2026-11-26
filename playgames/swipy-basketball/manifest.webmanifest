@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/swipy-basketball/play/",
+  "name": "Swipy Basketball - ZippyGamez",
+  "short_name": "Swipy Basketball",
+  "description": "Play Swipy Basketball instantly on ZippyGamez.",
+  "start_url": "/playgames/swipy-basketball/play/",
+  "scope": "/playgames/swipy-basketball/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/swipy-basketball-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/swipy-basketball.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

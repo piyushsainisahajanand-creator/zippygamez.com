@@ -1,0 +1,30 @@
+{
+  "id": "/app/My-Cash---Make-Money-Cash-App/",
+  "name": "My Cash: Play to Earn Money - ZippyGamez",
+  "short_name": "My Cash: Play to Earn Money",
+  "description": "Open My Cash: Play to Earn Money details and official access options on ZippyGamez.",
+  "start_url": "/app/My-Cash---Make-Money-Cash-App/download/",
+  "scope": "/app/My-Cash---Make-Money-Cash-App/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png?v=full-icon-20260709",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pwa-icon-512.png?v=full-icon-20260709",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

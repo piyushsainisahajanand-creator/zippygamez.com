@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/vangers/play/",
+  "name": "Vangers HD - ZippyGamez",
+  "short_name": "Vangers HD",
+  "description": "Play Vangers HD instantly on ZippyGamez.",
+  "start_url": "/playgames/vangers/play/",
+  "scope": "/playgames/vangers/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "racing"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/vangers-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/vangers.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

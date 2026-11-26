@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/a-mole-in-a-hole/play/",
+  "name": "A Mole in a Hole - ZippyGamez",
+  "short_name": "A Mole in a Hole",
+  "description": "Play A Mole in a Hole instantly on ZippyGamez.",
+  "start_url": "/playgames/a-mole-in-a-hole/play/",
+  "scope": "/playgames/a-mole-in-a-hole/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/a-mole-in-a-hole-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/a-mole-in-a-hole.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

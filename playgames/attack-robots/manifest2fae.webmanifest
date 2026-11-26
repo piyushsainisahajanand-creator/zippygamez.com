@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/attack-robots/play/",
+  "name": "Attack Robots - ZippyGamez",
+  "short_name": "Attack Robots",
+  "description": "Play Attack Robots instantly on ZippyGamez.",
+  "start_url": "/playgames/attack-robots/play/",
+  "scope": "/playgames/attack-robots/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/attack-robots-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/attack-robots.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

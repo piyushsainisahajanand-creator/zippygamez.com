@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/my-sugar-factory/play/",
+  "name": "My Sugar Factory - ZippyGamez",
+  "short_name": "My Sugar Factory",
+  "description": "Play My Sugar Factory instantly on ZippyGamez.",
+  "start_url": "/playgames/my-sugar-factory/play/",
+  "scope": "/playgames/my-sugar-factory/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "strategy"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/my-sugar-factory-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/my-sugar-factory.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

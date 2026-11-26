@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/parmesan-partisan/play/",
+  "name": "Parmesan Partisan - ZippyGamez",
+  "short_name": "Parmesan Partisan",
+  "description": "Play Parmesan Partisan instantly on ZippyGamez.",
+  "start_url": "/playgames/parmesan-partisan/play/",
+  "scope": "/playgames/parmesan-partisan/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/parmesan-partisan-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/parmesan-partisan.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

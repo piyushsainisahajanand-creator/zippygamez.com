@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/bowmastery-zombies/play/",
+  "name": "Bowmastery - Zombies! - ZippyGamez",
+  "short_name": "Bowmastery - Zombies!",
+  "description": "Play Bowmastery - Zombies! instantly on ZippyGamez.",
+  "start_url": "/playgames/bowmastery-zombies/play/",
+  "scope": "/playgames/bowmastery-zombies/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/bowmastery-zombies-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/bowmastery-zombies.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

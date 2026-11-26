@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/cake-shop-cafe-pastries-waffles-cooking-game/play/",
+  "name": "Cake Shop Cafe Pastries & Waffles cooking Game - ZippyGamez",
+  "short_name": "Cake Shop Cafe Pastries & Waffles cookin",
+  "description": "Play Cake Shop Cafe Pastries & Waffles cooking Game instantly on ZippyGamez.",
+  "start_url": "/playgames/cake-shop-cafe-pastries-waffles-cooking-game/play/",
+  "scope": "/playgames/cake-shop-cafe-pastries-waffles-cooking-game/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/cake-shop-cafe-pastries-waffles-cooking-game-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/cake-shop-cafe-pastries-waffles-cooking-game.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

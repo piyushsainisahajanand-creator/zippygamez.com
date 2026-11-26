@@ -1,0 +1,30 @@
+{
+  "id": "/app/Vinted-Shop-sell-pre-loved/",
+  "name": "Vinted: Shop & sell pre-loved - ZippyGamez",
+  "short_name": "Vinted: Shop & sell pre-loved",
+  "description": "Open Vinted: Shop & sell pre-loved details and official store access on ZippyGamez.",
+  "start_url": "/app/Vinted-Shop-sell-pre-loved/download/",
+  "scope": "/app/Vinted-Shop-sell-pre-loved/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

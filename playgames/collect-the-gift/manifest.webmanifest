@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/collect-the-gift/play/",
+  "name": "Collect the Gift - ZippyGamez",
+  "short_name": "Collect the Gift",
+  "description": "Play Collect the Gift instantly on ZippyGamez.",
+  "start_url": "/playgames/collect-the-gift/play/",
+  "scope": "/playgames/collect-the-gift/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/collect-the-gift-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/collect-the-gift.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

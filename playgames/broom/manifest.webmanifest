@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/broom/play/",
+  "name": "Broom - ZippyGamez",
+  "short_name": "Broom",
+  "description": "Play Broom instantly on ZippyGamez.",
+  "start_url": "/playgames/broom/play/",
+  "scope": "/playgames/broom/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "racing"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/broom-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/broom.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/bridge-race-stairs-run-build/play/",
+  "name": "Bridge Race Stairs Run Build - ZippyGamez",
+  "short_name": "Bridge Race Stairs Run Build",
+  "description": "Play Bridge Race Stairs Run Build instantly on ZippyGamez.",
+  "start_url": "/playgames/bridge-race-stairs-run-build/play/",
+  "scope": "/playgames/bridge-race-stairs-run-build/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/bridge-race-stairs-run-build-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/bridge-race-stairs-run-build.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

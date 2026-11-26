@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/spear-toss-challenge/play/",
+  "name": "Spear Toss Challenge - ZippyGamez",
+  "short_name": "Spear Toss Challenge",
+  "description": "Play Spear Toss Challenge instantly on ZippyGamez.",
+  "start_url": "/playgames/spear-toss-challenge/play/",
+  "scope": "/playgames/spear-toss-challenge/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/spear-toss-challenge-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/spear-toss-challenge.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

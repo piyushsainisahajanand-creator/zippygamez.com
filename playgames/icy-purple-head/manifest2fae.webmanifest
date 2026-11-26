@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/icy-purple-head/play/",
+  "name": "Icy Purple Head 2 - ZippyGamez",
+  "short_name": "Icy Purple Head 2",
+  "description": "Play Icy Purple Head 2 instantly on ZippyGamez.",
+  "start_url": "/playgames/icy-purple-head/play/",
+  "scope": "/playgames/icy-purple-head/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/icy-purple-head-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/icy-purple-head.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "/app/PDF-File-Plus/",
+  "name": "PDF File Plus - ZippyGamez",
+  "short_name": "PDF File Plus",
+  "description": "Open PDF File Plus details and official store access on ZippyGamez.",
+  "start_url": "/app/PDF-File-Plus/download/",
+  "scope": "/app/PDF-File-Plus/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

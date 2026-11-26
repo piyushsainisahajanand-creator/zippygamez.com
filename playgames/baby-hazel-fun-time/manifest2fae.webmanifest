@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/baby-hazel-fun-time/play/",
+  "name": "Baby Hazel Fun Time - ZippyGamez",
+  "short_name": "Baby Hazel Fun Time",
+  "description": "Play Baby Hazel Fun Time instantly on ZippyGamez.",
+  "start_url": "/playgames/baby-hazel-fun-time/play/",
+  "scope": "/playgames/baby-hazel-fun-time/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/baby-hazel-fun-time-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/baby-hazel-fun-time.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

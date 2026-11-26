@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/little-bouncing-guys/play/",
+  "name": "Little Bouncing Guys - ZippyGamez",
+  "short_name": "Little Bouncing Guys",
+  "description": "Play Little Bouncing Guys instantly on ZippyGamez.",
+  "start_url": "/playgames/little-bouncing-guys/play/",
+  "scope": "/playgames/little-bouncing-guys/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "classics"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/little-bouncing-guys-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/little-bouncing-guys.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

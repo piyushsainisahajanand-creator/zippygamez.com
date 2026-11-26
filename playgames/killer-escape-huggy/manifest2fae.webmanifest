@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/killer-escape-huggy/play/",
+  "name": "Killer Escape Huggy - ZippyGamez",
+  "short_name": "Killer Escape Huggy",
+  "description": "Play Killer Escape Huggy instantly on ZippyGamez.",
+  "start_url": "/playgames/killer-escape-huggy/play/",
+  "scope": "/playgames/killer-escape-huggy/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/killer-escape-huggy-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/killer-escape-huggy.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

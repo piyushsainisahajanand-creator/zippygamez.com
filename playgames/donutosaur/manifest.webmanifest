@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/donutosaur/play/",
+  "name": "Donutosaur - ZippyGamez",
+  "short_name": "Donutosaur",
+  "description": "Play Donutosaur instantly on ZippyGamez.",
+  "start_url": "/playgames/donutosaur/play/",
+  "scope": "/playgames/donutosaur/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/donutosaur-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/donutosaur.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

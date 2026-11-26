@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/squid-game-survival-challenge/play/",
+  "name": "Squid Game Survival Challenge - ZippyGamez",
+  "short_name": "Squid Game Survival Challenge",
+  "description": "Play Squid Game Survival Challenge instantly on ZippyGamez.",
+  "start_url": "/playgames/squid-game-survival-challenge/play/",
+  "scope": "/playgames/squid-game-survival-challenge/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/squid-game-survival-challenge-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/squid-game-survival-challenge.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

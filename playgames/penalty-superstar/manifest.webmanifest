@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/penalty-superstar/play/",
+  "name": "Penalty Superstar - ZippyGamez",
+  "short_name": "Penalty Superstar",
+  "description": "Play Penalty Superstar instantly on ZippyGamez.",
+  "start_url": "/playgames/penalty-superstar/play/",
+  "scope": "/playgames/penalty-superstar/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/penalty-superstar-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/penalty-superstar.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

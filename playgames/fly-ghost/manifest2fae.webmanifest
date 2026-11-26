@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/fly-ghost/play/",
+  "name": "Fly Ghost - ZippyGamez",
+  "short_name": "Fly Ghost",
+  "description": "Play Fly Ghost instantly on ZippyGamez.",
+  "start_url": "/playgames/fly-ghost/play/",
+  "scope": "/playgames/fly-ghost/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/fly-ghost-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/fly-ghost.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

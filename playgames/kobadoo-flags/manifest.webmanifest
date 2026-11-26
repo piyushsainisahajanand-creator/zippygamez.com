@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/kobadoo-flags/play/",
+  "name": "Kobadoo Flags - ZippyGamez",
+  "short_name": "Kobadoo Flags",
+  "description": "Play Kobadoo Flags instantly on ZippyGamez.",
+  "start_url": "/playgames/kobadoo-flags/play/",
+  "scope": "/playgames/kobadoo-flags/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/kobadoo-flags-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/kobadoo-flags.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

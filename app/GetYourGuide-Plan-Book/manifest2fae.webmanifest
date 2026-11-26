@@ -1,0 +1,30 @@
+{
+  "id": "/app/GetYourGuide-Plan-Book/",
+  "name": "GetYourGuide: Plan & Book - ZippyGamez",
+  "short_name": "GetYourGuide: Plan & Book",
+  "description": "Open GetYourGuide: Plan & Book details and official store access on ZippyGamez.",
+  "start_url": "/app/GetYourGuide-Plan-Book/download/",
+  "scope": "/app/GetYourGuide-Plan-Book/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "travel & local"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

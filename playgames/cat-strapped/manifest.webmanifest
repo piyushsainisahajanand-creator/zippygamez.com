@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/cat-strapped/play/",
+  "name": "Cat Strapped - ZippyGamez",
+  "short_name": "Cat Strapped",
+  "description": "Play Cat Strapped instantly on ZippyGamez.",
+  "start_url": "/playgames/cat-strapped/play/",
+  "scope": "/playgames/cat-strapped/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/cat-strapped-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/cat-strapped.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

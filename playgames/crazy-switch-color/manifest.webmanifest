@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/crazy-switch-color/play/",
+  "name": "Crazy Switch Color - ZippyGamez",
+  "short_name": "Crazy Switch Color",
+  "description": "Play Crazy Switch Color instantly on ZippyGamez.",
+  "start_url": "/playgames/crazy-switch-color/play/",
+  "scope": "/playgames/crazy-switch-color/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/crazy-switch-color-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/crazy-switch-color.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

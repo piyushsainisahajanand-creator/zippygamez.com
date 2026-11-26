@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/fast-finders-io/play/",
+  "name": "Fast Finders IO - ZippyGamez",
+  "short_name": "Fast Finders IO",
+  "description": "Play Fast Finders IO instantly on ZippyGamez.",
+  "start_url": "/playgames/fast-finders-io/play/",
+  "scope": "/playgames/fast-finders-io/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/fast-finders-io-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/fast-finders-io.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

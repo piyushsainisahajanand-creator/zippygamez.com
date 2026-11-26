@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/kobadoo-emojis/play/",
+  "name": "Kobadoo Emojis - ZippyGamez",
+  "short_name": "Kobadoo Emojis",
+  "description": "Play Kobadoo Emojis instantly on ZippyGamez.",
+  "start_url": "/playgames/kobadoo-emojis/play/",
+  "scope": "/playgames/kobadoo-emojis/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/kobadoo-emojis-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/kobadoo-emojis.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

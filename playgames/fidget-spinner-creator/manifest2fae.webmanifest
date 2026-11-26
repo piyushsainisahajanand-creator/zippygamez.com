@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/fidget-spinner-creator/play/",
+  "name": "Fidget Spinner Creator - ZippyGamez",
+  "short_name": "Fidget Spinner Creator",
+  "description": "Play Fidget Spinner Creator instantly on ZippyGamez.",
+  "start_url": "/playgames/fidget-spinner-creator/play/",
+  "scope": "/playgames/fidget-spinner-creator/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/fidget-spinner-creator-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/fidget-spinner-creator.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

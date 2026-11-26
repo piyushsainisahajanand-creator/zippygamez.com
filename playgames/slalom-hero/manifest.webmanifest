@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/slalom-hero/play/",
+  "name": "Slalom Hero - ZippyGamez",
+  "short_name": "Slalom Hero",
+  "description": "Play Slalom Hero instantly on ZippyGamez.",
+  "start_url": "/playgames/slalom-hero/play/",
+  "scope": "/playgames/slalom-hero/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/slalom-hero-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/slalom-hero.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

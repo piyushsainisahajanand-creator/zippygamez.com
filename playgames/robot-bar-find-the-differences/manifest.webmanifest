@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/robot-bar-find-the-differences/play/",
+  "name": "Robot Bar - Find the differences - ZippyGamez",
+  "short_name": "Robot Bar - Find the differences",
+  "description": "Play Robot Bar - Find the differences instantly on ZippyGamez.",
+  "start_url": "/playgames/robot-bar-find-the-differences/play/",
+  "scope": "/playgames/robot-bar-find-the-differences/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/robot-bar-find-the-differences-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/robot-bar-find-the-differences.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

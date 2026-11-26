@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/roller-coaster-simulator/play/",
+  "name": "Roller Coaster Simulator - ZippyGamez",
+  "short_name": "Roller Coaster Simulator",
+  "description": "Play Roller Coaster Simulator instantly on ZippyGamez.",
+  "start_url": "/playgames/roller-coaster-simulator/play/",
+  "scope": "/playgames/roller-coaster-simulator/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "racing"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/roller-coaster-simulator-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/roller-coaster-simulator.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

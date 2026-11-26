@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/catch-cats/play/",
+  "name": "Catch Cats - ZippyGamez",
+  "short_name": "Catch Cats",
+  "description": "Play Catch Cats instantly on ZippyGamez.",
+  "start_url": "/playgames/catch-cats/play/",
+  "scope": "/playgames/catch-cats/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/catch-cats-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/catch-cats.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

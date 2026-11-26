@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/block-puzzle-jewel/play/",
+  "name": "Block Puzzle Jewel - ZippyGamez",
+  "short_name": "Block Puzzle Jewel",
+  "description": "Play Block Puzzle Jewel instantly on ZippyGamez.",
+  "start_url": "/playgames/block-puzzle-jewel/play/",
+  "scope": "/playgames/block-puzzle-jewel/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/block-puzzle-jewel-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/block-puzzle-jewel.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

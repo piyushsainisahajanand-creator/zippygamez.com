@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/color-blocks/play/",
+  "name": "Color Blocks - ZippyGamez",
+  "short_name": "Color Blocks",
+  "description": "Play Color Blocks instantly on ZippyGamez.",
+  "start_url": "/playgames/color-blocks/play/",
+  "scope": "/playgames/color-blocks/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/color-blocks-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/color-blocks.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

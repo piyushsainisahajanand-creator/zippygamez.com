@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/cut-the-rope-time-travel/play/",
+  "name": "Cut The Rope: Time Travel - ZippyGamez",
+  "short_name": "Cut The Rope: Time Travel",
+  "description": "Play Cut The Rope: Time Travel instantly on ZippyGamez.",
+  "start_url": "/playgames/cut-the-rope-time-travel/play/",
+  "scope": "/playgames/cut-the-rope-time-travel/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/cut-the-rope-time-travel-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/cut-the-rope-time-travel.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

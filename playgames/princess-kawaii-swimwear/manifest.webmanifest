@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/princess-kawaii-swimwear/play/",
+  "name": "Princess Kawaii Swimwear - ZippyGamez",
+  "short_name": "Princess Kawaii Swimwear",
+  "description": "Play Princess Kawaii Swimwear instantly on ZippyGamez.",
+  "start_url": "/playgames/princess-kawaii-swimwear/play/",
+  "scope": "/playgames/princess-kawaii-swimwear/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/princess-kawaii-swimwear-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/princess-kawaii-swimwear.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

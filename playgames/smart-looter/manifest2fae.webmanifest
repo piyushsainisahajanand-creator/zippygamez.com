@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/smart-looter/play/",
+  "name": "Smart Looter - ZippyGamez",
+  "short_name": "Smart Looter",
+  "description": "Play Smart Looter instantly on ZippyGamez.",
+  "start_url": "/playgames/smart-looter/play/",
+  "scope": "/playgames/smart-looter/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/smart-looter-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/smart-looter.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

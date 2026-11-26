@@ -1,0 +1,30 @@
+{
+  "id": "/app/TikTok-Lite-Series-Curtas/",
+  "name": "TikTok Lite - Séries Curtas - ZippyGamez",
+  "short_name": "TikTok Lite - Séries Curtas",
+  "description": "Open TikTok Lite - Séries Curtas details and official store access on ZippyGamez.",
+  "start_url": "/app/TikTok-Lite-Series-Curtas/download/",
+  "scope": "/app/TikTok-Lite-Series-Curtas/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "social"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

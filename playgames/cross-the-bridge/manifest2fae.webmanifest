@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/cross-the-bridge/play/",
+  "name": "Cross the Bridge - ZippyGamez",
+  "short_name": "Cross the Bridge",
+  "description": "Play Cross the Bridge instantly on ZippyGamez.",
+  "start_url": "/playgames/cross-the-bridge/play/",
+  "scope": "/playgames/cross-the-bridge/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "strategy"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/cross-the-bridge-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/cross-the-bridge.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

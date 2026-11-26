@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/3d-darts/play/",
+  "name": "3D Darts - ZippyGamez",
+  "short_name": "3D Darts",
+  "description": "Play 3D Darts instantly on ZippyGamez.",
+  "start_url": "/playgames/3d-darts/play/",
+  "scope": "/playgames/3d-darts/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/3d-darts-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/3d-darts.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/doodle-game/play/",
+  "name": "Doodle Game - ZippyGamez",
+  "short_name": "Doodle Game",
+  "description": "Play Doodle Game instantly on ZippyGamez.",
+  "start_url": "/playgames/doodle-game/play/",
+  "scope": "/playgames/doodle-game/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/doodle-game-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/doodle-game.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

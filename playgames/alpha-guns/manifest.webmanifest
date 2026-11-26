@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/alpha-guns/play/",
+  "name": "Alpha Guns - ZippyGamez",
+  "short_name": "Alpha Guns",
+  "description": "Play Alpha Guns instantly on ZippyGamez.",
+  "start_url": "/playgames/alpha-guns/play/",
+  "scope": "/playgames/alpha-guns/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/alpha-guns-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/alpha-guns.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

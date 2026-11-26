@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/one-card-game/play/",
+  "name": "ONE Card Game - ZippyGamez",
+  "short_name": "ONE Card Game",
+  "description": "Play ONE Card Game instantly on ZippyGamez.",
+  "start_url": "/playgames/one-card-game/play/",
+  "scope": "/playgames/one-card-game/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "board"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/one-card-game-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/one-card-game.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

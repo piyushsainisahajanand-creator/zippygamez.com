@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/journey-through-hell/play/",
+  "name": "Journey Through Hell - ZippyGamez",
+  "short_name": "Journey Through Hell",
+  "description": "Play Journey Through Hell instantly on ZippyGamez.",
+  "start_url": "/playgames/journey-through-hell/play/",
+  "scope": "/playgames/journey-through-hell/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/journey-through-hell-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/journey-through-hell.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

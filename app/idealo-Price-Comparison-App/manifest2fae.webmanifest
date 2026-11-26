@@ -1,0 +1,30 @@
+{
+  "id": "/app/idealo-Price-Comparison-App/",
+  "name": "idealo: Price Comparison App - ZippyGamez",
+  "short_name": "idealo: Price Comparison App",
+  "description": "Open idealo: Price Comparison App details and official store access on ZippyGamez.",
+  "start_url": "/app/idealo-Price-Comparison-App/download/",
+  "scope": "/app/idealo-Price-Comparison-App/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

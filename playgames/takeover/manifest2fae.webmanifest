@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/takeover/play/",
+  "name": "Takeover - ZippyGamez",
+  "short_name": "Takeover",
+  "description": "Play Takeover instantly on ZippyGamez.",
+  "start_url": "/playgames/takeover/play/",
+  "scope": "/playgames/takeover/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/takeover-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/takeover.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

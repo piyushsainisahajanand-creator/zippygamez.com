@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/rope-bowing-puzzle/play/",
+  "name": "Rope Bowing Puzzle - ZippyGamez",
+  "short_name": "Rope Bowing Puzzle",
+  "description": "Play Rope Bowing Puzzle instantly on ZippyGamez.",
+  "start_url": "/playgames/rope-bowing-puzzle/play/",
+  "scope": "/playgames/rope-bowing-puzzle/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/rope-bowing-puzzle-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/rope-bowing-puzzle.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

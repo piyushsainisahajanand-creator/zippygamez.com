@@ -1,0 +1,30 @@
+{
+  "id": "/app/Vintify--Vintage-Photo-Editor/",
+  "name": "Vintify : Vintage Photo Editor - ZippyGamez",
+  "short_name": "Vintify : Vintage Photo Editor",
+  "description": "Open Vintify : Vintage Photo Editor details and official access options on ZippyGamez.",
+  "start_url": "/app/Vintify--Vintage-Photo-Editor/download/",
+  "scope": "/app/Vintify--Vintage-Photo-Editor/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png?v=full-icon-20260709",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pwa-icon-512.png?v=full-icon-20260709",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

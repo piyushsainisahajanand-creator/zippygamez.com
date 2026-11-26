@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/bike-mania-3-on-ice/play/",
+  "name": "Bike Mania 3 On Ice - ZippyGamez",
+  "short_name": "Bike Mania 3 On Ice",
+  "description": "Play Bike Mania 3 On Ice instantly on ZippyGamez.",
+  "start_url": "/playgames/bike-mania-3-on-ice/play/",
+  "scope": "/playgames/bike-mania-3-on-ice/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "racing"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/bike-mania-3-on-ice-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/bike-mania-3-on-ice.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

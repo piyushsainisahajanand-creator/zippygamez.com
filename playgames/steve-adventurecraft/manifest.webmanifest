@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/steve-adventurecraft/play/",
+  "name": "Steve Adventurecraft - ZippyGamez",
+  "short_name": "Steve Adventurecraft",
+  "description": "Play Steve Adventurecraft instantly on ZippyGamez.",
+  "start_url": "/playgames/steve-adventurecraft/play/",
+  "scope": "/playgames/steve-adventurecraft/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/steve-adventurecraft-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/steve-adventurecraft.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

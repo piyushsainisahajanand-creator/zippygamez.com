@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/balls-collect-bounce-and-build/play/",
+  "name": "Balls Collect - Bounce & Build! - ZippyGamez",
+  "short_name": "Balls Collect - Bounce & Build",
+  "description": "Play Balls Collect - Bounce & Build! instantly on ZippyGamez.",
+  "start_url": "/playgames/balls-collect-bounce-and-build/play/",
+  "scope": "/playgames/balls-collect-bounce-and-build/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "classics"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/balls-collect-bounce-and-build-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/balls-collect-bounce-and-build.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

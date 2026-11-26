@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/super-pop-it/play/",
+  "name": "Super Pop It - ZippyGamez",
+  "short_name": "Super Pop It",
+  "description": "Play Super Pop It instantly on ZippyGamez.",
+  "start_url": "/playgames/super-pop-it/play/",
+  "scope": "/playgames/super-pop-it/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/super-pop-it-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/super-pop-it.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

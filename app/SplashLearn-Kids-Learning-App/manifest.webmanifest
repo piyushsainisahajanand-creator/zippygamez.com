@@ -1,0 +1,30 @@
+{
+  "id": "/app/SplashLearn-Kids-Learning-App/",
+  "name": "SplashLearn: Kids Learning App - ZippyGamez",
+  "short_name": "SplashLearn: Kids Learning App",
+  "description": "Open SplashLearn: Kids Learning App details and official access options on ZippyGamez.",
+  "start_url": "/app/SplashLearn-Kids-Learning-App/download/",
+  "scope": "/app/SplashLearn-Kids-Learning-App/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png?v=full-icon-20260709",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pwa-icon-512.png?v=full-icon-20260709",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

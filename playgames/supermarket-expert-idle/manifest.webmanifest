@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/supermarket-expert-idle/play/",
+  "name": "Supermarket Expert Idle - ZippyGamez",
+  "short_name": "Supermarket Expert Idle",
+  "description": "Play Supermarket Expert Idle instantly on ZippyGamez.",
+  "start_url": "/playgames/supermarket-expert-idle/play/",
+  "scope": "/playgames/supermarket-expert-idle/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "simulation"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/supermarket-expert-idle-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/supermarket-expert-idle.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

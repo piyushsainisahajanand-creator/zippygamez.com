@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/mahjong-master-2/play/",
+  "name": "Mahjong Master 2 - ZippyGamez",
+  "short_name": "Mahjong Master 2",
+  "description": "Play Mahjong Master 2 instantly on ZippyGamez.",
+  "start_url": "/playgames/mahjong-master-2/play/",
+  "scope": "/playgames/mahjong-master-2/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/mahjong-master-2-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/mahjong-master-2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ZippyGamez - Apps, Play Games, Store Games &amp; Articles</title>
+    <meta
+      name="description"
+      content="ZippyGamez helps users explore useful apps, instant browser games, trending store games, and helpful articles with a clean, mobile-friendly experience."
+    />
+    <link rel="canonical" href="index.html" />
+    <link rel="icon" type="image/png" sizes="64x64" href="assets/icons/zippygamez-com-pwa-192.png" />
+    <link rel="preload" href="assets/fonts/nunito-sans-latin-var.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="assets/css/home-3d-theme937a.css?v=no-green-cta-20260824" />
+    <link rel="stylesheet" href="assets/css/home-premium2388.css?v=no-green-cta-20260824" />
+    <link rel="stylesheet" href="assets/css/site-searchfe0d.css?v=search-layer-fix-20260711" data-site-search-style />
+    <link rel="stylesheet" href="assets/css/footer-policyb073.css?v=no-green-cta-20260824" />
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4Z55DECL87"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag('js', new Date());
+
+  // Google Analytics
+  gtag('config', 'G-4Z55DECL87');
+
+  // Google Ads
+  gtag('config', 'AW-18595091092');
+
+  // Google Ads conversion helper for zippygamez.com
+  function gtag_report_conversion(url) {
+    var callback = function () { if (typeof url != 'undefined') { window.location = url; } };
+    gtag('event', 'conversion', { 'send_to': 'AW-18595091092/EtmpCLf8l78dEJSl6qJF', 'event_callback': callback });
+    return false;
+  }
+  // Fire the conversion when a visitor clicks a Play / Download / store button (once per click; the page's own flow continues)
+  (function () {
+    var SEL = '#playBtn, #launchPlayBtn, .btn-down, .sticky-download-cta__button, .gm-store-btn, a[href*="play.google.com"], a[href*="apps.apple.com"]';
+    var last = 0;
+    document.addEventListener('click', function (e) {
+      var t = e.target && e.target.closest ? e.target.closest(SEL) : null;
+      if (!t) return;
+      var now = Date.now();
+      if (now - last < 1500) return;
+      last = now;
+      try { gtag_report_conversion(); } catch (err) {}
+    }, true);
+  })();
+</script>
+    <script src="assets/js/site-discovery96e6.js?v=smooth-project-20260811" defer></script>
+    <script src="assets/js/site-searchfe0d.js?v=search-layer-fix-20260711" defer></script>
+    <script src="assets/js/home-premiumb476.js?v=home-all-catalog-shuffle-v1-20260711" defer></script>
+<script type="module" src="assets/js/home-3d-scene406e.js?v=frame-coalesced-20260712"></script>
+  <!-- Google Funding Choices: consent message (shows only once a message is published in AdSense) -->
+<script async src="https://fundingchoicesmessages.google.com/i/pub-5523912402347259?ers=1"></script>
+<script>(function(){function signalGooglefcPresent(){if(!window.frames["googlefcPresent"]){if(document.body){var i=document.createElement("iframe");i.style="width:0;height:0;border:none;z-index:-1000;left:-1000px;top:-1000px;display:none";i.name="googlefcPresent";document.body.appendChild(i);}else{setTimeout(signalGooglefcPresent,0);}}}signalGooglefcPresent();})();</script>
+</head>
+
+  <body class="homepage-v2">
+    <header class="site-header mh-site-header">
+      <div class="header-container mh-header-container">
+        <a href="index.html" class="logo mh-brand" aria-label="ZippyGamez home">
+          <span class="mh-brand-mark" aria-hidden="true">Z</span>
+          <span class="mh-brand-copy">
+            <span class="mh-brand-name">ZippyGamez</span>
+            <span class="mh-brand-tagline">Apps. Games. Guides.</span>
+          </span>
+        </a>
+        <nav class="nav-menu" aria-label="Primary navigation">
+          <a class="mh-nav-primary" href="app/index.html" data-nav="apps">
+            <img src="assets/icons/home-apps8cd0.svg?v=header-icons-v2-20260711" width="24" height="24" alt="" aria-hidden="true" />
+            <span>Apps</span>
+          </a>
+          <a class="mh-nav-primary" href="playgames/index.html" data-nav="play">
+            <img src="assets/icons/home-play8cd0.svg?v=header-icons-v2-20260711" width="24" height="24" alt="" aria-hidden="true" />
+            <span>Play Games</span>
+          </a>
+          <a class="mh-nav-primary" href="topgames/index.html" data-nav="store">
+            <img src="assets/icons/home-store8cd0.svg?v=header-icons-v2-20260711" width="24" height="24" alt="" aria-hidden="true" />
+            <span>Store Games</span>
+          </a>
+          <a class="mh-nav-primary" href="article/index.html" data-nav="articles">
+            <img src="assets/icons/home-articles8cd0.svg?v=header-icons-v2-20260711" width="24" height="24" alt="" aria-hidden="true" />
+            <span>Articles</span>
+          </a>
+          <span class="mh-nav-divider" aria-hidden="true"></span>
+          <a class="mh-nav-utility" href="page/About-Us/index.html" data-nav="about">About</a>
+          <a class="mh-nav-utility" href="page/Contact-Us/index.html" data-nav="contact">Contact</a>
+        </nav>
+        <div class="mh-header-actions">
+          <button class="mh-header-search" id="headerSearchToggle" type="button" aria-label="Search ZippyGamez">
+            <span class="mh-header-search__icon" aria-hidden="true"></span>
+            <span class="mh-header-search__label">Search</span>
+          </button>
+          <a class="mh-header-cta" href="playgames/index.html">
+            <span>Play Now</span><span aria-hidden="true">&rarr;</span>
+          </a>
+          <div class="mobile-icons">
+            <button onclick="toggleMenu()" id="menuToggle" aria-label="Open navigation" aria-expanded="false" type="button"></button>
+          </div>
+        </div>
+      </div>
+      <div class="mobile-menu mh-mobile-menu" id="mobileMenu" aria-label="Mobile navigation">
+        <a href="app/index.html">Apps</a>
+        <a href="playgames/index.html">Play Games</a>
+        <a href="topgames/index.html">Store Games</a>
+        <a href="article/index.html">Articles</a>
+        <a href="page/About-Us/index.html">About Us</a>
+        <a href="page/privacy-policy/index.html">Privacy Policy</a>
+        <a href="page/terms-of-use/index.html">Terms of Use</a>
+        <a href="page/Contact-Us/index.html">Contact Us</a>
+      </div>
+    </header>
+
+    <main class="home-page">
+      <section class="mh-hero" aria-labelledby="home-title">
+        <div class="mh-shell mh-hero__layout">
+          <div class="mh-hero__copy">
+            <span class="mh-eyebrow">Apps and gaming discovery</span>
+            <h1 id="home-title">Find something useful, fun, or worth <span>exploring next.</span></h1>
+            <p class="mh-hero__description">
+              Search ZippyGamez for useful apps, playable browser games, popular store games, and practical articles from one clear discovery hub.
+            </p>
+            <div class="mh-hero-search" data-site-search data-search-variant="hero"></div>
+            <div class="mh-hero__actions" aria-label="Explore ZippyGamez sections">
+              <a class="mh-button mh-button--primary" href="app/index.html">Explore Apps</a>
+              <a class="mh-button" href="playgames/index.html">Play Browser Games</a>
+              <a class="mh-button" href="topgames/index.html">Top Store Games</a>
+              <a class="mh-button" href="article/index.html">Read Articles</a>
+            </div>
+          </div>
+
+          <div class="mh-hero__visual">
+            <div class="mh-discovery-scene" data-home-3d-scene role="img" aria-label="Interactive 3D gaming controller, handheld screen, apps, games, store, and article tiles">
+              <div class="mh-discovery-scene__fallback" aria-hidden="true">
+                <span class="mh-scene-fallback-device"></span>
+                <span class="mh-scene-fallback-controller"></span>
+                <span class="mh-scene-fallback-tile mh-scene-fallback-tile--apps">A</span>
+                <span class="mh-scene-fallback-tile mh-scene-fallback-tile--play">G</span>
+                <span class="mh-scene-fallback-tile mh-scene-fallback-tile--store">S</span>
+                <span class="mh-scene-fallback-tile mh-scene-fallback-tile--articles">G</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <nav class="mh-quick-nav" aria-label="Quick discovery links">
+        <div class="mh-shell mh-quick-nav__grid">
+          <a class="mh-quick-link" href="app/index.html">
+            <span class="mh-quick-link__icon" aria-hidden="true"><img src="assets/icons/home-apps8cd0.svg?v=header-icons-v2-20260711" alt="" /></span>
+            <span><strong>Browse Apps</strong><small>Useful tools and everyday apps</small></span>
+            <span class="mh-quick-link__arrow" aria-hidden="true">&rsaquo;</span>
+          </a>
+          <a class="mh-quick-link" href="playgames/index.html">
+            <span class="mh-quick-link__icon" aria-hidden="true"><img src="assets/icons/home-play8cd0.svg?v=header-icons-v2-20260711" alt="" /></span>
+            <span><strong>Play Games</strong><small>Instant browser entertainment</small></span>
+            <span class="mh-quick-link__arrow" aria-hidden="true">&rsaquo;</span>
+          </a>
+          <a class="mh-quick-link" href="topgames/index.html">
+            <span class="mh-quick-link__icon" aria-hidden="true"><img src="assets/icons/home-store8cd0.svg?v=header-icons-v2-20260711" alt="" /></span>
+            <span><strong>Store Games</strong><small>Popular mobile game details</small></span>
+            <span class="mh-quick-link__arrow" aria-hidden="true">&rsaquo;</span>
+          </a>
+          <a class="mh-quick-link" href="article/index.html">
+            <span class="mh-quick-link__icon" aria-hidden="true"><img src="assets/icons/home-articles8cd0.svg?v=header-icons-v2-20260711" alt="" /></span>
+            <span><strong>Read Articles</strong><small>Guides, lists, and practical tips</small></span>
+            <span class="mh-quick-link__arrow" aria-hidden="true">&rsaquo;</span>
+          </a>
+        </div>
+      </nav>
+
+      <section class="mh-content-section mh-content-section--apps" data-home-section="apps" data-reveal aria-labelledby="home-apps-title">
+        <div class="mh-shell">
+          <div class="mh-section-heading">
+            <div>
+              <span class="mh-section-heading__eyebrow">Apps discovery</span>
+              <h2 id="home-apps-title">Apps for work, creativity, and everyday life</h2>
+              <p>Explore real app listings by category and open the existing detail page for screenshots, information, and official store access.</p>
+            </div>
+            <div class="mh-section-heading__actions">
+              <span class="mh-result-count" data-result-count aria-live="polite">Loading items</span>
+              <a class="mh-section-link" href="app/index.html" data-view-all data-mobile-view-all-link="apps">View All Apps</a>
+            </div>
+          </div>
+          <div class="mh-category-chips" data-category-chips aria-label="Filter Apps by category"></div>
+          <div class="mh-content-grid" data-home-grid aria-live="polite"></div>
+          <div class="mh-section-view-all" data-mobile-view-all-target="apps"></div>
+        </div>
+      </section>
+
+      <section class="mh-content-section mh-content-section--playgames" data-home-section="playgames" data-reveal aria-labelledby="home-play-title">
+        <div class="mh-shell">
+          <div class="mh-section-heading">
+            <div>
+              <span class="mh-section-heading__eyebrow">Instant browser games</span>
+              <h2 id="home-play-title">Jump into games made for quick browser play</h2>
+              <p>Choose a category, inspect the game details, and continue through the existing play flow on mobile, tablet, or desktop.</p>
+            </div>
+            <div class="mh-section-heading__actions">
+              <span class="mh-result-count" data-result-count aria-live="polite">Loading items</span>
+              <a class="mh-section-link" href="playgames/index.html" data-view-all data-mobile-view-all-link="playgames">View All Play Games</a>
+            </div>
+          </div>
+          <div class="mh-category-chips" data-category-chips aria-label="Filter Play Games by category"></div>
+          <div class="mh-content-grid" data-home-grid aria-live="polite"></div>
+          <div class="mh-section-view-all" data-mobile-view-all-target="playgames"></div>
+        </div>
+      </section>
+
+      <section class="mh-content-section mh-content-section--topgames" data-home-section="topgames" data-reveal aria-labelledby="home-store-title">
+        <div class="mh-shell">
+          <div class="mh-section-heading">
+            <div>
+              <span class="mh-section-heading__eyebrow">Top store games</span>
+              <h2 id="home-store-title">Discover popular games across every major genre</h2>
+              <p>Browse the current store-game catalog while keeping every existing detail route and official destination unchanged.</p>
+            </div>
+            <div class="mh-section-heading__actions">
+              <span class="mh-result-count" data-result-count aria-live="polite">Loading items</span>
+              <a class="mh-section-link" href="topgames/index.html" data-view-all data-mobile-view-all-link="topgames">View All Store Games</a>
+            </div>
+          </div>
+          <div class="mh-category-chips" data-category-chips aria-label="Filter Top Store Games by category"></div>
+          <div class="mh-content-grid" data-home-grid aria-live="polite"></div>
+          <div class="mh-section-view-all" data-mobile-view-all-target="topgames"></div>
+        </div>
+      </section>
+
+      <section class="mh-support" data-reveal aria-labelledby="home-trust-title">
+        <div class="mh-shell mh-bento">
+          <article class="mh-bento-card mh-bento-card--intro">
+            <span class="mh-bento-card__number">01</span>
+            <h2 id="home-trust-title">A clearer way to explore apps, games, and guides</h2>
+            <p>ZippyGamez keeps section labels, destination actions, and content types clear so visitors can understand where each link leads.</p>
+          </article>
+          <article class="mh-bento-card mh-bento-card--navigation">
+            <span class="mh-bento-card__number">02</span>
+            <h3>Clear navigation</h3>
+            <p>Apps, playable games, store games, and articles remain separated into predictable sections and routes.</p>
+          </article>
+          <article class="mh-bento-card mh-bento-card--mobile">
+            <span class="mh-bento-card__number">03</span>
+            <h3>Mobile-first browsing</h3>
+            <p>Responsive grids, readable cards, and touch-friendly controls support phones, tablets, and desktop screens.</p>
+          </article>
+          <article class="mh-bento-card mh-bento-card--sources">
+            <span class="mh-bento-card__number">04</span>
+            <h3>Official destinations</h3>
+            <p>External app and store actions continue to use the existing official destination links provided on each detail page.</p>
+          </article>
+          <article class="mh-bento-card mh-bento-card--guidance">
+            <span class="mh-bento-card__number">05</span>
+            <h3>Helpful context</h3>
+            <p>Review available details, screenshots, and instructions before choosing to open a game or visit an external store.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="mh-faq" data-reveal aria-labelledby="home-faq-title">
+        <div class="mh-shell mh-faq-layout">
+          <div class="mh-faq-intro">
+            <span class="mh-section-heading__eyebrow">FAQ</span>
+            <h2 id="home-faq-title">Common questions, answered clearly</h2>
+            <p>Use search for a specific title or browse each section and category when you want broader recommendations.</p>
+          </div>
+          <div class="mh-faq-list">
+            <details class="mh-faq-item" open>
+              <summary>What can I find on ZippyGamez?</summary>
+              <p>You can browse app detail pages, playable browser games, store-game information, and published articles from the four main sections.</p>
+            </details>
+            <details class="mh-faq-item">
+              <summary>Can I search the complete website catalog?</summary>
+              <p>Yes. Site search checks the complete published Apps, Play Games, Top Store Games, and Articles collections rather than only the cards visible on this homepage.</p>
+            </details>
+            <details class="mh-faq-item">
+              <summary>Do browser games require a separate download?</summary>
+              <p>Playable games use the existing browser-game flow. Open a game detail page and follow its Play action to continue.</p>
+            </details>
+            <details class="mh-faq-item">
+              <summary>Where do app and store buttons lead?</summary>
+              <p>Detail pages show the available information and use the existing external store destinations when those links are available.</p>
+            </details>
+          </div>
+        </div>
+      </section>
+
+      <section class="mh-final" data-reveal aria-labelledby="home-final-title">
+        <div class="mh-shell mh-final-panel">
+          <div>
+            <h2 id="home-final-title">Ready to explore something new?</h2>
+            <p>Choose a section or use the search bar above to find an app, game, or article by name and category.</p>
+          </div>
+          <div class="mh-final-actions">
+            <a href="app/index.html">Apps</a>
+            <a href="playgames/index.html">Play Games</a>
+            <a href="topgames/index.html">Store Games</a>
+            <a href="article/index.html">Articles</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer footer-v2" aria-label="Site footer">
+      <div class="footer-v2-shell">
+        <section class="footer-v2-card">
+          <span class="brand-wordmark footer-v2-logo" role="img" aria-label="ZippyGamez"><span class="brand-wordmark-mark" aria-hidden="true">Z</span><span class="brand-wordmark-name">ZippyGamez</span></span>
+          <h2>ZippyGamez</h2>
+          <p>ZippyGamez helps users explore apps, playable browser games, store game details, and helpful articles in a clear, mobile-friendly layout.</p>
+          <p class="footer-v2-operator">ZippyGamez.com is operated by ZippyGamez PTE. LTD..</p>
+        </section>
+        <nav class="footer-v2-card" aria-label="Footer quick links">
+          <h2>Quick Links</h2>
+          <ul>
+            <li><a class="footer-link" href="index.html">Home</a></li>
+            <li><a class="footer-link" href="app/index.html">Apps</a></li>
+            <li><a class="footer-link" href="playgames/index.html">Play Games</a></li>
+            <li><a class="footer-link" href="topgames/index.html">Store Games</a></li>
+            <li><a class="footer-link" href="article/index.html">Articles</a></li>
+          </ul>
+        </nav>
+        <nav class="footer-v2-card" aria-label="Footer legal links">
+          <h2>Legal</h2>
+          <ul>
+            <li><a class="footer-link" href="page/privacy-policy/index.html">Privacy Policy</a></li>
+            <li><a class="footer-link" href="page/terms-of-use/index.html">Terms of Use</a></li>
+            <li><a class="footer-link" href="page/disclaimer/index.html">Disclaimer</a></li>
+            <li><a class="footer-link" href="page/About-Us/index.html">About Us</a></li>
+            <li><a class="footer-link" href="page/Contact-Us/index.html">Contact Us</a></li>
+          </ul>
+        </nav>
+        <section class="footer-v2-card footer-v2-contact">
+          <h2>Contact</h2>
+          <a class="footer-v2-email-link" href="cdn-cgi/l/email-protection.html#97f4f8f9e3f6f4e3d7e3fff2f5f2e4f6f3e4b9f4f8fa">
+            <span class="footer-v2-mail-icon" aria-hidden="true"></span>
+            <span class="footer-v2-email">contact@zippygamez.com</span>
+          </a>
+          <p class="footer-v2-note">External app, game, and store links are provided for user convenience. Trademarks belong to their respective owners.</p>
+        </section>
+      </div>
+      <div class="footer-v2-bottom">
+        <span>&copy; 2026 <strong>ZippyGamez</strong>. All rights reserved.</span>
+        <span>ZippyGamez.com is operated by ZippyGamez PTE. LTD..</span>
+      </div>
+    </footer>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/universal-gam-adsbb35.js?v=web-interstitial-20260713" defer></script>
+</body>
+</html>

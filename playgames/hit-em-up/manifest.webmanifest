@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/hit-em-up/play/",
+  "name": "Hit Em Up - ZippyGamez",
+  "short_name": "Hit Em Up",
+  "description": "Play Hit Em Up instantly on ZippyGamez.",
+  "start_url": "/playgames/hit-em-up/play/",
+  "scope": "/playgames/hit-em-up/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/hit-em-up-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/hit-em-up.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

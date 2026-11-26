@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/slalom-ski-simulator/play/",
+  "name": "Slalom Ski Simulator - ZippyGamez",
+  "short_name": "Slalom Ski Simulator",
+  "description": "Play Slalom Ski Simulator instantly on ZippyGamez.",
+  "start_url": "/playgames/slalom-ski-simulator/play/",
+  "scope": "/playgames/slalom-ski-simulator/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/slalom-ski-simulator-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/slalom-ski-simulator.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

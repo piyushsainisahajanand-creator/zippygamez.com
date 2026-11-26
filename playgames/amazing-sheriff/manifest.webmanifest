@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/amazing-sheriff/play/",
+  "name": "Amazing Sheriff - ZippyGamez",
+  "short_name": "Amazing Sheriff",
+  "description": "Play Amazing Sheriff instantly on ZippyGamez.",
+  "start_url": "/playgames/amazing-sheriff/play/",
+  "scope": "/playgames/amazing-sheriff/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/amazing-sheriff-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/amazing-sheriff.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/dizzy-sushi/play/",
+  "name": "Dizzy Sushi - ZippyGamez",
+  "short_name": "Dizzy Sushi",
+  "description": "Play Dizzy Sushi instantly on ZippyGamez.",
+  "start_url": "/playgames/dizzy-sushi/play/",
+  "scope": "/playgames/dizzy-sushi/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/dizzy-sushi-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/dizzy-sushi.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

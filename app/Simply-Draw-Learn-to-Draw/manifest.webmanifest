@@ -1,0 +1,30 @@
+{
+  "id": "/app/Simply-Draw-Learn-to-Draw/",
+  "name": "Simply Draw: Learn to Draw - ZippyGamez",
+  "short_name": "Simply Draw: Learn to Draw",
+  "description": "Open Simply Draw: Learn to Draw details and official store access on ZippyGamez.",
+  "start_url": "/app/Simply-Draw-Learn-to-Draw/download/",
+  "scope": "/app/Simply-Draw-Learn-to-Draw/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/slimoban-2/play/",
+  "name": "Slimoban 2 - ZippyGamez",
+  "short_name": "Slimoban 2",
+  "description": "Play Slimoban 2 instantly on ZippyGamez.",
+  "start_url": "/playgames/slimoban-2/play/",
+  "scope": "/playgames/slimoban-2/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/slimoban-2-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/slimoban-2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

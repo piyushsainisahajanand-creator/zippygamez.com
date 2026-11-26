@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/jewel-blocks-quest/play/",
+  "name": "Jewel Blocks Quest - ZippyGamez",
+  "short_name": "Jewel Blocks Quest",
+  "description": "Play Jewel Blocks Quest instantly on ZippyGamez.",
+  "start_url": "/playgames/jewel-blocks-quest/play/",
+  "scope": "/playgames/jewel-blocks-quest/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/jewel-blocks-quest-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/jewel-blocks-quest.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/neon-block/play/",
+  "name": "Neon Block - ZippyGamez",
+  "short_name": "Neon Block",
+  "description": "Play Neon Block instantly on ZippyGamez.",
+  "start_url": "/playgames/neon-block/play/",
+  "scope": "/playgames/neon-block/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/neon-block-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/neon-block.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

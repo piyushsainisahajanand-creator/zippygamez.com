@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/space-tower-defense/play/",
+  "name": "Space Tower Defense - ZippyGamez",
+  "short_name": "Space Tower Defense",
+  "description": "Play Space Tower Defense instantly on ZippyGamez.",
+  "start_url": "/playgames/space-tower-defense/play/",
+  "scope": "/playgames/space-tower-defense/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/space-tower-defense-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/space-tower-defense.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

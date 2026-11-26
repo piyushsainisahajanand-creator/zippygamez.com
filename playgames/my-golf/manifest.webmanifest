@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/my-golf/play/",
+  "name": "My Golf - ZippyGamez",
+  "short_name": "My Golf",
+  "description": "Play My Golf instantly on ZippyGamez.",
+  "start_url": "/playgames/my-golf/play/",
+  "scope": "/playgames/my-golf/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/my-golf-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/my-golf.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

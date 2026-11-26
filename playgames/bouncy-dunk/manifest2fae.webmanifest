@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/bouncy-dunk/play/",
+  "name": "Bouncy Dunk - ZippyGamez",
+  "short_name": "Bouncy Dunk",
+  "description": "Play Bouncy Dunk instantly on ZippyGamez.",
+  "start_url": "/playgames/bouncy-dunk/play/",
+  "scope": "/playgames/bouncy-dunk/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/bouncy-dunk-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/bouncy-dunk.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

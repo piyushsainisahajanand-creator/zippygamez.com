@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/buzzy-bugs/play/",
+  "name": "Buzzy Bugs - ZippyGamez",
+  "short_name": "Buzzy Bugs",
+  "description": "Play Buzzy Bugs instantly on ZippyGamez.",
+  "start_url": "/playgames/buzzy-bugs/play/",
+  "scope": "/playgames/buzzy-bugs/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "junior"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/buzzy-bugs-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/buzzy-bugs.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "/app/Buns-and-Bounce-Home-Screen/",
+  "name": "Buns and Bounce Home Screen - ZippyGamez",
+  "short_name": "Buns and Bounce Home Screen",
+  "description": "Open Buns and Bounce Home Screen details and official store access on ZippyGamez.",
+  "start_url": "/app/Buns-and-Bounce-Home-Screen/download/",
+  "scope": "/app/Buns-and-Bounce-Home-Screen/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "tools"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

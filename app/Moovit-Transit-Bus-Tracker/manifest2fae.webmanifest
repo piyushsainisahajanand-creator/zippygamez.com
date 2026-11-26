@@ -1,0 +1,30 @@
+{
+  "id": "/app/Moovit-Transit-Bus-Tracker/",
+  "name": "Moovit: Transit & Bus Tracker - ZippyGamez",
+  "short_name": "Moovit: Transit & Bus Tracker",
+  "description": "Open Moovit: Transit & Bus Tracker details and official store access on ZippyGamez.",
+  "start_url": "/app/Moovit-Transit-Bus-Tracker/download/",
+  "scope": "/app/Moovit-Transit-Bus-Tracker/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "maps & navigation"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

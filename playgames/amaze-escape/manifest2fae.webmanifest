@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/amaze-escape/play/",
+  "name": "Amaze Escape - ZippyGamez",
+  "short_name": "Amaze Escape",
+  "description": "Play Amaze Escape instantly on ZippyGamez.",
+  "start_url": "/playgames/amaze-escape/play/",
+  "scope": "/playgames/amaze-escape/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/amaze-escape-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/amaze-escape.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/design-my-home-makeover/play/",
+  "name": "Design My Home Makeover - ZippyGamez",
+  "short_name": "Design My Home Makeover",
+  "description": "Play Design My Home Makeover instantly on ZippyGamez.",
+  "start_url": "/playgames/design-my-home-makeover/play/",
+  "scope": "/playgames/design-my-home-makeover/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "junior"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/design-my-home-makeover-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/design-my-home-makeover.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

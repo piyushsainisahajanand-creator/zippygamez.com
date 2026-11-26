@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/red-impostor-vs-crew/play/",
+  "name": "Red Impostor vs. Crew - ZippyGamez",
+  "short_name": "Red Impostor vs. Crew",
+  "description": "Play Red Impostor vs. Crew instantly on ZippyGamez.",
+  "start_url": "/playgames/red-impostor-vs-crew/play/",
+  "scope": "/playgames/red-impostor-vs-crew/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/red-impostor-vs-crew-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/red-impostor-vs-crew.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

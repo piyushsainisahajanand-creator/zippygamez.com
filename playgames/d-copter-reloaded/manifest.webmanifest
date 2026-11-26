@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/d-copter-reloaded/play/",
+  "name": "D. Copter Reloaded - ZippyGamez",
+  "short_name": "D. Copter Reloaded",
+  "description": "Play D. Copter Reloaded instantly on ZippyGamez.",
+  "start_url": "/playgames/d-copter-reloaded/play/",
+  "scope": "/playgames/d-copter-reloaded/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/d-copter-reloaded-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/d-copter-reloaded.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

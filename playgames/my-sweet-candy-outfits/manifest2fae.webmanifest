@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/my-sweet-candy-outfits/play/",
+  "name": "My Sweet Candy Outfits - ZippyGamez",
+  "short_name": "My Sweet Candy Outfits",
+  "description": "Play My Sweet Candy Outfits instantly on ZippyGamez.",
+  "start_url": "/playgames/my-sweet-candy-outfits/play/",
+  "scope": "/playgames/my-sweet-candy-outfits/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/my-sweet-candy-outfits-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/my-sweet-candy-outfits.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

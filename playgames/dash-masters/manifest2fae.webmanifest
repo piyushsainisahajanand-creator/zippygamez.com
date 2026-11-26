@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/dash-masters/play/",
+  "name": "Dash Masters - ZippyGamez",
+  "short_name": "Dash Masters",
+  "description": "Play Dash Masters instantly on ZippyGamez.",
+  "start_url": "/playgames/dash-masters/play/",
+  "scope": "/playgames/dash-masters/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/dash-masters-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/dash-masters.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

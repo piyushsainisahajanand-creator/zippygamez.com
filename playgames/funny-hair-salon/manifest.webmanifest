@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/funny-hair-salon/play/",
+  "name": "Funny Hair Salon - ZippyGamez",
+  "short_name": "Funny Hair Salon",
+  "description": "Play Funny Hair Salon instantly on ZippyGamez.",
+  "start_url": "/playgames/funny-hair-salon/play/",
+  "scope": "/playgames/funny-hair-salon/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/funny-hair-salon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/funny-hair-salon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

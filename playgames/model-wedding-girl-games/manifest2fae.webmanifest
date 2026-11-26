@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/model-wedding-girl-games/play/",
+  "name": "Model Wedding - Girl Games - ZippyGamez",
+  "short_name": "Model Wedding - Girl Games",
+  "description": "Play Model Wedding - Girl Games instantly on ZippyGamez.",
+  "start_url": "/playgames/model-wedding-girl-games/play/",
+  "scope": "/playgames/model-wedding-girl-games/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/model-wedding-girl-games-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/model-wedding-girl-games.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

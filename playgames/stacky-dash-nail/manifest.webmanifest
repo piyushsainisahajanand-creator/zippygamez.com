@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/stacky-dash-nail/play/",
+  "name": "Stacky Dash Nail - ZippyGamez",
+  "short_name": "Stacky Dash Nail",
+  "description": "Play Stacky Dash Nail instantly on ZippyGamez.",
+  "start_url": "/playgames/stacky-dash-nail/play/",
+  "scope": "/playgames/stacky-dash-nail/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/stacky-dash-nail-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/stacky-dash-nail.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

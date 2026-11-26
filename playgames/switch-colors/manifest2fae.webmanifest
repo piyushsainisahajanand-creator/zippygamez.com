@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/switch-colors/play/",
+  "name": "Switch Colors - ZippyGamez",
+  "short_name": "Switch Colors",
+  "description": "Play Switch Colors instantly on ZippyGamez.",
+  "start_url": "/playgames/switch-colors/play/",
+  "scope": "/playgames/switch-colors/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/switch-colors-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/switch-colors.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

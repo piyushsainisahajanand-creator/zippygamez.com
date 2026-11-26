@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/noob-huggy-kissiy/play/",
+  "name": "Noob Huggy Kissiy - ZippyGamez",
+  "short_name": "Noob Huggy Kissiy",
+  "description": "Play Noob Huggy Kissiy instantly on ZippyGamez.",
+  "start_url": "/playgames/noob-huggy-kissiy/play/",
+  "scope": "/playgames/noob-huggy-kissiy/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/noob-huggy-kissiy-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/noob-huggy-kissiy.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "/app/Phone-Cleaner-AI-Cleaner/",
+  "name": "Phone Cleaner - AI Cleaner - ZippyGamez",
+  "short_name": "Phone Cleaner - AI Cleaner",
+  "description": "Open Phone Cleaner - AI Cleaner details and official store access on ZippyGamez.",
+  "start_url": "/app/Phone-Cleaner-AI-Cleaner/download/",
+  "scope": "/app/Phone-Cleaner-AI-Cleaner/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "tools"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

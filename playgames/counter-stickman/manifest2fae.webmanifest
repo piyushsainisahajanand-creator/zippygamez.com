@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/counter-stickman/play/",
+  "name": "Battle Simluator - Counter Stickman - ZippyGamez",
+  "short_name": "Battle Simluator - Counter Stickman",
+  "description": "Play Battle Simluator - Counter Stickman instantly on ZippyGamez.",
+  "start_url": "/playgames/counter-stickman/play/",
+  "scope": "/playgames/counter-stickman/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/counter-stickman-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/counter-stickman.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

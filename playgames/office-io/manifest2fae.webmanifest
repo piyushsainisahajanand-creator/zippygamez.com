@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/office-io/play/",
+  "name": "Office.io - ZippyGamez",
+  "short_name": "Office.io",
+  "description": "Play Office.io instantly on ZippyGamez.",
+  "start_url": "/playgames/office-io/play/",
+  "scope": "/playgames/office-io/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "strategy"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/office-io-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/office-io.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

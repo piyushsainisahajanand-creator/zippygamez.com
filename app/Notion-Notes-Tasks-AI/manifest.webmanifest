@@ -1,0 +1,30 @@
+{
+  "id": "/app/Notion-Notes-Tasks-AI/",
+  "name": "Notion: Notes, Tasks, AI - ZippyGamez",
+  "short_name": "Notion: Notes, Tasks, AI",
+  "description": "Open Notion: Notes, Tasks, AI details and official access options on ZippyGamez.",
+  "start_url": "/app/Notion-Notes-Tasks-AI/download/",
+  "scope": "/app/Notion-Notes-Tasks-AI/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png?v=full-icon-20260709",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pwa-icon-512.png?v=full-icon-20260709",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

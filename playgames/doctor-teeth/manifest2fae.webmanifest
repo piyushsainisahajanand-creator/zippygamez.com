@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/doctor-teeth/play/",
+  "name": "Doctor Teeth - ZippyGamez",
+  "short_name": "Doctor Teeth",
+  "description": "Play Doctor Teeth instantly on ZippyGamez.",
+  "start_url": "/playgames/doctor-teeth/play/",
+  "scope": "/playgames/doctor-teeth/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/doctor-teeth-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/doctor-teeth.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

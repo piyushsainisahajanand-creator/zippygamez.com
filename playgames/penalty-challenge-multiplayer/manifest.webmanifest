@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/penalty-challenge-multiplayer/play/",
+  "name": "Penalty Challenge Multiplayer - ZippyGamez",
+  "short_name": "Penalty Challenge Multiplayer",
+  "description": "Play Penalty Challenge Multiplayer instantly on ZippyGamez.",
+  "start_url": "/playgames/penalty-challenge-multiplayer/play/",
+  "scope": "/playgames/penalty-challenge-multiplayer/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "multiplayer"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/penalty-challenge-multiplayer-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/penalty-challenge-multiplayer.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

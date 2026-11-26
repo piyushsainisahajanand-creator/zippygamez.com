@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/flip-goal/play/",
+  "name": "Flip Goal - ZippyGamez",
+  "short_name": "Flip Goal",
+  "description": "Play Flip Goal instantly on ZippyGamez.",
+  "start_url": "/playgames/flip-goal/play/",
+  "scope": "/playgames/flip-goal/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/flip-goal-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/flip-goal.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

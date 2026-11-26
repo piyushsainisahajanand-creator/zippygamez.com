@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/ant-maze/play/",
+  "name": "Ant Maze - ZippyGamez",
+  "short_name": "Ant Maze",
+  "description": "Play Ant Maze instantly on ZippyGamez.",
+  "start_url": "/playgames/ant-maze/play/",
+  "scope": "/playgames/ant-maze/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/ant-maze-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/ant-maze.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/galaxy-warriors/play/",
+  "name": "Galaxy Warriors - ZippyGamez",
+  "short_name": "Galaxy Warriors",
+  "description": "Play Galaxy Warriors instantly on ZippyGamez.",
+  "start_url": "/playgames/galaxy-warriors/play/",
+  "scope": "/playgames/galaxy-warriors/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/galaxy-warriors-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/galaxy-warriors.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

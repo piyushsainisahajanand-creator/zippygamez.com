@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/maze-game-kids/play/",
+  "name": "Maze Game Kids - ZippyGamez",
+  "short_name": "Maze Game Kids",
+  "description": "Play Maze Game Kids instantly on ZippyGamez.",
+  "start_url": "/playgames/maze-game-kids/play/",
+  "scope": "/playgames/maze-game-kids/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "junior"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/maze-game-kids-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/maze-game-kids.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

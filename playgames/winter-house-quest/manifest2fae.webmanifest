@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/winter-house-quest/play/",
+  "name": "Winter House Quest - ZippyGamez",
+  "short_name": "Winter House Quest",
+  "description": "Play Winter House Quest instantly on ZippyGamez.",
+  "start_url": "/playgames/winter-house-quest/play/",
+  "scope": "/playgames/winter-house-quest/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/winter-house-quest-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/winter-house-quest.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

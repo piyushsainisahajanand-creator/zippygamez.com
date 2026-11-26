@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/funny-shopping-supermarket/play/",
+  "name": "Funny Shopping Supermarket - ZippyGamez",
+  "short_name": "Funny Shopping Supermarket",
+  "description": "Play Funny Shopping Supermarket instantly on ZippyGamez.",
+  "start_url": "/playgames/funny-shopping-supermarket/play/",
+  "scope": "/playgames/funny-shopping-supermarket/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "junior"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/funny-shopping-supermarket-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/funny-shopping-supermarket.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

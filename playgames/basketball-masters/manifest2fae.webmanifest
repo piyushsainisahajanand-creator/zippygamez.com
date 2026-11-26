@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/basketball-masters/play/",
+  "name": "Basketball Master - ZippyGamez",
+  "short_name": "Basketball Master",
+  "description": "Play Basketball Master instantly on ZippyGamez.",
+  "start_url": "/playgames/basketball-masters/play/",
+  "scope": "/playgames/basketball-masters/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/basketball-masters-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/basketball-masters.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/lol-surprise-insta-party-divas/play/",
+  "name": "LOL Surprise Insta Party Divas - ZippyGamez",
+  "short_name": "LOL Surprise Insta Party Divas",
+  "description": "Play LOL Surprise Insta Party Divas instantly on ZippyGamez.",
+  "start_url": "/playgames/lol-surprise-insta-party-divas/play/",
+  "scope": "/playgames/lol-surprise-insta-party-divas/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/lol-surprise-insta-party-divas-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/lol-surprise-insta-party-divas.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "/app/DoorDash-Food-Grocery-More/",
+  "name": "DoorDash: Food, Grocery, More - ZippyGamez",
+  "short_name": "DoorDash: Food, Grocery, More",
+  "description": "Open DoorDash: Food, Grocery, More details and official store access on ZippyGamez.",
+  "start_url": "/app/DoorDash-Food-Grocery-More/download/",
+  "scope": "/app/DoorDash-Food-Grocery-More/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "food & drink"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

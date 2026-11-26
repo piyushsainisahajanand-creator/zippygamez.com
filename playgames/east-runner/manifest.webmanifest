@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/east-runner/play/",
+  "name": "East Runner - ZippyGamez",
+  "short_name": "East Runner",
+  "description": "Play East Runner instantly on ZippyGamez.",
+  "start_url": "/playgames/east-runner/play/",
+  "scope": "/playgames/east-runner/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/east-runner-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/east-runner.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

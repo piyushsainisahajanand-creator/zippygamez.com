@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/doll-queen-designer/play/",
+  "name": "Doll Queen Designer - ZippyGamez",
+  "short_name": "Doll Queen Designer",
+  "description": "Play Doll Queen Designer instantly on ZippyGamez.",
+  "start_url": "/playgames/doll-queen-designer/play/",
+  "scope": "/playgames/doll-queen-designer/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "girls"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/doll-queen-designer-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/doll-queen-designer.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

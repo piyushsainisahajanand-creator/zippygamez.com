@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/hockey-hero/play/",
+  "name": "Hockey Hero - ZippyGamez",
+  "short_name": "Hockey Hero",
+  "description": "Play Hockey Hero instantly on ZippyGamez.",
+  "start_url": "/playgames/hockey-hero/play/",
+  "scope": "/playgames/hockey-hero/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/hockey-hero-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/hockey-hero.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/openttd/play/",
+  "name": "Open TTD - ZippyGamez",
+  "short_name": "Open TTD",
+  "description": "Play Open TTD instantly on ZippyGamez.",
+  "start_url": "/playgames/openttd/play/",
+  "scope": "/playgames/openttd/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "simulation"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/openttd-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/openttd.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

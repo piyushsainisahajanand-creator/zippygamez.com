@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/football-heads/play/",
+  "name": "Football Heads - ZippyGamez",
+  "short_name": "Football Heads",
+  "description": "Play Football Heads instantly on ZippyGamez.",
+  "start_url": "/playgames/football-heads/play/",
+  "scope": "/playgames/football-heads/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/football-heads-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/football-heads.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "/app/Notepad-Notebook-Notes-app/",
+  "name": "Notes: Color Notepad, Notebook - ZippyGamez",
+  "short_name": "Notes: Color Notepad, Notebook",
+  "description": "Open Notes: Color Notepad, Notebook details and official access options on ZippyGamez.",
+  "start_url": "/app/Notepad-Notebook-Notes-app/download/",
+  "scope": "/app/Notepad-Notebook-Notes-app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png?v=full-icon-20260709",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pwa-icon-512.png?v=full-icon-20260709",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

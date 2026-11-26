@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/battalion-commander-1917/play/",
+  "name": "Battalion Commander 1917 - ZippyGamez",
+  "short_name": "Battalion Commander 1917",
+  "description": "Play Battalion Commander 1917 instantly on ZippyGamez.",
+  "start_url": "/playgames/battalion-commander-1917/play/",
+  "scope": "/playgames/battalion-commander-1917/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/battalion-commander-1917-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/battalion-commander-1917.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

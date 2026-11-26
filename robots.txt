@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /playgames/*/play/
+
+Sitemap: https://zippygamez.com/sitemap.xml

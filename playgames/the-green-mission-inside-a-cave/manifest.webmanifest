@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/the-green-mission-inside-a-cave/play/",
+  "name": "The Green Mission Inside a Cave - ZippyGamez",
+  "short_name": "The Green Mission Inside a Cave",
+  "description": "Play The Green Mission Inside a Cave instantly on ZippyGamez.",
+  "start_url": "/playgames/the-green-mission-inside-a-cave/play/",
+  "scope": "/playgames/the-green-mission-inside-a-cave/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/the-green-mission-inside-a-cave-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/the-green-mission-inside-a-cave.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

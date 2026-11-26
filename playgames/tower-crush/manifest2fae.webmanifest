@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/tower-crush/play/",
+  "name": "Tower Crush - ZippyGamez",
+  "short_name": "Tower Crush",
+  "description": "Play Tower Crush instantly on ZippyGamez.",
+  "start_url": "/playgames/tower-crush/play/",
+  "scope": "/playgames/tower-crush/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "strategy"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/tower-crush-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/tower-crush.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

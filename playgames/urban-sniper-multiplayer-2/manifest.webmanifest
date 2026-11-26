@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/urban-sniper-multiplayer-2/play/",
+  "name": "Urban Sniper Multiplayer 2 - ZippyGamez",
+  "short_name": "Urban Sniper Multiplayer 2",
+  "description": "Play Urban Sniper Multiplayer 2 instantly on ZippyGamez.",
+  "start_url": "/playgames/urban-sniper-multiplayer-2/play/",
+  "scope": "/playgames/urban-sniper-multiplayer-2/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "multiplayer"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/urban-sniper-multiplayer-2-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/urban-sniper-multiplayer-2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

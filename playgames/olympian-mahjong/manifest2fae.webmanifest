@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/olympian-mahjong/play/",
+  "name": "Olympian Mahjong - ZippyGamez",
+  "short_name": "Olympian Mahjong",
+  "description": "Play Olympian Mahjong instantly on ZippyGamez.",
+  "start_url": "/playgames/olympian-mahjong/play/",
+  "scope": "/playgames/olympian-mahjong/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/olympian-mahjong-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/olympian-mahjong.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

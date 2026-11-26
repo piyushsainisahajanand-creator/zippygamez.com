@@ -1,0 +1,30 @@
+{
+  "id": "/app/Shazam-Find-Music-Concerts/",
+  "name": "Shazam: Find Music & Concerts - ZippyGamez",
+  "short_name": "Shazam: Find Music & Concerts",
+  "description": "Open Shazam: Find Music & Concerts details and official store access on ZippyGamez.",
+  "start_url": "/app/Shazam-Find-Music-Concerts/download/",
+  "scope": "/app/Shazam-Find-Music-Concerts/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "music & audio"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/tic-tac-toe-multiplayer/play/",
+  "name": "Tic Tac Toe Multiplayer - ZippyGamez",
+  "short_name": "Tic Tac Toe Multiplayer",
+  "description": "Play Tic Tac Toe Multiplayer instantly on ZippyGamez.",
+  "start_url": "/playgames/tic-tac-toe-multiplayer/play/",
+  "scope": "/playgames/tic-tac-toe-multiplayer/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "board"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/tic-tac-toe-multiplayer-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/tic-tac-toe-multiplayer.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

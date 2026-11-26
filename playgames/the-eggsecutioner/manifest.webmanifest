@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/the-eggsecutioner/play/",
+  "name": "The Eggsecutioner - ZippyGamez",
+  "short_name": "The Eggsecutioner",
+  "description": "Play The Eggsecutioner instantly on ZippyGamez.",
+  "start_url": "/playgames/the-eggsecutioner/play/",
+  "scope": "/playgames/the-eggsecutioner/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/the-eggsecutioner-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/the-eggsecutioner.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

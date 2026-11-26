@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/going-right/play/",
+  "name": "Going Right - ZippyGamez",
+  "short_name": "Going Right",
+  "description": "Play Going Right instantly on ZippyGamez.",
+  "start_url": "/playgames/going-right/play/",
+  "scope": "/playgames/going-right/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/going-right-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/going-right.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

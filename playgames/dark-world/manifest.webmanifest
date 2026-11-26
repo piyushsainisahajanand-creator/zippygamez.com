@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/dark-world/play/",
+  "name": "Dark World - ZippyGamez",
+  "short_name": "Dark World",
+  "description": "Play Dark World instantly on ZippyGamez.",
+  "start_url": "/playgames/dark-world/play/",
+  "scope": "/playgames/dark-world/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/dark-world-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/dark-world.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

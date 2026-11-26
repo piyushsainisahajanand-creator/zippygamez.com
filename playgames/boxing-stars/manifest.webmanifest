@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/boxing-stars/play/",
+  "name": "Boxing Stars - ZippyGamez",
+  "short_name": "Boxing Stars",
+  "description": "Play Boxing Stars instantly on ZippyGamez.",
+  "start_url": "/playgames/boxing-stars/play/",
+  "scope": "/playgames/boxing-stars/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/boxing-stars-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/boxing-stars.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

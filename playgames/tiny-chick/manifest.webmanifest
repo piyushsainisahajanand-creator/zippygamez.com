@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/tiny-chick/play/",
+  "name": "Tiny Chick - ZippyGamez",
+  "short_name": "Tiny Chick",
+  "description": "Play Tiny Chick instantly on ZippyGamez.",
+  "start_url": "/playgames/tiny-chick/play/",
+  "scope": "/playgames/tiny-chick/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/tiny-chick-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/tiny-chick.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

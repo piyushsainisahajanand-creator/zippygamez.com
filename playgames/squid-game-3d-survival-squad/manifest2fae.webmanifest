@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/squid-game-3d-survival-squad/play/",
+  "name": "Squid Game 3D Survival Squad - ZippyGamez",
+  "short_name": "Squid Game 3D Survival Squad",
+  "description": "Play Squid Game 3D Survival Squad instantly on ZippyGamez.",
+  "start_url": "/playgames/squid-game-3d-survival-squad/play/",
+  "scope": "/playgames/squid-game-3d-survival-squad/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/squid-game-3d-survival-squad-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/squid-game-3d-survival-squad.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/bowling-hero-multiplayer/play/",
+  "name": "Bowling Hero Multiplayer - ZippyGamez",
+  "short_name": "Bowling Hero Multiplayer",
+  "description": "Play Bowling Hero Multiplayer instantly on ZippyGamez.",
+  "start_url": "/playgames/bowling-hero-multiplayer/play/",
+  "scope": "/playgames/bowling-hero-multiplayer/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "multiplayer"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/bowling-hero-multiplayer-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/bowling-hero-multiplayer.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

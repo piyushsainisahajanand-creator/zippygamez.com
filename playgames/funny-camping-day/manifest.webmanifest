@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/funny-camping-day/play/",
+  "name": "Funny Camping Day - ZippyGamez",
+  "short_name": "Funny Camping Day",
+  "description": "Play Funny Camping Day instantly on ZippyGamez.",
+  "start_url": "/playgames/funny-camping-day/play/",
+  "scope": "/playgames/funny-camping-day/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "junior"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/funny-camping-day-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/funny-camping-day.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

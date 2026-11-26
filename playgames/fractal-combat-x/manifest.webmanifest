@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/fractal-combat-x/play/",
+  "name": "Fractal Combat X - ZippyGamez",
+  "short_name": "Fractal Combat X",
+  "description": "Play Fractal Combat X instantly on ZippyGamez.",
+  "start_url": "/playgames/fractal-combat-x/play/",
+  "scope": "/playgames/fractal-combat-x/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/fractal-combat-x-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/fractal-combat-x.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

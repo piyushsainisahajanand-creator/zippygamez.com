@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/ninja-in-cape/play/",
+  "name": "Ninja in Cape - ZippyGamez",
+  "short_name": "Ninja in Cape",
+  "description": "Play Ninja in Cape instantly on ZippyGamez.",
+  "start_url": "/playgames/ninja-in-cape/play/",
+  "scope": "/playgames/ninja-in-cape/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/ninja-in-cape-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/ninja-in-cape.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

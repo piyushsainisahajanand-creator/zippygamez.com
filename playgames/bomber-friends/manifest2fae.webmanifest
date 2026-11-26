@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/bomber-friends/play/",
+  "name": "Bomber Friends - ZippyGamez",
+  "short_name": "Bomber Friends",
+  "description": "Play Bomber Friends instantly on ZippyGamez.",
+  "start_url": "/playgames/bomber-friends/play/",
+  "scope": "/playgames/bomber-friends/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "multiplayer"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/bomber-friends-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/bomber-friends.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

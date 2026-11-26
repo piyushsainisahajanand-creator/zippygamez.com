@@ -1,0 +1,30 @@
+{
+  "id": "/app/Coinbase-Buy-BTC-ETH-SOL/",
+  "name": "Coinbase: Buy Crypto & Stocks - ZippyGamez",
+  "short_name": "Coinbase: Buy Crypto & Stocks",
+  "description": "Open Coinbase: Buy Crypto & Stocks details and official access options on ZippyGamez.",
+  "start_url": "/app/Coinbase-Buy-BTC-ETH-SOL/download/",
+  "scope": "/app/Coinbase-Buy-BTC-ETH-SOL/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png?v=full-icon-20260709",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pwa-icon-512.png?v=full-icon-20260709",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

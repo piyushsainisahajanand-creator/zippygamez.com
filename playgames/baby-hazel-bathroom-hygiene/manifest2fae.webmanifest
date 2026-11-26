@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/baby-hazel-bathroom-hygiene/play/",
+  "name": "Baby Hazel Bathroom Hygiene - ZippyGamez",
+  "short_name": "Baby Hazel Bathroom Hygiene",
+  "description": "Play Baby Hazel Bathroom Hygiene instantly on ZippyGamez.",
+  "start_url": "/playgames/baby-hazel-bathroom-hygiene/play/",
+  "scope": "/playgames/baby-hazel-bathroom-hygiene/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/baby-hazel-bathroom-hygiene-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/baby-hazel-bathroom-hygiene.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

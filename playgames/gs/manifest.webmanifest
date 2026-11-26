@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/gs/play/",
+  "name": "GS - ZippyGamez",
+  "short_name": "GS",
+  "description": "Play GS instantly on ZippyGamez.",
+  "start_url": "/playgames/gs/play/",
+  "scope": "/playgames/gs/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/gs-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/gs.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

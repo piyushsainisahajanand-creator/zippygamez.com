@@ -1,0 +1,30 @@
+{
+  "id": "/app/Fluzy-Learn-Language-with-AI/",
+  "name": "Fluzy: Learn Language with AI - ZippyGamez",
+  "short_name": "Fluzy: Learn Language with AI",
+  "description": "Open Fluzy: Learn Language with AI details and official store access on ZippyGamez.",
+  "start_url": "/app/Fluzy-Learn-Language-with-AI/download/",
+  "scope": "/app/Fluzy-Learn-Language-with-AI/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

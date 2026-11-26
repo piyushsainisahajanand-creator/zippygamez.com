@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/baby-hazel-birthday-party/play/",
+  "name": "Baby Hazel Birthday Party - ZippyGamez",
+  "short_name": "Baby Hazel Birthday Party",
+  "description": "Play Baby Hazel Birthday Party instantly on ZippyGamez.",
+  "start_url": "/playgames/baby-hazel-birthday-party/play/",
+  "scope": "/playgames/baby-hazel-birthday-party/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/baby-hazel-birthday-party-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/baby-hazel-birthday-party.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

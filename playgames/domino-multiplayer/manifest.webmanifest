@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/domino-multiplayer/play/",
+  "name": "Domino Multiplayer - ZippyGamez",
+  "short_name": "Domino Multiplayer",
+  "description": "Play Domino Multiplayer instantly on ZippyGamez.",
+  "start_url": "/playgames/domino-multiplayer/play/",
+  "scope": "/playgames/domino-multiplayer/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "board"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/domino-multiplayer-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/domino-multiplayer.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

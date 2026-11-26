@@ -1,0 +1,30 @@
+{
+  "id": "/app/HBO-Max-Stream-TV-Movies/",
+  "name": "HBO Max: Stream TV & Movies - ZippyGamez",
+  "short_name": "HBO Max: Stream TV & Movies",
+  "description": "Open HBO Max: Stream TV & Movies details and official store access on ZippyGamez.",
+  "start_url": "/app/HBO-Max-Stream-TV-Movies/download/",
+  "scope": "/app/HBO-Max-Stream-TV-Movies/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

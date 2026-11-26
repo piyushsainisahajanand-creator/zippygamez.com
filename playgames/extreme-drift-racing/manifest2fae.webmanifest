@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/extreme-drift-racing/play/",
+  "name": "Extreme Drift Racing - ZippyGamez",
+  "short_name": "Extreme Drift Racing",
+  "description": "Play Extreme Drift Racing instantly on ZippyGamez.",
+  "start_url": "/playgames/extreme-drift-racing/play/",
+  "scope": "/playgames/extreme-drift-racing/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "racing"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/extreme-drift-racing-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/extreme-drift-racing.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

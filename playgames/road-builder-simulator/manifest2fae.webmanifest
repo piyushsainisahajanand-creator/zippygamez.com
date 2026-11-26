@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/road-builder-simulator/play/",
+  "name": "Road Builder Simulator - ZippyGamez",
+  "short_name": "Road Builder Simulator",
+  "description": "Play Road Builder Simulator instantly on ZippyGamez.",
+  "start_url": "/playgames/road-builder-simulator/play/",
+  "scope": "/playgames/road-builder-simulator/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "classics"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/road-builder-simulator-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/road-builder-simulator.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

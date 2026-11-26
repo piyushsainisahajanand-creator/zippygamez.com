@@ -1,0 +1,30 @@
+{
+  "id": "/app/inDrive-Viajes-y-Pedidos/",
+  "name": "inDrive: Viajes y Pedidos - ZippyGamez",
+  "short_name": "inDrive: Viajes y Pedidos",
+  "description": "Open inDrive: Viajes y Pedidos details and official store access on ZippyGamez.",
+  "start_url": "/app/inDrive-Viajes-y-Pedidos/download/",
+  "scope": "/app/inDrive-Viajes-y-Pedidos/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "maps & navigation"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

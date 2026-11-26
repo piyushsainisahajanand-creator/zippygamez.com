@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/get-10/play/",
+  "name": "Get 10 - ZippyGamez",
+  "short_name": "Get 10",
+  "description": "Play Get 10 instantly on ZippyGamez.",
+  "start_url": "/playgames/get-10/play/",
+  "scope": "/playgames/get-10/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/get-10-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/get-10.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

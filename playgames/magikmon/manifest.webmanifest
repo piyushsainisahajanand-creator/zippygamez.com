@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/magikmon/play/",
+  "name": "Magikmon - ZippyGamez",
+  "short_name": "Magikmon",
+  "description": "Play Magikmon instantly on ZippyGamez.",
+  "start_url": "/playgames/magikmon/play/",
+  "scope": "/playgames/magikmon/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/magikmon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/magikmon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

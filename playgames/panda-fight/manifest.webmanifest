@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/panda-fight/play/",
+  "name": "Panda Fight - ZippyGamez",
+  "short_name": "Panda Fight",
+  "description": "Play Panda Fight instantly on ZippyGamez.",
+  "start_url": "/playgames/panda-fight/play/",
+  "scope": "/playgames/panda-fight/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/panda-fight-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/panda-fight.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

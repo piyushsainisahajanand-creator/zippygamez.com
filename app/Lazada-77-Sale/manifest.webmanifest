@@ -1,0 +1,30 @@
+{
+  "id": "/app/Lazada-77-Sale/",
+  "name": "Lazada 7.7 Sale - ZippyGamez",
+  "short_name": "Lazada 7.7 Sale",
+  "description": "Open Lazada 7.7 Sale details and official store access on ZippyGamez.",
+  "start_url": "/app/Lazada-77-Sale/download/",
+  "scope": "/app/Lazada-77-Sale/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

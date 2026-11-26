@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/noob-huggy/play/",
+  "name": "Noob Huggy - ZippyGamez",
+  "short_name": "Noob Huggy",
+  "description": "Play Noob Huggy instantly on ZippyGamez.",
+  "start_url": "/playgames/noob-huggy/play/",
+  "scope": "/playgames/noob-huggy/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/noob-huggy-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/noob-huggy.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

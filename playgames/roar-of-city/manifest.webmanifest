@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/roar-of-city/play/",
+  "name": "Roar of City - ZippyGamez",
+  "short_name": "Roar of City",
+  "description": "Play Roar of City instantly on ZippyGamez.",
+  "start_url": "/playgames/roar-of-city/play/",
+  "scope": "/playgames/roar-of-city/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/roar-of-city-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/roar-of-city.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

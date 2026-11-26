@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/space-war/play/",
+  "name": "Space War - ZippyGamez",
+  "short_name": "Space War",
+  "description": "Play Space War instantly on ZippyGamez.",
+  "start_url": "/playgames/space-war/play/",
+  "scope": "/playgames/space-war/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/space-war-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/space-war.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

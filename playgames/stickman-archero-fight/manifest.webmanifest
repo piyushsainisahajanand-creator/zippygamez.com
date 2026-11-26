@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/stickman-archero-fight/play/",
+  "name": "Stickman Archero Fight - ZippyGamez",
+  "short_name": "Stickman Archero Fight",
+  "description": "Play Stickman Archero Fight instantly on ZippyGamez.",
+  "start_url": "/playgames/stickman-archero-fight/play/",
+  "scope": "/playgames/stickman-archero-fight/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/stickman-archero-fight-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/stickman-archero-fight.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

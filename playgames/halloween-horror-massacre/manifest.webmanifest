@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/halloween-horror-massacre/play/",
+  "name": "Halloween Horror Massacre - ZippyGamez",
+  "short_name": "Halloween Horror Massacre",
+  "description": "Play Halloween Horror Massacre instantly on ZippyGamez.",
+  "start_url": "/playgames/halloween-horror-massacre/play/",
+  "scope": "/playgames/halloween-horror-massacre/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/halloween-horror-massacre-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/halloween-horror-massacre.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/street-ball-jam/play/",
+  "name": "Street Ball Jam - ZippyGamez",
+  "short_name": "Street Ball Jam",
+  "description": "Play Street Ball Jam instantly on ZippyGamez.",
+  "start_url": "/playgames/street-ball-jam/play/",
+  "scope": "/playgames/street-ball-jam/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/street-ball-jam-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/street-ball-jam.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

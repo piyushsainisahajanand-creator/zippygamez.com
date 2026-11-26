@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/pop-it-infinity/play/",
+  "name": "Pop it Infinity - ZippyGamez",
+  "short_name": "Pop it Infinity",
+  "description": "Play Pop it Infinity instantly on ZippyGamez.",
+  "start_url": "/playgames/pop-it-infinity/play/",
+  "scope": "/playgames/pop-it-infinity/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "junior"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/pop-it-infinity-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/pop-it-infinity.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

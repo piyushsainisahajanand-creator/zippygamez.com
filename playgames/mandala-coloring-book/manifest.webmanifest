@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/mandala-coloring-book/play/",
+  "name": "Mandala Coloring Book - ZippyGamez",
+  "short_name": "Mandala Coloring Book",
+  "description": "Play Mandala Coloring Book instantly on ZippyGamez.",
+  "start_url": "/playgames/mandala-coloring-book/play/",
+  "scope": "/playgames/mandala-coloring-book/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/mandala-coloring-book-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/mandala-coloring-book.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/quiz-squid-round/play/",
+  "name": "Quiz Squid Round - ZippyGamez",
+  "short_name": "Quiz Squid Round",
+  "description": "Play Quiz Squid Round instantly on ZippyGamez.",
+  "start_url": "/playgames/quiz-squid-round/play/",
+  "scope": "/playgames/quiz-squid-round/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/quiz-squid-round-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/quiz-squid-round.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

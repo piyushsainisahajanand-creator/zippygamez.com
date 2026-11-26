@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/super-drive/play/",
+  "name": "Super Drive - ZippyGamez",
+  "short_name": "Super Drive",
+  "description": "Play Super Drive instantly on ZippyGamez.",
+  "start_url": "/playgames/super-drive/play/",
+  "scope": "/playgames/super-drive/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/super-drive-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/super-drive.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/black-and-white-escape-cars/play/",
+  "name": "Black & White Escape Cars - ZippyGamez",
+  "short_name": "Black & White Escape Cars",
+  "description": "Play Black & White Escape Cars instantly on ZippyGamez.",
+  "start_url": "/playgames/black-and-white-escape-cars/play/",
+  "scope": "/playgames/black-and-white-escape-cars/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/black-and-white-escape-cars-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/black-and-white-escape-cars.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

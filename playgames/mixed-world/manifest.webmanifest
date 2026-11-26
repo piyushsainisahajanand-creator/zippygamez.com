@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/mixed-world/play/",
+  "name": "Mixed World - ZippyGamez",
+  "short_name": "Mixed World",
+  "description": "Play Mixed World instantly on ZippyGamez.",
+  "start_url": "/playgames/mixed-world/play/",
+  "scope": "/playgames/mixed-world/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/mixed-world-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/mixed-world.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

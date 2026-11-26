@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/idle-zoo/play/",
+  "name": "Idle Zoo - ZippyGamez",
+  "short_name": "Idle Zoo",
+  "description": "Play Idle Zoo instantly on ZippyGamez.",
+  "start_url": "/playgames/idle-zoo/play/",
+  "scope": "/playgames/idle-zoo/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "simulation"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/idle-zoo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/idle-zoo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

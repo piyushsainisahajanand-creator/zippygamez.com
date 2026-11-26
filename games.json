@@ -1,0 +1,4002 @@
+[
+  {
+    "url": "/topgames/Free-Fire",
+    "title": "Free Fire MAX",
+    "icon": "https://play-lh.googleusercontent.com/SDYv1Th3VdjfM0MwObMIvH3L2I2owroB3leEtbMrFJZYRklHroxw_AspZZmno_8DBdiar3d03kHsyjBsnvcdlg=s256-rw",
+    "slug": "Free-Fire",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Free-Fire.webp"
+  },
+  {
+    "url": "/topgames/Clash-of-Clans",
+    "title": "Clash of Clans",
+    "icon": "https://play-lh.googleusercontent.com/gX_sXesdzLc9C4tancLSiJKZom_gLi7Uc5cMfaC-zaY0gvFbXV_DTRZFNqlVx6USMWkqglYgr-k0NeaUq5zE=s256-rw",
+    "slug": "Clash-of-Clans",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Clash-of-Clans.webp"
+  },
+  {
+    "url": "/topgames/Royal-Match",
+    "title": "Royal Match",
+    "icon": "https://play-lh.googleusercontent.com/RBnqZ3q_jjOREX6v49DGe4BzKGNwJMcv8aBNDeDuMRFQdyX6rA7S-k5N39ggj43XeKFGLmxuH1jOYONfbUHmYA=s256-rw",
+    "slug": "Royal-Match",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Royal-Match.webp"
+  },
+  {
+    "url": "/topgames/Last-WarSurvival-Game",
+    "title": "Last War:Survival Game",
+    "icon": "https://play-lh.googleusercontent.com/pugw09Lkr4dsuVQWRFVp82xe9YXD1ST5wPJRS-aj2Msr5oq297sR0KESQUHLgwR-e5IyHwnqTe_f00FAokXlGMc=s256-rw",
+    "slug": "Last-WarSurvival-Game",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Last-WarSurvival-Game.webp"
+  },
+  {
+    "url": "/topgames/8-Ball-Pool",
+    "title": "8 Ball Pool",
+    "icon": "https://play-lh.googleusercontent.com/5hG8agj5a8tQpyc4ZqXWlZgu_1v-q7gTa-mLumbnvZKss1CzeRXojIe6demFv9YoCq5jYUhYN8UPNpT_elMeMA=s256-rw",
+    "slug": "8-Ball-Pool",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/8-Ball-Pool.webp"
+  },
+  {
+    "url": "/topgames/Lords-Mobile-Kingdom-Wars",
+    "title": "Lords Mobile: Kingdom Wars",
+    "icon": "https://play-lh.googleusercontent.com/BPHlpTC8NaMmV8dHqH6u7A5EpdkPIK2LnuCtUa6DhvdtqMLjjiGV6alSd-lAm0bDIYQA4--M_QyKXumk95HCsg=s256-rw",
+    "slug": "Lords-Mobile-Kingdom-Wars",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Lords-Mobile-Kingdom-Wars.webp"
+  },
+  {
+    "url": "/topgames/Candy-Crush-Saga",
+    "title": "Candy Crush Saga",
+    "icon": "https://play-lh.googleusercontent.com/UnJeAEhtjxDyRdwv2steMYn-AeiV1pJ_COfsqNGy9xBqF9LWtCHGU_k51K7rOecvk-Y591tmW_ZrlO3W7Sbg=s256-rw",
+    "slug": "Candy-Crush-Saga",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Candy-Crush-Saga.webp"
+  },
+  {
+    "url": "/topgames/Clash-Royale",
+    "title": "Clash Royale",
+    "icon": "https://play-lh.googleusercontent.com/z0rspJKftanEI7MA4WOdypbaaHfeKy4UjoawRGKf4Ys3v6LrrcleZWOfms7XK-J33Oqyfm3DlFd4Z_eKWafVFg=s256-rw",
+    "slug": "Clash-Royale",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Clash-Royale.webp"
+  },
+  {
+    "url": "/topgames/Township",
+    "title": "Township",
+    "icon": "https://play-lh.googleusercontent.com/R57nBnvKx2fcs-Ct1wKW2j85S4f8h2dPsn2L9jO4G0pxZIHRozdwPRZ_tAvT6Kh-P8I7A6CDJFu8cYuvBzccvIU=s256-rw",
+    "slug": "Township",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Township.webp"
+  },
+  {
+    "url": "/topgames/Roblox",
+    "title": "Roblox",
+    "icon": "https://play-lh.googleusercontent.com/QqZj22aXblAyYDxLQw-Gg0ycW0QkKhrDnwqgERZU9BMRXZnMlgXfq-94sikG5mEpt_I0lzZxcUzfLblmQgwYzUE=s256-rw",
+    "slug": "Roblox",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Roblox.webp"
+  },
+  {
+    "url": "/topgames/Candy-Crush-Soda-Saga",
+    "title": "Candy Crush Soda Saga",
+    "icon": "https://play-lh.googleusercontent.com/kPPbmjP4QOq8D7Pt0xdPG8-NeyD6zcJ0bTeSLI7eqSylss7UNmek_Ik_Q8B5T8hV2jaDda_GpqniWq7jd7ZK7Q=s256-rw",
+    "slug": "Candy-Crush-Soda-Saga",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Candy-Crush-Soda-Saga.webp"
+  },
+  {
+    "url": "/topgames/Homescapes",
+    "title": "Homescapes",
+    "icon": "https://play-lh.googleusercontent.com/ft9OqNwpLaL45Jq3YuSYt0wm3y_j-YteTQqfq4Cu2PRWTrkFMuhlmUHmxggNxOP96gxR9Q3ML1Yt87iV3zD5fg=s256-rw",
+    "slug": "Homescapes",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Homescapes.webp"
+  },
+  {
+    "url": "/topgames/Ludo-King",
+    "title": "Ludo King®",
+    "icon": "https://play-lh.googleusercontent.com/qSN0Eb6mDVPIX4PRggTB3PsEU1oyPorteUfiuJ709P9cZxdWP9Y-kV0htG7rtJNYywGE-3wlrC_7Gix0h0-Urw=s256-rw",
+    "slug": "Ludo-King",
+    "category": "Board",
+    "localIcon": "/assets/media/topgames/Ludo-King.webp"
+  },
+  {
+    "url": "/topgames/Gossip-Harbor-Merge-Story",
+    "title": "Gossip Harbor: Merge & Story",
+    "icon": "https://play-lh.googleusercontent.com/HLRg8oInVYJV8Uebxlh1dTH4j7OTBMIWOPZY7A7ryW9UB8K4i7HCOqkGfSLORsK-XzqhnJcJM0mjObVKZYL8zA=s256-rw",
+    "slug": "Gossip-Harbor-Merge-Story",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Gossip-Harbor-Merge-Story.webp"
+  },
+  {
+    "url": "/topgames/Gardenscapes",
+    "title": "Gardenscapes",
+    "icon": "https://play-lh.googleusercontent.com/DyprR0O5Osx9CUYp0rG59kj3cGi69rZ5LJXbrp8gKkxKOoGehVzK_YRi6ODYG6-hV9EEZiWVAtubqbvqMvPr=s256-rw",
+    "slug": "Gardenscapes",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Gardenscapes.webp"
+  },
+  {
+    "url": "/topgames/PUBG-MOBILE",
+    "title": "PUBG MOBILE",
+    "icon": "https://play-lh.googleusercontent.com/Se7jR6A5R0Mk9ClaIguf46yi2K3k32JsqKb3gAtrktIh3JwnFfxrQRmG9GLvdMpbxbMrReUOxzDkStxGxNo-5Q=s256-rw",
+    "slug": "PUBG-MOBILE",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/PUBG-MOBILE.webp"
+  },
+  {
+    "url": "/topgames/MONOPOLY-GO",
+    "title": "MONOPOLY GO!",
+    "icon": "https://play-lh.googleusercontent.com/xa64BFKRGVYfitIM5uAdcpPl1nXSzvpMBsSN4SG_yvhA9mZZP6da89cNwJj4Qt5mDGCy9ktvKeOQVoWYcPxOzfs=s256-rw",
+    "slug": "MONOPOLY-GO",
+    "category": "Board",
+    "localIcon": "/assets/media/topgames/MONOPOLY-GO.webp"
+  },
+  {
+    "url": "/topgames/EA-SPORTS-FC-Mobile-Soccer",
+    "title": "EA SPORTS FC Soccer Mobile 26",
+    "icon": "https://play-lh.googleusercontent.com/4N75qwW6dhLDnT391Waa2PP9UAusdsMneGe7hbTtfl8PIyMne0GgVp7uYBiygq5MSv48FR89QJubAUhLgTD2=s256-rw",
+    "slug": "EA-SPORTS-FC-Mobile-Soccer",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/EA-SPORTS-FC-Mobile-Soccer.webp"
+  },
+  {
+    "url": "/topgames/Vita-Mahjong",
+    "title": "Vita Mahjong",
+    "icon": "https://play-lh.googleusercontent.com/ioTu_sdNBDPnNsW2I-fHJgxsfOVmQr7wbtJOELatIcpPdToqSnmxsYTa3U7RdXrE1QSp1RBBscN6aNYSnkc=s256-rw",
+    "slug": "Vita-Mahjong",
+    "category": "Board",
+    "localIcon": "/assets/media/topgames/Vita-Mahjong.webp"
+  },
+  {
+    "url": "/topgames/Plants-vs-Zombies",
+    "title": "Plants vs. Zombies™ Classic",
+    "icon": "https://play-lh.googleusercontent.com/FGB00L2-aGHPAiRJPxbC3Th_KEaGvVroVF-tPSf_1Unh9kzzY-al4mp1yJT16I16FuLK6oJ-3H-KrVgTrg3ABFc=s256-rw",
+    "slug": "Plants-vs-Zombies",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Plants-vs-Zombies.webp"
+  },
+  {
+    "url": "/topgames/Block-Blast",
+    "title": "Block Blast!",
+    "icon": "https://play-lh.googleusercontent.com/5FLR-EBlfNvoV9ydZkOMDqRF10nV64XcKdZzW_oQzmz2e8Me9PS5Zncnvviki0J3XumjO2a_lg6_IdwOqwnV=s256-rw",
+    "slug": "Block-Blast",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Block-Blast.webp"
+  },
+  {
+    "url": "/topgames/Royal-Kingdom",
+    "title": "Royal Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/O83j-W51jyftL_iGe0uXLg_aMWlXBDrdN1sbTK6VJ9uYui4lfs6rA1CYXb1SDMFJjZU7LOMygNxySQnBZ9A5Bg=s256-rw",
+    "slug": "Royal-Kingdom",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Royal-Kingdom.webp"
+  },
+  {
+    "url": "/topgames/Whiteout-Survival",
+    "title": "Whiteout Survival",
+    "icon": "https://play-lh.googleusercontent.com/tNMaMiJ4wTQy_TeZSWHdSlP5qH0PGig9g9sDJu2QFvCHdnrbo2u17pX55W4i6KITo56v_ZyICkqLgA2svH9ycQ=s256-rw",
+    "slug": "Whiteout-Survival",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Whiteout-Survival.webp"
+  },
+  {
+    "url": "/topgames/Kingshot",
+    "title": "Kingshot",
+    "icon": "https://play-lh.googleusercontent.com/cs59HOM5uSmSzgnmMyFpqYw9sMtQkYxMUTRZ1TSCZK6t6T-cjluQW_9krAcgeEozBYQWKl2DmUTeETdYtKhq=s256-rw",
+    "slug": "Kingshot",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Kingshot.webp"
+  },
+  {
+    "url": "/topgames/Subway-Surfers",
+    "title": "Subway Surfers",
+    "icon": "https://play-lh.googleusercontent.com/T7az9M7td7A24vOr7Jp3C9NG16kyWA1NnlUySyl_mbDV9BtlrFbxps5TD5DzT7kCBxpNeTbIIju2_aFN4xtFoYM=s256-rw",
+    "slug": "Subway-Surfers",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Subway-Surfers.webp"
+  },
+  {
+    "url": "/topgames/Coin-Master",
+    "title": "Coin Master",
+    "icon": "https://play-lh.googleusercontent.com/b5QL7lke38opLtJxvaDw1EEyJuaRjzEEL4j4zt5MtYSWz6t6o9DrG6LkH6rA_lNFHBe4cnXEZR0D_q_IW_-rcQ=s256-rw",
+    "slug": "Coin-Master",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Coin-Master.webp"
+  },
+  {
+    "url": "/topgames/Chess-Play-and-Learn-Online",
+    "title": "Chess - Play and Learn Online",
+    "icon": "https://play-lh.googleusercontent.com/JO7Z75U1oypXpNTAklroO5emKWePni0sK9zn1E_nRgqmbAHoMxz1oQHDfSTpcycdht92dTBejkpEDXttGeCWN74=s256-rw",
+    "slug": "Chess-Play-and-Learn-Online",
+    "category": "Board",
+    "localIcon": "/assets/media/topgames/Chess-Play-and-Learn-Online.webp"
+  },
+  {
+    "url": "/topgames/Sudokucom-Classic-Sudoku",
+    "title": "Sudoku.com - Classic Sudoku",
+    "icon": "https://play-lh.googleusercontent.com/8fEAh2dDpBBfcxPgj4s_iW7KEr46z1ppppPi3RHtdGcQay7a4K72mPXX5xyNDNI7C5tM0jS3wW4E5Q97uhN5rQ=s256-rw",
+    "slug": "Sudokucom-Classic-Sudoku",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Sudokucom-Classic-Sudoku.webp"
+  },
+  {
+    "url": "/topgames/Hero-Wars-Alliance-RPG-Legend",
+    "title": "Hero Wars: Alliance RPG Legend",
+    "icon": "https://play-lh.googleusercontent.com/FtCFQxVWKIbe0kL2_bLpQp5We65COlUifnATqedJ1HVDybkcIHaf-kacHHabSBrJICGKOKwSJVFy8BVR1Oht=s256-rw",
+    "slug": "Hero-Wars-Alliance-RPG-Legend",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Hero-Wars-Alliance-RPG-Legend.webp"
+  },
+  {
+    "url": "/topgames/Toon-Blast",
+    "title": "Toon Blast",
+    "icon": "https://play-lh.googleusercontent.com/j3O3Pyk08XAv4iA4p-Irerfos8g-tLxQ3r42zlScMRsjjgnyQGeE1mqcH3aSY9wA2k6l8fBqpqEaIQfIG2gLLQ=s256-rw",
+    "slug": "Toon-Blast",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Toon-Blast.webp"
+  },
+  {
+    "url": "/topgames/Fishdom",
+    "title": "Fishdom",
+    "icon": "https://play-lh.googleusercontent.com/xCNnX62AirslBmOf5Zp2fySAT9S9XsMUAK3PUGeLVCO4uYHGvfG8lHEof253BQ2q1vS85qsySHt8imuLfIMw=s256-rw",
+    "slug": "Fishdom",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Fishdom.webp"
+  },
+  {
+    "url": "/topgames/Tile-Explorer-Triple-Match",
+    "title": "Tile Explorer - Triple Match",
+    "icon": "https://play-lh.googleusercontent.com/wKjQKwVmmmszLHE3YfgRqiSZcDKHcnpGBeLDVs2PERYUq0B9c_LxpM8jOXYcdE-oVhPmXcWnfqUaBKR656TSBA=s256-rw",
+    "slug": "Tile-Explorer-Triple-Match",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Tile-Explorer-Triple-Match.webp"
+  },
+  {
+    "url": "/topgames/Rise-of-Kingdoms-Lost-Crusade",
+    "title": "Rise of Kingdoms: Lost Crusade",
+    "icon": "https://play-lh.googleusercontent.com/HD0DeTH3uY8-4xKW54eH4yViYQtdLMtGKv_EYdAnH75a2-SdRLKZVZOJgxS1BfAug4eqVsVgDs3eoL3YfMU9lg=s256-rw",
+    "slug": "Rise-of-Kingdoms-Lost-Crusade",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Rise-of-Kingdoms-Lost-Crusade.webp"
+  },
+  {
+    "url": "/topgames/Brawl-Stars",
+    "title": "Brawl Stars",
+    "icon": "https://play-lh.googleusercontent.com/c0hXyphuxh-gpnhSJGZV1I0IpWbq9IdEc1pautS7SmHlXNBrCff7bMqK-u63pJdfP3KJoxamG7W1dRMKr7ZzWKs=s256-rw",
+    "slug": "Brawl-Stars",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Brawl-Stars.webp"
+  },
+  {
+    "url": "/topgames/Toy-Blast",
+    "title": "Toy Blast",
+    "icon": "https://play-lh.googleusercontent.com/bJIPmnpZodfFL2mZKmEzx1o4aoSoIB1F10T7eCtq8Nm5WjBiEAeaJy7xJ9Y6G8_y_fCpsXQfZoe1VelBn-GJZw=s256-rw",
+    "slug": "Toy-Blast",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Toy-Blast.webp"
+  },
+  {
+    "url": "/topgames/Car-Parking-Multiplayer",
+    "title": "Car Parking Multiplayer",
+    "icon": "https://play-lh.googleusercontent.com/V0ZbjwNZPHG7uPaLmKF7Jpj3PpffKj6-jn1T_Ro0xRgR37xX8ylGxjajBWOzb_DoGq4Ik4Or2U0WG-W2OWNwhA=s256-rw",
+    "slug": "Car-Parking-Multiplayer",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Car-Parking-Multiplayer.webp"
+  },
+  {
+    "url": "/topgames/Pizza-Ready",
+    "title": "Pizza Ready!",
+    "icon": "https://play-lh.googleusercontent.com/p0ncbS33mzwLiJlstZBvBKrXdtuFRNd7QtzE9Tenn_BP35FTN_kOjl8MFZ1cytpwbJhUYj1jjhZzHYYyfIFL-w=s256-rw",
+    "slug": "Pizza-Ready",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Pizza-Ready.webp"
+  },
+  {
+    "url": "/topgames/eFootball",
+    "title": "eFootball™",
+    "icon": "https://play-lh.googleusercontent.com/-an3zySx6j39CpLwZkIH26KfCvJPGmp974714U9HshiCb1W9NwFwULhNANcUSic9n1Mb1GDkVP6gBpjwLDs5UA=s256-rw",
+    "slug": "eFootball",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/eFootball.webp"
+  },
+  {
+    "url": "/topgames/Merge-Mansion-Puzzles-Story",
+    "title": "Merge Mansion: Puzzles & Story",
+    "icon": "https://play-lh.googleusercontent.com/Ah5NMAeF5f7Lqkc_wYKGjXcc-_XQuU35i6Yod1g-4XxCRl8hZTTQL03ANblB-sPMM0gdgZW30jrMJNBy4IlzIm0=s256-rw",
+    "slug": "Merge-Mansion-Puzzles-Story",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Merge-Mansion-Puzzles-Story.webp"
+  },
+  {
+    "url": "/topgames/Top-War-Battle-Game",
+    "title": "Top War: Battle Game",
+    "icon": "https://play-lh.googleusercontent.com/O1T8ZCMWoxaiUl04_hDzgZ0eDHcbQuwQIkKpGHtDkmZcf8FaYDXSY4laK3mVfTbMl9jTGoTHYoVIpwB3VnJh=s256-rw",
+    "slug": "Top-War-Battle-Game",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Top-War-Battle-Game.webp"
+  },
+  {
+    "url": "/topgames/Pokemon-TCG-Pocket-Card-Game",
+    "title": "Pokémon TCG Pocket - Card Game",
+    "icon": "https://play-lh.googleusercontent.com/qdEdyVc19jfittS0bnDUnXLRM7jOPZzfHXEYoChPWOtzMrtwU6t3ZVm_FQ7wbeDYFlqLBuWCDK0Q6c1nEwYKTA=s256-rw",
+    "slug": "Pokemon-TCG-Pocket-Card-Game",
+    "category": "Card",
+    "localIcon": "/assets/media/topgames/Pokemon-TCG-Pocket-Card-Game.webp"
+  },
+  {
+    "url": "/topgames/Words-of-Wonders-Crossword",
+    "title": "Words of Wonders: Crossword",
+    "icon": "https://play-lh.googleusercontent.com/AbIaYcBgzemtIlN18HxXA1pE8SEY9d2yK133iqNYw1IwKaXSoUXLt3Z-yPbfOjIN2njt5mQ6qUHSyvKZOyQaHys=s256-rw",
+    "slug": "Words-of-Wonders-Crossword",
+    "category": "Word",
+    "localIcon": "/assets/media/topgames/Words-of-Wonders-Crossword.webp"
+  },
+  {
+    "url": "/topgames/Travel-Town-Merge-Adventure",
+    "title": "Travel Town - Merge Adventure",
+    "icon": "https://play-lh.googleusercontent.com/_YoJBEqLA6qZ0xiulFJWKfubaZmxzyphcW4BwMIXFapkO3ifyuVsnMaLkWQClMPuUnahVtIAtyU_baUHLOdP2A=s256-rw",
+    "slug": "Travel-Town-Merge-Adventure",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Travel-Town-Merge-Adventure.webp"
+  },
+  {
+    "url": "/topgames/RAID-Shadow-Legends",
+    "title": "RAID: Shadow Legends",
+    "icon": "https://play-lh.googleusercontent.com/Uv8KIWsfsXZJDk2ypWzrc_MCMGY32MvieP8hH9pujaBGwKRr4z88FpLwNuC8e5UxjioOHx9PcZU3XchZNZ4JjQ=s256-rw",
+    "slug": "RAID-Shadow-Legends",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/RAID-Shadow-Legends.webp"
+  },
+  {
+    "url": "/topgames/Football-Strike-Online-Soccer",
+    "title": "Football Strike: Online Soccer",
+    "icon": "https://play-lh.googleusercontent.com/N4x4hUsoRUOpSx3o7U--A-70Lz_LUsqBHgFx5UkgbquNTM5wj4LdF0VZOCn-cLZSGaZGqfU9t93Xj59m7OPqtWA=s256-rw",
+    "slug": "Football-Strike-Online-Soccer",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Football-Strike-Online-Soccer.webp"
+  },
+  {
+    "url": "/topgames/Solitaire-Grand-Harvest",
+    "title": "Solitaire Grand Harvest",
+    "icon": "https://play-lh.googleusercontent.com/4dsPtcGXkfF3ylgSZgkb54ay86InZVQdKvs6UrBwYdsCPpv1AegcN_V38sWqCqopDPsGYiPvQ48mgY5lyMtdzw=s256-rw",
+    "slug": "Solitaire-Grand-Harvest",
+    "category": "Card",
+    "localIcon": "/assets/media/topgames/Solitaire-Grand-Harvest.webp"
+  },
+  {
+    "url": "/topgames/Dragon-City-Mobile-Adventure",
+    "title": "Dragon City: Mobile Adventure",
+    "icon": "https://play-lh.googleusercontent.com/GTd1rUAswLuzMP1i4DlWX5z88McGJEklF-Dap0eCPleKO77rrdrKeJVEWnwQe18sGxyw1NKHQnLUcc4ba1W7uC8=s256-rw",
+    "slug": "Dragon-City-Mobile-Adventure",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Dragon-City-Mobile-Adventure.webp"
+  },
+  {
+    "url": "/topgames/Dream-League-Soccer-2026",
+    "title": "Dream League Soccer 2026",
+    "icon": "https://play-lh.googleusercontent.com/xb1Vz614Oef63tpwV3AmcC4QWOeEQ5rw_bYOimuNF6M3NoINRmZV6WNmPgl4cBYc1rMJhAu0ohPhn4coq_AQlw=s256-rw",
+    "slug": "Dream-League-Soccer-2026",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Dream-League-Soccer-2026.webp"
+  },
+  {
+    "url": "/topgames/Soccer-Superstar",
+    "title": "Soccer Superstar",
+    "icon": "https://play-lh.googleusercontent.com/LRpKgyf_oEOouVJ8vZIGkyQBpAOxbuHqTDo_gu_SnuxuTNoSGKNDhFsTzbiV2pggeV63oBE7FDRM_FFRiGM6=s256-rw",
+    "slug": "Soccer-Superstar",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Soccer-Superstar.webp"
+  },
+  {
+    "url": "/topgames/Mobile-Legends-Bang-Bang",
+    "title": "Mobile Legends: Bang Bang",
+    "icon": "https://play-lh.googleusercontent.com/D8r13ijO9c-0_1N-CP4d63mR1w6YhDuR2mBQUl27ELJAx0sKdaKtM5vCUnSLODKBVzUx7rZ9cW4Ir9jYiufsSQ=s256-rw",
+    "slug": "Mobile-Legends-Bang-Bang",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Mobile-Legends-Bang-Bang.webp"
+  },
+  {
+    "url": "/topgames/Top-Eleven-Be-a-Soccer-Manager",
+    "title": "Top Eleven Be a Soccer Manager",
+    "icon": "https://play-lh.googleusercontent.com/petqfeg-i1tYbtZMzG71PXxM9OtvGgws43wjWV1hb4LvwPBqYXAsit6-8F5WugBvevymT9Klt_-NLx_Dlf5m=s256-rw",
+    "slug": "Top-Eleven-Be-a-Soccer-Manager",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Top-Eleven-Be-a-Soccer-Manager.webp"
+  },
+  {
+    "url": "/topgames/Empires-Puzzles-Match-3-RPG",
+    "title": "Empires & Puzzles: Match-3 RPG",
+    "icon": "https://play-lh.googleusercontent.com/gZZPUJf8_rTRzgIz0KOOYfOX24RuDHkL_qHjObCfwy9QUItZcwfRugY9P5FoNLxEL0MpwWyUUDLWcxW8Z3Cy=s256-rw",
+    "slug": "Empires-Puzzles-Match-3-RPG",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Empires-Puzzles-Match-3-RPG.webp"
+  },
+  {
+    "url": "/topgames/Honor-of-Kings",
+    "title": "Honor of Kings",
+    "icon": "https://play-lh.googleusercontent.com/ySKKDO_bieWZ11fmnOD1fuDpcPgOjASwjg9Nxyut3gk9bM_QPVYnAn3G4Q7_vR76dOs0VnW_DVFE99aOqVEcaCU=s256-rw",
+    "slug": "Honor-of-Kings",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Honor-of-Kings.webp"
+  },
+  {
+    "url": "/topgames/Block-Craft-3DBuilding-Game",
+    "title": "Block Craft 3D：Building Game",
+    "icon": "https://play-lh.googleusercontent.com/Nu36aaM2u2mVaItdPaWfHDWp1pi-yExZ_ibd2_ElMmaIuyZ7lB3IxA_p-6tpCTSICDYGQGW9j-Uua20dxBcQEw=s256-rw",
+    "slug": "Block-Craft-3DBuilding-Game",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Block-Craft-3DBuilding-Game.webp"
+  },
+  {
+    "url": "/topgames/Bloons-TD-6",
+    "title": "Bloons TD 6",
+    "icon": "https://play-lh.googleusercontent.com/N2JpkxPvCZJzPhOAfEliPkIdqx7dW7bTOugKujPN4yxCKP5ybK6TGK2t4SJAMzhEwe_blzSIhLocObB1zxpOtoo=s256-rw",
+    "slug": "Bloons-TD-6",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Bloons-TD-6.webp"
+  },
+  {
+    "url": "/topgames/Geometry-Dash-Lite",
+    "title": "Geometry Dash Lite",
+    "icon": "https://play-lh.googleusercontent.com/StEbdIF-rV4EoYfIdaP07zClA50KSs-i9o12kceyecfw8R0nwYfzqV64h3UlEzh_fCqxyNCj7Bb7ro86pfYDsSU=s256-rw",
+    "slug": "Geometry-Dash-Lite",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Geometry-Dash-Lite.webp"
+  },
+  {
+    "url": "/topgames/Football-League-2026",
+    "title": "Football League 2026",
+    "icon": "https://play-lh.googleusercontent.com/JauranxwFAASQTa-pc7tIs73zNt7lzUjjlCCWujcNELSCzSUzzKM__zaM8FZjWET3ULNEiqeR1vg_lxAAPPK=s256-rw",
+    "slug": "Football-League-2026",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Football-League-2026.webp"
+  },
+  {
+    "url": "/topgames/Call-of-Duty-Mobile",
+    "title": "Call of Duty®: Mobile",
+    "icon": "https://play-lh.googleusercontent.com/4KLtYEExeMc9gcYZz1BgAiV87IZ8onX3aGld_lJ8xMydt1MP7m--a6dn0aGNMemq-IiwGrrhqt81TA-Qbve8=s256-rw",
+    "slug": "Call-of-Duty-Mobile",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Call-of-Duty-Mobile.webp"
+  },
+  {
+    "url": "/topgames/NYT-Games-Wordle-Crossword",
+    "title": "NYT Games: Wordle & Crossword",
+    "icon": "https://play-lh.googleusercontent.com/TBQl70kBjktUn0lqfEAIhSo4ooo_zaWfBAoIn2XdXvAsgfHchPnJdzEESs4G3gvhOxDTeUbLbsrJ-U8H9UFRVD4=s256-rw",
+    "slug": "NYT-Games-Wordle-Crossword",
+    "category": "Word",
+    "localIcon": "/assets/media/topgames/NYT-Games-Wordle-Crossword.webp"
+  },
+  {
+    "url": "/topgames/Among-Us",
+    "title": "Among Us",
+    "icon": "https://play-lh.googleusercontent.com/pfGArJJx-vtMRVu2-ziedzAhTLsHgks6N3mNyyOC0oxRdsXINGwdd9h4ZutdTG7MfgiqlDXBXnk-kNo-Fns70Q=s256-rw",
+    "slug": "Among-Us",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Among-Us.webp"
+  },
+  {
+    "url": "/topgames/Minion-Rush-Running-Game",
+    "title": "Minion Rush: Running Game",
+    "icon": "https://play-lh.googleusercontent.com/rcxR8bvzDr3Zh8gOx5UAFnjrb6fsppbpFq2GAakIb0REuFz8hsfPHa0cQUU1v7ZkQAFIsBe5IW2Vq4PrGxsvgw=s256-rw",
+    "slug": "Minion-Rush-Running-Game",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Minion-Rush-Running-Game.webp"
+  },
+  {
+    "url": "/topgames/Temple-Run-2-Endless-Escape",
+    "title": "Temple Run 2: Endless Escape",
+    "icon": "https://play-lh.googleusercontent.com/48yHWnGUQ5S8qgQ13CAtp0EOuPN23443EM7K_NG0HiX_icUINAbUPLJoVOuGSTy9zTIPIDJ9shcSVPhe-VHmCE0=s256-rw",
+    "slug": "Temple-Run-2-Endless-Escape",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Temple-Run-2-Endless-Escape.webp"
+  },
+  {
+    "url": "/topgames/CookieRun-Kingdom",
+    "title": "CookieRun: Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/J1zzZf_Clyg51sikuBbfTMD_sGVK64Ki5vyVtn3MmkUUzQ-AxKWq2-WuVDnpkrpai6Icun3wXspttadNAxy4djI=s256-rw",
+    "slug": "CookieRun-Kingdom",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/CookieRun-Kingdom.webp"
+  },
+  {
+    "url": "/topgames/My-Talking-Tom-2",
+    "title": "My Talking Tom 2: Pet Game",
+    "icon": "https://play-lh.googleusercontent.com/84GI_9nvYcWOVoG43uE9izfn1r6uWi8U4j3rJcoJUpRj3N3V0YFb1_EAHG-qfbwj5U_SjnBfc8D0MKzBnh27MYY=s256-rw",
+    "slug": "My-Talking-Tom-2",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/My-Talking-Tom-2.webp"
+  },
+  {
+    "url": "/topgames/Dice-DreamsTM",
+    "title": "Dice Dreams™️",
+    "icon": "https://play-lh.googleusercontent.com/5MLgC2WWXcq1Pol8qRAXOKzIJY9qySkjF43DnWyd5F9fPj_heinHeIxvgIpPQwcaQ1w-mUzUmoP1Xeslf29irg=s256-rw",
+    "slug": "Dice-DreamsTM",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Dice-DreamsTM.webp"
+  },
+  {
+    "url": "/topgames/Farm-Heroes-Saga",
+    "title": "Farm Heroes Saga",
+    "icon": "https://play-lh.googleusercontent.com/BoSTaEZEpVULdJX_lcNS2wNrXApunF2lGOpP-vO7jUIm-cQ9NF_0CFULN8E9GMBt8IXh717mXqE0bNcAWCXp=s256-rw",
+    "slug": "Farm-Heroes-Saga",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Farm-Heroes-Saga.webp"
+  },
+  {
+    "url": "/topgames/Stumble-Guys",
+    "title": "Stumble Guys",
+    "icon": "https://play-lh.googleusercontent.com/Qr95gFdl_scidWsdHVP1f7FXe9fSgfrHhCyK0T6UnN4Ru-6PrTgaVN7CSfkrG5JzsQFpBWNiXLyBDzcIx7U-=s256-rw",
+    "slug": "Stumble-Guys",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Stumble-Guys.webp"
+  },
+  {
+    "url": "/topgames/Minecraft",
+    "title": "Minecraft: Dream it, Build it!",
+    "icon": "https://play-lh.googleusercontent.com/tI4StRSPVhpGJH5R013naszLUawOjao1ya8FvyaNO7XY_cJFHFqo1EFaEJv_7zz3rRJ5lEpLiw14ZqQLCOYc=s256-rw",
+    "slug": "Minecraft",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Minecraft.webp"
+  },
+  {
+    "url": "/topgames/Puzzles-Survival",
+    "title": "Puzzles & Survival",
+    "icon": "https://play-lh.googleusercontent.com/ummlqp5oiU1hRPrz9pt-XYFhbMIITY_b-viFnnMu-RgtdH--uFrcFoEEGrXpRrOTVf94f8GCDQwEK-VBln18=s256-rw",
+    "slug": "Puzzles-Survival",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Puzzles-Survival.webp"
+  },
+  {
+    "url": "/topgames/Ludo-STAR",
+    "title": "Ludo STAR",
+    "icon": "https://play-lh.googleusercontent.com/a7mmkfyeuz09Z8n-NbjhX-LmDPNrL53luNWtrvkDYiksZNT-cY7eJHXKlVuPIZ1GRH-AuZo3K73hjGFiK_9sGEo=s256-rw",
+    "slug": "Ludo-STAR",
+    "category": "Board",
+    "localIcon": "/assets/media/topgames/Ludo-STAR.webp"
+  },
+  {
+    "url": "/topgames/Evony-The-Kings-Return",
+    "title": "Evony: The King's Return",
+    "icon": "https://play-lh.googleusercontent.com/O_2KnfGM5WwoQrZVXoyHJEv-NyyZf3Nv6zYe3uQCtAFHzx8v4PT4Sb9oaSRoJDQ9Z8RDAYfHZh-_23TkBRSGRQ=s256-rw",
+    "slug": "Evony-The-Kings-Return",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Evony-The-Kings-Return.webp"
+  },
+  {
+    "url": "/topgames/Avatar-World",
+    "title": "Avatar World ®",
+    "icon": "https://play-lh.googleusercontent.com/HZSjfrk0PmcygWFGgiddF7lT7QWcWyJSnQw6W6JdbK7MMLuaFtuGaSWhmHwMn3ugpuwmsoJ8IwMGndXizvswqg=s256-rw",
+    "slug": "Avatar-World",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Avatar-World.webp"
+  },
+  {
+    "url": "/topgames/Arrows-Puzzle-Escape",
+    "title": "Arrows – Puzzle Escape",
+    "icon": "https://play-lh.googleusercontent.com/lMmSA4L1MNUvZ3w4c_T10tJvrptwAdObx8WxAzn5SuboyQtrwMPy1Grqqlgg6qBpgf4PQWvk7QPsiPy6R5ZIQQ=s256-rw",
+    "slug": "Arrows-Puzzle-Escape",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Arrows-Puzzle-Escape.webp"
+  },
+  {
+    "url": "/topgames/Kick-the-BuddyFun-Action-Game",
+    "title": "Kick the Buddy－Fun Action Game",
+    "icon": "https://play-lh.googleusercontent.com/GXhlshcE4xs4TBriwgzZtF1lMsRAcnbvC1HvDYxa9aRzaJBicf81e69X1TIUYCuc0sRSajWbvyGn1K3D1tbX7_0=s256-rw",
+    "slug": "Kick-the-BuddyFun-Action-Game",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Kick-the-BuddyFun-Action-Game.webp"
+  },
+  {
+    "url": "/topgames/Melon-Sandbox",
+    "title": "Melon Sandbox",
+    "icon": "https://play-lh.googleusercontent.com/9KgS1cF6vWMF9Fl25S36bKr8zDh0ddkTOeN7WpBcQAE-pKfahG2DjUxbQ8sespNoe3KW3qbcaVD8H6DfNys6=s256-rw",
+    "slug": "Melon-Sandbox",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Melon-Sandbox.webp"
+  },
+  {
+    "url": "/topgames/Sniper-3DGun-Shooting-Games",
+    "title": "Sniper 3D：Gun Shooting Games",
+    "icon": "https://play-lh.googleusercontent.com/seWyOBcAUUgzE8USqm7I5W9qZ2McX6USk8aRBSQ7HJLLwjPyjnrJV9rf66ZD2icbwKUXcBnB3fCchLqXGtGEEKY=s256-rw",
+    "slug": "Sniper-3DGun-Shooting-Games",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Sniper-3DGun-Shooting-Games.webp"
+  },
+  {
+    "url": "/topgames/Hill-Climb-Racing",
+    "title": "Hill Climb Racing",
+    "icon": "https://play-lh.googleusercontent.com/7YJtBKClRTrPRIO-vm-_GoqAEwob4kQ-wJd0qmUMLdbor5Jxj-IKpsXOj6MQejf2XYN9YE0q6IUgYnu-fcAGIg=s256-rw",
+    "slug": "Hill-Climb-Racing",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Hill-Climb-Racing.webp"
+  },
+  {
+    "url": "/topgames/Happy-Color-Color-by-Number",
+    "title": "Happy Color®: Color by Number",
+    "icon": "https://play-lh.googleusercontent.com/SrSr_L4l99jgmGMy79N0_mEhpdn-fBqpg1hxobrs_daqRyZU-IUaiz3_07Bx-c5fB8JtHE0R5HpB2S8V3XAfJTs=s256-rw",
+    "slug": "Happy-Color-Color-by-Number",
+    "category": "Board",
+    "localIcon": "/assets/media/topgames/Happy-Color-Color-by-Number.webp"
+  },
+  {
+    "url": "/topgames/Total-Battle-War-Strategy",
+    "title": "Total Battle: War Strategy",
+    "icon": "https://play-lh.googleusercontent.com/c-N_3kuTJoaXs9R7lC8wjav43ZFM0fp5nXm4kc8cCIXUWDrqQeNKAp0EQLrey2AlWZpYzkpNeKoZKjeWryqrf10=s256-rw",
+    "slug": "Total-Battle-War-Strategy",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Total-Battle-War-Strategy.webp"
+  },
+  {
+    "url": "/topgames/Magic-Tiles-3",
+    "title": "Magic Tiles 3™ - Piano Game",
+    "icon": "https://play-lh.googleusercontent.com/MN-AsowqLMEkznK8mhfCu2PGN2Czyx9xq9HHnitFVJPnRRyOwNHPvxV_NoSJounFmcotRzsnx9GcEwRUbOmjwQ=s256-rw",
+    "slug": "Magic-Tiles-3",
+    "category": "Music",
+    "localIcon": "/assets/media/topgames/Magic-Tiles-3.webp"
+  },
+  {
+    "url": "/topgames/Disney-Magic-Kingdoms",
+    "title": "Disney Magic Kingdoms",
+    "icon": "https://play-lh.googleusercontent.com/hh5GoirIg4CbES2ZPZ8ZmbqME2L3D2y_Qp69R4qyWM-dATGMpzWo1qqm-OKzyfdik6o-QyUEtgUcXpOJHQar6mQ=s256-rw",
+    "slug": "Disney-Magic-Kingdoms",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Disney-Magic-Kingdoms.webp"
+  },
+  {
+    "url": "/topgames/Genshin-Impact",
+    "title": "Genshin Impact",
+    "icon": "https://play-lh.googleusercontent.com/YQqyKaXX-63krqsfIzUEJWUWLINxcb5tbS6QVySdxbS7eZV7YB2dUjUvX27xA0TIGtfxQ5v-tQjwlT5tTB-O=s256-rw",
+    "slug": "Genshin-Impact",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Genshin-Impact.webp"
+  },
+  {
+    "url": "/topgames/MARVEL-Strike-Force-Squad-RPG",
+    "title": "MARVEL Strike Force: Squad RPG",
+    "icon": "https://play-lh.googleusercontent.com/AI9bcRd6c_QXUriLEr-z03oqA72psQqGkUbYj7xVae8fh3V7u9dxd5u7oQFoSMwlZWQar3p0T3qmpoQIbHhhbQ8=s256-rw",
+    "slug": "MARVEL-Strike-Force-Squad-RPG",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/MARVEL-Strike-Force-Squad-RPG.webp"
+  },
+  {
+    "url": "/topgames/Pokemon-GO",
+    "title": "Pokémon GO",
+    "icon": "https://play-lh.googleusercontent.com/N3ayE1feuNfItNVRR7m6tTk7Wqnn6tNy0elJ8kdV3ITwgKBvHH0dk1e_vup8yFfzvlwPclduzsB8ZsqFBMjJEw=s256-rw",
+    "slug": "Pokemon-GO",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Pokemon-GO.webp"
+  },
+  {
+    "url": "/topgames/GODDESS-OF-VICTORY-NIKKE",
+    "title": "GODDESS OF VICTORY: NIKKE",
+    "icon": "https://play-lh.googleusercontent.com/JK5mejs0bVT_9613gCxNfCjRw_m3JiQ4wC8B8Kt471yu7ThFQazVkCLTfPZ81hnenft7ilaE-qSwVGpQT6sEFcY=s256-rw",
+    "slug": "GODDESS-OF-VICTORY-NIKKE",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/GODDESS-OF-VICTORY-NIKKE.webp"
+  },
+  {
+    "url": "/topgames/Match-Factory",
+    "title": "Match Factory!",
+    "icon": "https://play-lh.googleusercontent.com/TfYptHuK821z2ugqfa7JUomzdoWWV1jBuO1hNraCb0TNAD-zplUWditdZPndKzN50fqzdWBEUp81vMi-s0B4=s256-rw",
+    "slug": "Match-Factory",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Match-Factory.webp"
+  },
+  {
+    "url": "/topgames/Project-Makeover",
+    "title": "Project Makeover",
+    "icon": "https://play-lh.googleusercontent.com/aYJQ86QzZak9_e99ghYcvxsfUDyH_XEAnHPxIJ8pW-RqAP0m4PuoYIJw8QWEUOPtIJrIiyq9TYTgNAVLCsOG9g=s256-rw",
+    "slug": "Project-Makeover",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Project-Makeover.webp"
+  },
+  {
+    "url": "/topgames/Worms-Zone-io-Hungry-Snake",
+    "title": "Worms Zone .io - Hungry Snake",
+    "icon": "https://play-lh.googleusercontent.com/IWjxTBVVD88RxhnTd6nhSxhlFTSOyA5PNTh5YICQjK-f9QEyY7Js4dDd-awFuPa2YDw2f_-o-NzJaa8kA5QBfq8=s256-rw",
+    "slug": "Worms-Zone-io-Hungry-Snake",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Worms-Zone-io-Hungry-Snake.webp"
+  },
+  {
+    "url": "/topgames/Match-Masters",
+    "title": "Match Masters",
+    "icon": "https://play-lh.googleusercontent.com/lTNpwPOAFpCsEepGiCHbYUcXNtzUvN68SqbcGKgUBFKUx1aMenxQMr1QNtXIVzepSARzZgG-w6qvXY09njTDuA=s256-rw",
+    "slug": "Match-Masters",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Match-Masters.webp"
+  },
+  {
+    "url": "/topgames/Diablo-Immortal",
+    "title": "Diablo Immortal",
+    "icon": "https://play-lh.googleusercontent.com/Nk_4asF8QaOyrT3SKWciYtVnMcQedoGf3GLPYPKUjObVaD2nEsqhHIcXn4SWhdB03y0qFD4d3viDihwuUHE4Ors=s256-rw",
+    "slug": "Diablo-Immortal",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Diablo-Immortal.webp"
+  },
+  {
+    "url": "/topgames/State-of-Survival-Zombie-War",
+    "title": "State of Survival: Zombie War",
+    "icon": "https://play-lh.googleusercontent.com/v4gBYHQkkjokISNaGIogV1PyR6vFJr-dFvoybqbtW5g4Zwk9l2mRHOL0rSwbigyVIIFe3FDuiqtESq4SJAeMNg=s256-rw",
+    "slug": "State-of-Survival-Zombie-War",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/State-of-Survival-Zombie-War.webp"
+  },
+  {
+    "url": "/topgames/UNOTM",
+    "title": "UNO!™",
+    "icon": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p=s256-rw",
+    "slug": "UNOTM",
+    "category": "Card",
+    "localIcon": "/assets/media/topgames/UNOTM.webp"
+  },
+  {
+    "url": "/topgames/Tennis-Clash-Multiplayer-Game",
+    "title": "Tennis Clash: Multiplayer Game",
+    "icon": "https://play-lh.googleusercontent.com/b3yRWP2AEJEKVLUxbL7FIW-bzmI9Nnw3I0CGFehV2VMLoacEzFpRwbYzNOxsvk4gTRdMRj90GPuDZ6nEczSR=s256-rw",
+    "slug": "Tennis-Clash-Multiplayer-Game",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Tennis-Clash-Multiplayer-Game.webp"
+  },
+  {
+    "url": "/topgames/Traffic-Rider",
+    "title": "Traffic Rider",
+    "icon": "https://play-lh.googleusercontent.com/Eki6lQF8HawMz0M5pD-4d8g_VV-EybGQSTtsgkhX10F4rU4oHrP6sug9tLsVPFIk0iVe2rwUmFPj7uWRJCZr=s256-rw",
+    "slug": "Traffic-Rider",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Traffic-Rider.webp"
+  },
+  {
+    "url": "/topgames/Offline-Games-No-Wifi-Games",
+    "title": "Offline Games - No Wifi Games",
+    "icon": "https://play-lh.googleusercontent.com/nVrTGBwfTkYNMSSVv9xFj3dXzVzdY7Ab6KBro6GUFWZlpOD-zDMXZpSP1KSAZcSQw49gpQ_maqdcT_XvSNIA94w=s256-rw",
+    "slug": "Offline-Games-No-Wifi-Games",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Offline-Games-No-Wifi-Games.webp"
+  },
+  {
+    "url": "/topgames/Age-of-Origins",
+    "title": "Age of Origins",
+    "icon": "https://play-lh.googleusercontent.com/qKFGzPTPE9rUuTM1ZkjJY30GuQSvSSp2wVJUiOqJ2nzuIeitVeRC7o7Lskb1hi1Aj9pq4n4lcFZjJQuWdzmY7g=s256-rw",
+    "slug": "Age-of-Origins",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Age-of-Origins.webp"
+  },
+  {
+    "url": "/topgames/Pou",
+    "title": "Pou",
+    "icon": "https://play-lh.googleusercontent.com/tzBwQ9l18TBjObuRh_oSEKZgN38yBReXFuwPX77HGSqhBTvh8I70QqqT3Iyqme-O1ywjeHm5wsSGuVkzaV3eSA=s256-rw",
+    "slug": "Pou",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Pou.webp"
+  },
+  {
+    "url": "/topgames/Amaze-GO",
+    "title": "Amaze GO!",
+    "icon": "https://play-lh.googleusercontent.com/z54K2UZPuABcdfrjgcRc0_--d3V1WMPFcrvYku299sV4PJXEz7oosH8G3ZvZtkTjbiXpyc196MGWMi9zcVa9TA=s256-rw",
+    "slug": "Amaze-GO",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Amaze-GO.webp"
+  },
+  {
+    "url": "/topgames/My-Talking-Tom-Friends",
+    "title": "My Talking Tom Friends",
+    "icon": "https://play-lh.googleusercontent.com/Ro9ku479wY_E6psjzCsCw9ezuyaszBo886zlp0y3Z88sTOaZLdATlRQyngqGQbT7KMbxopEUvyYtlYfJeKrqbA=s256-rw",
+    "slug": "My-Talking-Tom-Friends",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/My-Talking-Tom-Friends.webp"
+  },
+  {
+    "url": "/topgames/My-Talking-Angela-2",
+    "title": "My Talking Angela 2",
+    "icon": "https://play-lh.googleusercontent.com/G_qnvVcaZwaOqk1Yy3I2rF-iPwzazVEYso4pnLCxJ-3ecwF2DPRvLqo1kzEd6qCHSN_EJY-bvOOnwaLQNbf53_U=s256-rw",
+    "slug": "My-Talking-Angela-2",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/My-Talking-Angela-2.webp"
+  },
+  {
+    "url": "/topgames/Offline-Games-No-WiFi-internet",
+    "title": "Offline Games No WiFi internet",
+    "icon": "https://play-lh.googleusercontent.com/79loZ625eKsQ4hddeY1yhy3jAvaC1uNIIy2Pzk0t2Au2N73cy7vbhd7cc_CJt1QNt5E5nnAcau3OoXHsgnBiPg=s256-rw",
+    "slug": "Offline-Games-No-WiFi-internet",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Offline-Games-No-WiFi-internet.webp"
+  },
+  {
+    "url": "/topgames/Doomsday-FAIRY-TAIL",
+    "title": "Doomsday × FAIRY TAIL",
+    "icon": "https://play-lh.googleusercontent.com/jw1fUhZZcfC6hV6Dsr208Fxnw_YkrrdHVU72Op0Ydso4xxrlFyB2FuISd_BdLtf1kAxuUPlCpuvntzx1RgqzCg=s256-rw",
+    "slug": "Doomsday-FAIRY-TAIL",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Doomsday-FAIRY-TAIL.webp"
+  },
+  {
+    "url": "/topgames/My-Talking-Tom",
+    "title": "My Talking Tom",
+    "icon": "https://play-lh.googleusercontent.com/WcyzKmezd5XQgLqdSch8N0PungS1iXsHTq8R1wzCY35YuFNnvhSIVQRmVia1Uw1ivJwSpbDrzRmaELKlEKUDCw=s256-rw",
+    "slug": "My-Talking-Tom",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/My-Talking-Tom.webp"
+  },
+  {
+    "url": "/topgames/Jurassic-WorldTM-The-Game",
+    "title": "Jurassic World™: The Game",
+    "icon": "https://play-lh.googleusercontent.com/AXid5djdU50WGI8EWjCciSIhOQy09CI0aigskAKP0JOPZ9F334OBtq_SRbBcGa12d6XrRnnVm0zVoGewXNAhoA=s256-rw",
+    "slug": "Jurassic-WorldTM-The-Game",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Jurassic-WorldTM-The-Game.webp"
+  },
+  {
+    "url": "/topgames/DRAGON-BALL-Z-DOKKAN-BATTLE",
+    "title": "DRAGON BALL Z DOKKAN BATTLE",
+    "icon": "https://play-lh.googleusercontent.com/Ocriolf6VBkbevJE5xWma3bD3suVqdWQGjlbrITwutUtTxzQlBtbWko5qOBWR-tK6qEwXm9YKoQuE3A6dRZE=s256-rw",
+    "slug": "DRAGON-BALL-Z-DOKKAN-BATTLE",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/DRAGON-BALL-Z-DOKKAN-BATTLE.webp"
+  },
+  {
+    "url": "/topgames/Head-Ball-2-Soccer-Game",
+    "title": "Head Ball 2 - Soccer Game",
+    "icon": "https://play-lh.googleusercontent.com/rt1JfNm0rAKWZzCw19A0_Yy8Po73ENa-TxFEMfVGUSGsdcIzgmxlM8NotJBjXn7aEIoNeXmkkV_NxmrvcI0-=s256-rw",
+    "slug": "Head-Ball-2-Soccer-Game",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Head-Ball-2-Soccer-Game.webp"
+  },
+  {
+    "url": "/topgames/Pokemon-UNITE",
+    "title": "Pokémon UNITE",
+    "icon": "https://play-lh.googleusercontent.com/EHzfymgOzqIlPybdJGb88VeHsqKAYu1EJDa4KEiW7ZkVFLm9vvHe36iMdzHCikW3Qv63miNF1ZPyxIe6xNZWyQ=s256-rw",
+    "slug": "Pokemon-UNITE",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Pokemon-UNITE.webp"
+  },
+  {
+    "url": "/topgames/Angry-Birds-2",
+    "title": "Angry Birds 2",
+    "icon": "https://play-lh.googleusercontent.com/XrA1acf-l1YT0jw0QTxWqpJLE_TYSgdGpWE1vrEepFpA2128Zx4to0ARPvKFdhT5vAc0LHHC7xAAwa8aABIFeg=s256-rw",
+    "slug": "Angry-Birds-2",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Angry-Birds-2.webp"
+  },
+  {
+    "url": "/topgames/Plants-vs-Zombies-2",
+    "title": "Plants vs Zombies™ 2",
+    "icon": "https://play-lh.googleusercontent.com/r8kGrEySHDwfk2bv1HYmk4K76ioLYeDgr6W5SEAsNhoYlHdu-4kVJdaK9NIyVv9z__0_WOOQpSa2qMkaR9m5JQ=s256-rw",
+    "slug": "Plants-vs-Zombies-2",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Plants-vs-Zombies-2.webp"
+  },
+  {
+    "url": "/topgames/Mafia-City",
+    "title": "Mafia City",
+    "icon": "https://play-lh.googleusercontent.com/MdwhvgDhMoGlp9MjvzPYDSKidt55EPXZLeCSBQ6ffijck4n6pD-yPOfQVOMwfXd4GQCu9I2ewQGOyCAM_E0=s256-rw",
+    "slug": "Mafia-City",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Mafia-City.webp"
+  },
+  {
+    "url": "/topgames/Guns-of-Glory-Lost-Island",
+    "title": "Guns of Glory: Lost Island",
+    "icon": "https://play-lh.googleusercontent.com/0l9JIvpITwLiO0rhq_DIR8MnCt5M7FBiNjCzyvsrta2w9DAPzXpp39D3TSi2-K2Xm3qhnne5IwghPJNVLqI0Ew=s256-rw",
+    "slug": "Guns-of-Glory-Lost-Island",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Guns-of-Glory-Lost-Island.webp"
+  },
+  {
+    "url": "/topgames/Hay-Day",
+    "title": "Hay Day",
+    "icon": "https://play-lh.googleusercontent.com/QfN4gvndChGHaEG6sK4FOVEMkvpgtlxFT6lIFFLUyhG2R_-mSHnrEZzwRnNwhtHam9gI9oOsm5J96_cFKk6f=s256-rw",
+    "slug": "Hay-Day",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Hay-Day.webp"
+  },
+  {
+    "url": "/topgames/Minecraft-Trial",
+    "title": "Minecraft Trial",
+    "icon": "https://play-lh.googleusercontent.com/AspviwO6fPFn3-QjjC3KncLy-bDMfTFAHmFC6Bkdlm4XrXh8AeHnOzjjNPIXZfFOag6YXI31Ksefv07NrNGFc28=s256-rw",
+    "slug": "Minecraft-Trial",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Minecraft-Trial.webp"
+  },
+  {
+    "url": "/topgames/DRAGON-BALL-LEGENDS",
+    "title": "DRAGON BALL LEGENDS",
+    "icon": "https://play-lh.googleusercontent.com/Q1xwpZdnAX7OtfT-rO210xlkX8rai8lPUACCQbxd2zyuCjfilEz4p4-VV1JIjyeKsLGCX_fjZvGmBHkfHnisvA=s256-rw",
+    "slug": "DRAGON-BALL-LEGENDS",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/DRAGON-BALL-LEGENDS.webp"
+  },
+  {
+    "url": "/topgames/Marvel-Contest-of-Champions",
+    "title": "Marvel Contest of Champions",
+    "icon": "https://play-lh.googleusercontent.com/Qu9lyWmuzXotmEhWMckhfk4gUamTPNSjbcZGfrwE0N_qzltBKTyHdDqbcD9-HgRPD9vJCPrTQNOdAjKXZmZxKSY=s256-rw",
+    "slug": "Marvel-Contest-of-Champions",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Marvel-Contest-of-Champions.webp"
+  },
+  {
+    "url": "/topgames/Snakeio-Fun-Snake-io-Games",
+    "title": "Snake.io - Fun Snake .io Games",
+    "icon": "https://play-lh.googleusercontent.com/udfb96O1w1v4xgPwW0yjuwNXRYt1S557Yj2Sk-S0qx2lrosGwETm4DYokCi1zXcdzxIZ5EzHk0OECHmE04O_aQ=s256-rw",
+    "slug": "Snakeio-Fun-Snake-io-Games",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Snakeio-Fun-Snake-io-Games.webp"
+  },
+  {
+    "url": "/topgames/Geometry-Dash",
+    "title": "Geometry Dash",
+    "icon": "https://play-lh.googleusercontent.com/tF6siCn3bM7JmXqB_iLqZm17DCI-C2h5X8I_n1-bqmkMJrN1sm2ZDrj8IAqSFtQcF85QX1Puvhsi_vcnSmmzAOk=s256-rw",
+    "slug": "Geometry-Dash",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Geometry-Dash.webp"
+  },
+  {
+    "url": "/topgames/Frost-Flame-King-of-Avalon",
+    "title": "Frost & Flame: King of Avalon",
+    "icon": "https://play-lh.googleusercontent.com/aJGym34S8jF33-lk7GhQ9CejCDeMTgZbskjeIoAE_R4l6mfsPwMEI7D_5OAyRPkHgkBTkOREMNeYu9z5i64pl4c=s256-rw",
+    "slug": "Frost-Flame-King-of-Avalon",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Frost-Flame-King-of-Avalon.webp"
+  },
+  {
+    "url": "/topgames/Hearthstone",
+    "title": "Hearthstone",
+    "icon": "https://play-lh.googleusercontent.com/Ho2UMDCefu9_FD_j9NURUf9WZHB6q6iWorKKH1C53DGtMP5C0bLqsfww8XhCHr8K62_3wCGczYsINQ6noRP5GQ=s256-rw",
+    "slug": "Hearthstone",
+    "category": "Card",
+    "localIcon": "/assets/media/topgames/Hearthstone.webp"
+  },
+  {
+    "url": "/topgames/Coin-Master-Board-Adventure",
+    "title": "Coin Master - Board Adventure",
+    "icon": "https://play-lh.googleusercontent.com/pFMYxxHpIsLKeaxO9wjVRpAsgMaLKbT1kPwofNQtGi69-6fF_eUyIViAMY66auDrvsJnw2h6S5rpF8XaZcrm=s256-rw",
+    "slug": "Coin-Master-Board-Adventure",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Coin-Master-Board-Adventure.webp"
+  },
+  {
+    "url": "/topgames/Harry-Potter-Hogwarts-Mystery",
+    "title": "Harry Potter: Hogwarts Mystery",
+    "icon": "https://play-lh.googleusercontent.com/5MJTn6LaGpAFAGqTH14ulR6cxGWY5dwwKJqJQSRWxm796gWdng4jj78T7ehkBWgGYAt65aiVFMSTf05Hj6ZBkg=s256-rw",
+    "slug": "Harry-Potter-Hogwarts-Mystery",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Harry-Potter-Hogwarts-Mystery.webp"
+  },
+  {
+    "url": "/topgames/War-Robots-Multiplayer-Battles",
+    "title": "War Robots Multiplayer Battles",
+    "icon": "https://play-lh.googleusercontent.com/spGFwB3OfBO5yqEqTH3TRkk5im3P_Q0fj2z4jW5mJmJzBpAVOD_XkcFbNFNDZa_Mit4pqCn390ebCWReXNFWtw0=s256-rw",
+    "slug": "War-Robots-Multiplayer-Battles",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/War-Robots-Multiplayer-Battles.webp"
+  },
+  {
+    "url": "/topgames/Star-WarsTM-Galaxy-of-Heroes",
+    "title": "Star Wars™: Galaxy of Heroes",
+    "icon": "https://play-lh.googleusercontent.com/sMRu3GdYyHqnsxmxzdo64RVHpr9BNEKQAEYRMtgvnwuSdslhEL7dEgVRbubk-vBLx3OgLtYJMhc7ph2FEurd=s256-rw",
+    "slug": "Star-WarsTM-Galaxy-of-Heroes",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Star-WarsTM-Galaxy-of-Heroes.webp"
+  },
+  {
+    "url": "/topgames/Tile-Club-Match-Puzzle-Games",
+    "title": "Tile Club - Match Puzzle Games",
+    "icon": "https://play-lh.googleusercontent.com/1usfjsEcGLj5t00kTHmqUuLtrVtDVbuBIECR-1kbjhJyv_n_1omuFYnzH7EkdKJh6Pv4IvCQX4J1MWKYbXn0BlU=s256-rw",
+    "slug": "Tile-Club-Match-Puzzle-Games",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Tile-Club-Match-Puzzle-Games.webp"
+  },
+  {
+    "url": "/topgames/Holeio",
+    "title": "Hole.io",
+    "icon": "https://play-lh.googleusercontent.com/O3EdBG3DLjnRyizuznwg3FMiGcualZV-jPE83MhIRyFjQS1M5snCbBvU_09c9RUqpx9xJlwfrGx31iwTXYAQnmo=s256-rw",
+    "slug": "Holeio",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Holeio.webp"
+  },
+  {
+    "url": "/topgames/Antistress-relaxation-toys",
+    "title": "Antistress - relaxation toys",
+    "icon": "https://play-lh.googleusercontent.com/YbYfgzUMPwExbK0Qi5D_wwPbj7dTv1LCrusjvl4diAn6u4TZHMjyAJq34KWr2LbmwvFULfyXHzWrQEXLdC6_uzk=s256-rw",
+    "slug": "Antistress-relaxation-toys",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Antistress-relaxation-toys.webp"
+  },
+  {
+    "url": "/topgames/Family-IslandTM-Farming-game",
+    "title": "Family Island™ — Farming game",
+    "icon": "https://play-lh.googleusercontent.com/HpWuiQkhmKRAVdT5wC267fq-fyCBdvaS4klG2KcdkqC76Au1WPgDoWz3f7t7U890j8mLFLhkVsOI-3nFPUwtBIY=s256-rw",
+    "slug": "Family-IslandTM-Farming-game",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Family-IslandTM-Farming-game.webp"
+  },
+  {
+    "url": "/topgames/Rise-of-Castles-Ice-and-Fire",
+    "title": "Rise of Castles: Ice and Fire",
+    "icon": "https://play-lh.googleusercontent.com/VnuNntrmS7rBVEP2DrwSQAO9BFlaYZf9MwJ72p2jX5la8esW7IHoVuoVH9Qg5kzwLOCsKkg71GIzh7iQgG7hXQ=s256-rw",
+    "slug": "Rise-of-Castles-Ice-and-Fire",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Rise-of-Castles-Ice-and-Fire.webp"
+  },
+  {
+    "url": "/topgames/Romance-Club-Stories-I-Play",
+    "title": "Romance Club - Stories I Play",
+    "icon": "https://play-lh.googleusercontent.com/PgrS3xu4dWV6JJaiMKf_uC8n40k0sbU2mmmih_LDeamyY_d-4ssZWTs9PmFS9YScnuTwhtEPz4ZahGZo87WM=s256-rw",
+    "slug": "Romance-Club-Stories-I-Play",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Romance-Club-Stories-I-Play.webp"
+  },
+  {
+    "url": "/topgames/CSR-2-Realistic-Drag-Racing",
+    "title": "CSR 2 Realistic Drag Racing",
+    "icon": "https://play-lh.googleusercontent.com/wzLXlU18FvfmxY04mzVznGljF_Lzr7ifC1IBo_ZUyP9p60Go0_hA7ydLHCglJcC5SwGTZodOpbhtVBqaJwhGrg=s256-rw",
+    "slug": "CSR-2-Realistic-Drag-Racing",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/CSR-2-Realistic-Drag-Racing.webp"
+  },
+  {
+    "url": "/topgames/Fishing-Clash-Sport-Simulator",
+    "title": "Fishing Clash: Sport Simulator",
+    "icon": "https://play-lh.googleusercontent.com/9kavKVAgvLXWv63jEvu7k9m0aI-G6k4NtvPQyn-xlfD6VmVlRH9jyoAgfKxlNZ3Umd-PeRaUBmHuhCJU7t6-8g=s256-rw",
+    "slug": "Fishing-Clash-Sport-Simulator",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Fishing-Clash-Sport-Simulator.webp"
+  },
+  {
+    "url": "/topgames/Zenless-Zone-Zero",
+    "title": "Zenless Zone Zero",
+    "icon": "https://play-lh.googleusercontent.com/-OwYJcIdDSfGJBOQozVC3kKxqnA7ev2O897twi-aVUpc8AXVMNtB3YWEXDui_V0VJxelNAbUbLXpNZj9AqWa3A=s256-rw",
+    "slug": "Zenless-Zone-Zero",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Zenless-Zone-Zero.webp"
+  },
+  {
+    "url": "/topgames/Bad-Piggies",
+    "title": "Bad Piggies",
+    "icon": "https://play-lh.googleusercontent.com/iXET8vmU1PZJ5BepnivZ7016tDgxhmNZUXc6xN8nbimnRl_-jWvmtONxS5Y069JshzKKZgZPIZ4S4u0URySLEQ=s256-rw",
+    "slug": "Bad-Piggies",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Bad-Piggies.webp"
+  },
+  {
+    "url": "/topgames/Wheres-My-Water-2",
+    "title": "Where's My Water? 2",
+    "icon": "https://play-lh.googleusercontent.com/RpTVg1PHVKINOQKgAHpYCUgG071c4TIxMJsLhDJgv5fGXH3pG9utKM9GytlVN4f4S5227KsEXsOXPkXpvm3_qQ=s256-rw",
+    "slug": "Wheres-My-Water-2",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Wheres-My-Water-2.webp"
+  },
+  {
+    "url": "/topgames/Stickman-Party-234-MiniGames",
+    "title": "Stickman Party 234 MiniGames",
+    "icon": "https://play-lh.googleusercontent.com/Fg7rOYEpbNIZ4SPF3E-kBIv-0i4xp6X8LHMiDMpXpNER-ctNxgQ2ME_mwQARmd9ouJjMZ6LLGm8jL9Af9O5R=s256-rw",
+    "slug": "Stickman-Party-234-MiniGames",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Stickman-Party-234-MiniGames.webp"
+  },
+  {
+    "url": "/topgames/My-Talking-Angela",
+    "title": "My Talking Angela",
+    "icon": "https://play-lh.googleusercontent.com/y-rPtQnej2b1qvJTob4mUlje5KfPxb8OTlX3STNobBo6uCGAvHOU36Zlo4gPXboZqr4R2Krv7qJwivFkE8lQfg=s256-rw",
+    "slug": "My-Talking-Angela",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/My-Talking-Angela.webp"
+  },
+  {
+    "url": "/topgames/Snake-Clash",
+    "title": "Snake Clash!",
+    "icon": "https://play-lh.googleusercontent.com/IFZ89btnaAvGhze1EENTZdaH5gRrvTJTQYVGE9it8wIMpPtNwcDyzZbeNlzpAvUXyOioQRF2gHrTEeQZbgUpuOo=s256-rw",
+    "slug": "Snake-Clash",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Snake-Clash.webp"
+  },
+  {
+    "url": "/topgames/Block-Crazy-Robo-World-Craft",
+    "title": "Block Crazy Robo World Craft",
+    "icon": "https://play-lh.googleusercontent.com/6-rB2tudCQ1RHx2g8ZQS6PEaamL3XQpgit6MPdHu4KBKRHlJzZZXUw8D9d-Ez1VTPj5QZKFu_GTcprADe5SY=s256-rw",
+    "slug": "Block-Crazy-Robo-World-Craft",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Block-Crazy-Robo-World-Craft.webp"
+  },
+  {
+    "url": "/topgames/Viking-Rise",
+    "title": "Viking Rise",
+    "icon": "https://play-lh.googleusercontent.com/_7Te43ZvU8ghQr4m2VhGDswlVhjqwQ5484SkMMrK072FL0dt38M_yZlw1lYoxNHx9zSPLzWPFLXIxwNppsZrJQ=s256-rw",
+    "slug": "Viking-Rise",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Viking-Rise.webp"
+  },
+  {
+    "url": "/topgames/Level-Devil-NOT-A-Troll-Game",
+    "title": "Level Devil - NOT A Troll Game",
+    "icon": "https://play-lh.googleusercontent.com/0UCmyr2ZdfeC_aLzd8Npm6mGWW5wuEhZYeCieU-1ODLIW4JwyvqfoQdxnT8GHPCEITwm5bJCx-OSTrnWH0yS=s256-rw",
+    "slug": "Level-Devil-NOT-A-Troll-Game",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Level-Devil-NOT-A-Troll-Game.webp"
+  },
+  {
+    "url": "/topgames/Bus-Simulator--3D-Bus-Games",
+    "title": "Bus Simulator : 3D Bus Games",
+    "icon": "https://play-lh.googleusercontent.com/PRpbD6mRRxaAv7TuMxEN4TpYcb6Jq2Uxr6tLm8vLMDZS3F5cwSolKq2gcmzLxbK7PkFxkroQ7WLAxt1ARy1Enw=s256-rw",
+    "slug": "Bus-Simulator--3D-Bus-Games",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Bus-Simulator--3D-Bus-Games.webp"
+  },
+  {
+    "url": "/topgames/Fire-Emblem-Heroes",
+    "title": "Fire Emblem Heroes",
+    "icon": "https://play-lh.googleusercontent.com/n_Xw5WPiQHiEK5FLIGw_BIvn2XJ54_XWpX7_U6pdf_0-pRz3kIksO1kPzAW1G2vsaqsQAbtx6DV92mwVaM_RVQ=s256-rw",
+    "slug": "Fire-Emblem-Heroes",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Fire-Emblem-Heroes.webp"
+  },
+  {
+    "url": "/topgames/Klondike-Adventures-Farm-Game",
+    "title": "Klondike Adventures: Farm Game",
+    "icon": "https://play-lh.googleusercontent.com/A_4bEGgDVtqWI4FnhVjBth8IxyV8ANJmraiPhdhas9R07ZU-mmW4JEeTio-BYWh3iGcRMzNIhnr8lQX5FIm2Xg=s256-rw",
+    "slug": "Klondike-Adventures-Farm-Game",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Klondike-Adventures-Farm-Game.webp"
+  },
+  {
+    "url": "/topgames/Extreme-Car-Driving-Simulator",
+    "title": "Extreme Car Driving Simulator",
+    "icon": "https://play-lh.googleusercontent.com/RkyC4P8sAvbrOcOlaQhKw66mIa8A0KMrQn6AUBdef9vC2OlNYAQE7E01N-SCe7DRya93ZO84qIYqSgDMlOy1WA=s256-rw",
+    "slug": "Extreme-Car-Driving-Simulator",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Extreme-Car-Driving-Simulator.webp"
+  },
+  {
+    "url": "/topgames/Talking-Tom-Gold-Run",
+    "title": "Talking Tom Gold Run",
+    "icon": "https://play-lh.googleusercontent.com/HympGTcpiPUnufrkfbRIdE6XoMvho7nAzvz-298nBWBzXD-ELedqBg0zoBanITrw7-yADZrQew1yOjAlYoBS=s256-rw",
+    "slug": "Talking-Tom-Gold-Run",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Talking-Tom-Gold-Run.webp"
+  },
+  {
+    "url": "/topgames/Wuthering-Waves-To-Xuanfang",
+    "title": "Wuthering Waves - To Xuanfang",
+    "icon": "https://play-lh.googleusercontent.com/f8SoRHdK3E8ofPV6ZbXG-TkcNtXiGmgXnPLl_zjHh6OsSQ1yZqbDIDWFI2P7UCnAQGY_C9VUv2Q8P87CIAqH=s256-rw",
+    "slug": "Wuthering-Waves-To-Xuanfang",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Wuthering-Waves-To-Xuanfang.webp"
+  },
+  {
+    "url": "/topgames/Arknights",
+    "title": "Arknights",
+    "icon": "https://play-lh.googleusercontent.com/pBNlu-ZHQlVdfXhzI7TGIjqt_00sAeYFFK6AqTygfF3rwQfoPIkfIz-zROY31POTDKtxqcMDMPaDLJVlwCdc=s256-rw",
+    "slug": "Arknights",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Arknights.webp"
+  },
+  {
+    "url": "/topgames/Golf-Clash-Golfing-Simulator",
+    "title": "Golf Clash - Golfing Simulator",
+    "icon": "https://play-lh.googleusercontent.com/ZW-mWeAQd9ZiA2XeG2efI51JZtpzGAq2owKycFex6Ftj2C1HGkU7YVmx8RuX0Qj2bI-iqExjcaKEJ70SbD1kX4w=s256-rw",
+    "slug": "Golf-Clash-Golfing-Simulator",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Golf-Clash-Golfing-Simulator.webp"
+  },
+  {
+    "url": "/topgames/Jetpack-Joyride",
+    "title": "Jetpack Joyride",
+    "icon": "https://play-lh.googleusercontent.com/fo_dS1ZkonPQsBvxnbuIcPU8kuTbmRHsDojJIRsK1zqtlgDHMmzP8hHL2Ex-aapGjYZC7OfsvX92gZNPzxkAwg=s256-rw",
+    "slug": "Jetpack-Joyride",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Jetpack-Joyride.webp"
+  },
+  {
+    "url": "/topgames/Mob-Control",
+    "title": "Mob Control",
+    "icon": "https://play-lh.googleusercontent.com/eYc7EHSPfZCXbS-oj4mdPH3sSX6ljrhAJntv-bN9zrRHp8qjuroDo_kknhgb0Tu4UGnl5DdkYCW1paSNlspt=s256-rw",
+    "slug": "Mob-Control",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Mob-Control.webp"
+  },
+  {
+    "url": "/topgames/Mahjong-Blast",
+    "title": "Mahjong Blast",
+    "icon": "https://play-lh.googleusercontent.com/lamvwfGw4eEjWFFfcL19XAwFpCKZJjdCBNBs0DFnsOwhBAsK9X738lDrDFqosGp7CLinvREDBdhJyQdmot6KbQ=s256-rw",
+    "slug": "Mahjong-Blast",
+    "category": "Board",
+    "localIcon": "/assets/media/topgames/Mahjong-Blast.webp"
+  },
+  {
+    "url": "/topgames/War-and-Order",
+    "title": "War and Order",
+    "icon": "https://play-lh.googleusercontent.com/MXSinmUQlhaV8xJIl0O99LVPkNU-YvIMGtbRW-2QQhIm-Dkk-NuDso_FbApzmrp_bRVyvLGbxNzEp-ZD0ghf=s256-rw",
+    "slug": "War-and-Order",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/War-and-Order.webp"
+  },
+  {
+    "url": "/topgames/Yalla-Ludo-LudoJackaroo",
+    "title": "Yalla Ludo - Ludo&Jackaroo",
+    "icon": "https://play-lh.googleusercontent.com/_B8WTUQVNhy4frnK0ekTvxNUpYDL-HYfeJvM8jo7Zw58N-RoAWD2gC4ksVp5KDNdtiYDGBMo3DVBo8bcBkxBLw=s256-rw",
+    "slug": "Yalla-Ludo-LudoJackaroo",
+    "category": "Board",
+    "localIcon": "/assets/media/topgames/Yalla-Ludo-LudoJackaroo.webp"
+  },
+  {
+    "url": "/topgames/Last-Z-Survival-Shooter",
+    "title": "Last Z: Survival Shooter",
+    "icon": "https://play-lh.googleusercontent.com/q6Mjymkm2z_8p3BVZq4jKpZbZIEVxVaCAZsaaBXSMjf9kexdpkYktJl46JBFfQp1RWh2n10BCbaP42CZWNwgmA=s256-rw",
+    "slug": "Last-Z-Survival-Shooter",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Last-Z-Survival-Shooter.webp"
+  },
+  {
+    "url": "/topgames/Ball-Sort-Puzzle-Color-Game",
+    "title": "Ball Sort Puzzle - Color Game",
+    "icon": "https://play-lh.googleusercontent.com/A-E2jczrwGXsu42MoQdEFQ0YFhMT_9Svyk_7eOCiyYQx8PVcs6gUV99ZYycWiqGca2Zzr8YqUHtxSHhdmm1uw0I=s256-rw",
+    "slug": "Ball-Sort-Puzzle-Color-Game",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Ball-Sort-Puzzle-Color-Game.webp"
+  },
+  {
+    "url": "/topgames/Brain-Test-Tricky-Puzzles",
+    "title": "Brain Test: Tricky Puzzles",
+    "icon": "https://play-lh.googleusercontent.com/LAs19uR6zoIFbFPugcmg25pNP1H8nDdnusVffUDtWO_-BLurQ6cvQJvLYZbp8lWMtGLWDT6csN2yQZ-PFfk=s256-rw",
+    "slug": "Brain-Test-Tricky-Puzzles",
+    "category": "Trivia",
+    "localIcon": "/assets/media/topgames/Brain-Test-Tricky-Puzzles.webp"
+  },
+  {
+    "url": "/topgames/Scary-Teacher-3D",
+    "title": "Scary Teacher 3D",
+    "icon": "https://play-lh.googleusercontent.com/MShlfqJZ7HoKm0bw7Hu1cGkdkSgoAoj1WM6dAAqlr7FreoTCi75CcdS1r_OLdXwATxqSIvt635hZSPunFJA4tfQ=s256-rw",
+    "slug": "Scary-Teacher-3D",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Scary-Teacher-3D.webp"
+  },
+  {
+    "url": "/topgames/Color-by-NumberColoring-Games",
+    "title": "Color by Number：Coloring Games",
+    "icon": "https://play-lh.googleusercontent.com/XRROCU10EenYkIVwgELctilhZRq4n9EX-G5aCaW4LaAgTVyczXN93lukhtq2RhyNV4Kzy5mKohW8VVhKJfTA9Q=s256-rw",
+    "slug": "Color-by-NumberColoring-Games",
+    "category": "Board",
+    "localIcon": "/assets/media/topgames/Color-by-NumberColoring-Games.webp"
+  },
+  {
+    "url": "/topgames/Terraria",
+    "title": "Terraria",
+    "icon": "https://play-lh.googleusercontent.com/47ylywbi2wh_pogL2XorXhg5HEbRDW1k_IqacSd3_2t-6sh7PIniak-k2lhTE0Y360TmO0coyJ7U_Ea_g-ym=s256-rw",
+    "slug": "Terraria",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Terraria.webp"
+  },
+  {
+    "url": "/topgames/Sky-Children-of-the-Light",
+    "title": "Sky: Children of the Light",
+    "icon": "https://play-lh.googleusercontent.com/CxUJ-s6QRm3MtiJ92mh3euIx_rp5XvmZtVmoHXJaLsFXURIMf_XcH9uHANbQ00CUUPkSHcIZBqIhC0OC9yV6Iw=s256-rw",
+    "slug": "Sky-Children-of-the-Light",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Sky-Children-of-the-Light.webp"
+  },
+  {
+    "url": "/topgames/Snake-Lite-Worm-Snake-Game",
+    "title": "Snake Lite® - Worm Snake Game",
+    "icon": "https://play-lh.googleusercontent.com/deXRBZl9wTWZt_b0tspPGWbaR17TxMeGmQptGYzzox9bSPCH-xpmfIFRB_HE4QYvlOlr0vTB5pWnM57_aJBL=s256-rw",
+    "slug": "Snake-Lite-Worm-Snake-Game",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Snake-Lite-Worm-Snake-Game.webp"
+  },
+  {
+    "url": "/topgames/Vikings-War-of-Clans-PvP",
+    "title": "Vikings: War of Clans PvP",
+    "icon": "https://play-lh.googleusercontent.com/PnwmKblnjcQJB96xlL4o7zPLt3Vp_oHp81dbolp8cU5_AaUfY8z0RupLuWge-QH8OPSfQwrPRQaQX2DkiytADC4=s256-rw",
+    "slug": "Vikings-War-of-Clans-PvP",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Vikings-War-of-Clans-PvP.webp"
+  },
+  {
+    "url": "/topgames/Save-The-Pets",
+    "title": "Save The Pets",
+    "icon": "https://play-lh.googleusercontent.com/BfCVKh9BU_KGVljN8xM7RAomXHulSWZrgOdRf0bZizrO2vSn8gNCKXxZCo3-ahZwqSJXVYreof6BhisvdFna7Gw=s256-rw",
+    "slug": "Save-The-Pets",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Save-The-Pets.webp"
+  },
+  {
+    "url": "/topgames/Hill-Climb-Racing-2",
+    "title": "Hill Climb Racing 2",
+    "icon": "https://play-lh.googleusercontent.com/txB7-bJOtbijarGbXMB4hMmwFM3Xp_zyR3esLFMBco2wIGsrodNow8_HZSjKNgHT3GhPdBunMf6Fu_kJmwe57g=s256-rw",
+    "slug": "Hill-Climb-Racing-2",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Hill-Climb-Racing-2.webp"
+  },
+  {
+    "url": "/topgames/Paperio-2",
+    "title": "Paper.io 2",
+    "icon": "https://play-lh.googleusercontent.com/xU4lRs99d93VzHX09xCf6ZkBVOxPuDqZxjVVuhbmLxXAEd6uxq7gBCEzubAfkabAp2r7l_D6qQ7bcOXpEQqg=s256-rw",
+    "slug": "Paperio-2",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Paperio-2.webp"
+  },
+  {
+    "url": "/topgames/Seaside-Escape-Merge-Story",
+    "title": "Seaside Escape®: Merge & Story",
+    "icon": "https://play-lh.googleusercontent.com/k6h9_TspVCG4TIgvxox3eWp5Cwd04v6cL7msueboI5IUPGLPnhh8RHIZtiamoLJK75Mk6yo4awXd4XVW99XO8Q=s256-rw",
+    "slug": "Seaside-Escape-Merge-Story",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Seaside-Escape-Merge-Story.webp"
+  },
+  {
+    "url": "/topgames/Umamusume-Pretty-Derby",
+    "title": "Umamusume: Pretty Derby",
+    "icon": "https://play-lh.googleusercontent.com/FFJjWiKLpSifO403OEFmHVnb-ca8KNU0AR32TIEgF4UZ46XFK3PFIoN7WwovyoV3vfNcBUksrFAk6-_vW9p6eg=s256-rw",
+    "slug": "Umamusume-Pretty-Derby",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Umamusume-Pretty-Derby.webp"
+  },
+  {
+    "url": "/topgames/Call-of-Dragons",
+    "title": "Call of Dragons",
+    "icon": "https://play-lh.googleusercontent.com/nPgmduRLKjdRVe28i8xJbjQZlkit-nbvER5aznuOSl8p222b95SWkPXKStBTOjVLYOnUi2fHcUHG5kSVxA_1=s256-rw",
+    "slug": "Call-of-Dragons",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Call-of-Dragons.webp"
+  },
+  {
+    "url": "/topgames/Brain-Puzzle-Tricky-Quest",
+    "title": "Brain Puzzle: Tricky Quest",
+    "icon": "https://play-lh.googleusercontent.com/pIA00WcwdZ32GOM_AH14jISyQJGX-9FT4VwdRpKb_CN7H06wnj0stZ8kBwmXj8utb-pwaV5OPYz8QsKTfjmW4mY=s256-rw",
+    "slug": "Brain-Puzzle-Tricky-Quest",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Brain-Puzzle-Tricky-Quest.webp"
+  },
+  {
+    "url": "/topgames/Honkai-Star-Rail",
+    "title": "Honkai: Star Rail",
+    "icon": "https://play-lh.googleusercontent.com/aWrGocSA7hEuk1qAPe7L4T57LvLKrwwH26cK2_LOqxRQMQX7j3uHYojC-EKWgYEV2PdrmE0ahqvvhLhXrAGk6Q=s256-rw",
+    "slug": "Honkai-Star-Rail",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Honkai-Star-Rail.webp"
+  },
+  {
+    "url": "/topgames/Goods-Puzzle-Sort-ChallengeTM",
+    "title": "Goods Puzzle: Sort Challenge™",
+    "icon": "https://play-lh.googleusercontent.com/N73ucnv5e5iA8a7mBclwvvlgaY5zjB1lBQRqz4EaCXqHTqmhEtG5Tz2fw3cRGL37vwiwQgHGmpyf0-fD0lQu=s256-rw",
+    "slug": "Goods-Puzzle-Sort-ChallengeTM",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Goods-Puzzle-Sort-ChallengeTM.webp"
+  },
+  {
+    "url": "/topgames/FateGrand-Order-English",
+    "title": "Fate/Grand Order (English)",
+    "icon": "https://play-lh.googleusercontent.com/EzN3-WzS_i1mEjUaAht6flnqKF1tNDUqPjeAOgn_ZC1YqG65s9kP84lSV7HHoVIemgpJKRca63jdsnPorCD-pQ=s256-rw",
+    "slug": "FateGrand-Order-English",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/FateGrand-Order-English.webp"
+  },
+  {
+    "url": "/topgames/Water-Sort-Puzzle-Sort-Color",
+    "title": "Water Sort Puzzle - Sort Color",
+    "icon": "https://play-lh.googleusercontent.com/RHfJzvu5o1gMJW2YvTTz9NxAJL52rHTOV0ohpIXUM96bYrQ2NW4pX8otiXjriAEEc92No2Dky-FzErGJblOzHg=s256-rw",
+    "slug": "Water-Sort-Puzzle-Sort-Color",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Water-Sort-Puzzle-Sort-Color.webp"
+  },
+  {
+    "url": "/topgames/Arrow-Puzzle-Tap-Puzzle-Games",
+    "title": "Arrow Puzzle: Tap Puzzle Games",
+    "icon": "https://play-lh.googleusercontent.com/9SPwV1m2m248lpDQd9xtd-s70BwEyZJhXd1LDAK3KzIsEPaSlO9mikhsFrzo7ObagZWiJgk57I5-b12AWkF9_Q=s256-rw",
+    "slug": "Arrow-Puzzle-Tap-Puzzle-Games",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Arrow-Puzzle-Tap-Puzzle-Games.webp"
+  },
+  {
+    "url": "/topgames/Summoners-War-X-Frieren",
+    "title": "Summoners War X Frieren",
+    "icon": "https://play-lh.googleusercontent.com/MUCpc9V1KmbWYb2Cv6p3aSVyzBo-uuG_iMPWY0vZSRh9cpDadSM07vaWHJXE6Yrpxj-wH1y55mO6Bo6B3_2k=s256-rw",
+    "slug": "Summoners-War-X-Frieren",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Summoners-War-X-Frieren.webp"
+  },
+  {
+    "url": "/topgames/Sea-of-Conquest-Pirate-War",
+    "title": "Sea of Conquest: Pirate War",
+    "icon": "https://play-lh.googleusercontent.com/pK5qMEuYdvRqsAUsv5XmTP6ZOR0g1UbkRX5ssib48FQhRfxKRl7wwobXUsu96z_0bVOVVlAfv2IKQrFzwz7Vlw=s256-rw",
+    "slug": "Sea-of-Conquest-Pirate-War",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Sea-of-Conquest-Pirate-War.webp"
+  },
+  {
+    "url": "/topgames/My-Supermarket-Simulator-3D",
+    "title": "My Supermarket Simulator 3D®",
+    "icon": "https://play-lh.googleusercontent.com/4NICSBcVRUkqQ2X79EQFUlBau0Mabi5Hc7QNAl1ZsIWanGQ_Md5NGR4ucgdcifYZRuAXQvsMNayBB_GyI691HCA=s256-rw",
+    "slug": "My-Supermarket-Simulator-3D",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/My-Supermarket-Simulator-3D.webp"
+  },
+  {
+    "url": "/topgames/Bowmasters-Archery-Shooting",
+    "title": "Bowmasters: Archery Shooting",
+    "icon": "https://play-lh.googleusercontent.com/-PLdLKmyG86fVQqXiVpgF5PTm05jgEl-EyFTXKDBiKNeLGE5e7iVmsnRVtlLrvRjGzjpgOCGElhQoOJwde5YqA=s256-rw",
+    "slug": "Bowmasters-Archery-Shooting",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Bowmasters-Archery-Shooting.webp"
+  },
+  {
+    "url": "/topgames/Flip-Diving",
+    "title": "Flip Diving",
+    "icon": "https://play-lh.googleusercontent.com/qEer3jzFsuTz6gUPJDqt533ByqTebLQj3qjRfY7O3iU8_OGksqZUhgp3Xk2BiDzwxmHBIgcf_DJu_Nh1IB8guj0=s256-rw",
+    "slug": "Flip-Diving",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Flip-Diving.webp"
+  },
+  {
+    "url": "/topgames/Cookingdom",
+    "title": "Cookingdom",
+    "icon": "https://play-lh.googleusercontent.com/3qxiluY64ZQOXvVEFApOL_XMcMb5hxnnPstb_AgTJ460vR2niC56p43fnn5-bVoN2gYPjlALOEMxGC5Eis3nnAc=s256-rw",
+    "slug": "Cookingdom",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Cookingdom.webp"
+  },
+  {
+    "url": "/topgames/Grand-Theft-Auto-San-Andreas",
+    "title": "Grand Theft Auto: San Andreas",
+    "icon": "https://play-lh.googleusercontent.com/9GVKCNutqPtjORCw6ZG7rhGA29MbALAMLtDdNmvaiOAWouMcW1Ue5kEz-QMt4u9pLFy0Rm-edYp5RIGGgxmV3hE=s256-rw",
+    "slug": "Grand-Theft-Auto-San-Andreas",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Grand-Theft-Auto-San-Andreas.webp"
+  },
+  {
+    "url": "/topgames/Fidget-Toys-TradingPop-It-3D",
+    "title": "Fidget Toys Trading・Pop It 3D",
+    "icon": "https://play-lh.googleusercontent.com/FQarP4OP6ADcnktEifiQSTP5pKT7ynQu17StB_IJUwzY_uB_XnbhG7JrdycfvewjxWIkdDGjS-v0tE1wpTXQHg=s256-rw",
+    "slug": "Fidget-Toys-TradingPop-It-3D",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Fidget-Toys-TradingPop-It-3D.webp"
+  },
+  {
+    "url": "/topgames/Last-Asylum-Plague",
+    "title": "Last Asylum: Plague",
+    "icon": "https://play-lh.googleusercontent.com/HOFXbIOJIZGru5_UM5hdGDmP7HIgxGJEx4dQAbPClmAtrNw3tVL9fY5NNHfa7VgIMFU-Sr3-s5FQGfaYJYhP=s256-rw",
+    "slug": "Last-Asylum-Plague",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Last-Asylum-Plague.webp"
+  },
+  {
+    "url": "/topgames/Stormshot-Isle-of-Adventure",
+    "title": "Stormshot: Isle of Adventure",
+    "icon": "https://play-lh.googleusercontent.com/p3ooyvsRUzLrv6482L0a3lcVFeNGnFX0F7vUQNP6-44Bo2cSZV2t8uFMeFl46S8dnt_xEof9Clmv_OyPDcd6YQ=s256-rw",
+    "slug": "Stormshot-Isle-of-Adventure",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Stormshot-Isle-of-Adventure.webp"
+  },
+  {
+    "url": "/topgames/Five-Nights-at-Freddys-2",
+    "title": "Five Nights at Freddy's 2",
+    "icon": "https://play-lh.googleusercontent.com/ax7Yy0SvZ9GUS5o0MHtXFD0vEPqK5BEadf2a5O0I_36GYaUkZ29PYGQNxktEflYOFsG34n5PWVCyAlKD7n-9Ww=s256-rw",
+    "slug": "Five-Nights-at-Freddys-2",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Five-Nights-at-Freddys-2.webp"
+  },
+  {
+    "url": "/topgames/Number-Match-Number-Games",
+    "title": "Number Match - Number Games",
+    "icon": "https://play-lh.googleusercontent.com/S9e-E913xUQble2W1vkAQwDlsYnKijcybZ7Lvbhsy-_QjC1Prn__FTUidsyg0wpWDk2ESlE1CS9p3nH0zUJ-=s256-rw",
+    "slug": "Number-Match-Number-Games",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Number-Match-Number-Games.webp"
+  },
+  {
+    "url": "/topgames/Disney-Solitaire",
+    "title": "Disney Solitaire",
+    "icon": "https://play-lh.googleusercontent.com/BpyKPyeCiAoCtYP23WtOoHW1G_4IAGUyk4G6V_5YNmXomuBwNC5ZnSq5OfxejW-Ufuukma8-UYZirB2wz3m8UnM=s256-rw",
+    "slug": "Disney-Solitaire",
+    "category": "Card",
+    "localIcon": "/assets/media/topgames/Disney-Solitaire.webp"
+  },
+  {
+    "url": "/topgames/Word-Search-Explorer",
+    "title": "Word Search Explorer",
+    "icon": "https://play-lh.googleusercontent.com/BhSjXMNR8wZi48F4NWlRhskKyM_pa8DFNzisNTTa8_16uLNCk5nsZo_3fCmo1szCv05Qpe6VHNZBUsWBtSpjpA=s256-rw",
+    "slug": "Word-Search-Explorer",
+    "category": "Word",
+    "localIcon": "/assets/media/topgames/Word-Search-Explorer.webp"
+  },
+  {
+    "url": "/topgames/Stick-War-Legacy",
+    "title": "Stick War: Legacy",
+    "icon": "https://play-lh.googleusercontent.com/bTbNEd9ss0lqbNBWO0me6kJNnfvu0CNd2nNHdiYGym5pZvxCFMy2nPYTBsR_4mVcXgEBN2C6yvksSBMq1wmyyA=s256-rw",
+    "slug": "Stick-War-Legacy",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Stick-War-Legacy.webp"
+  },
+  {
+    "url": "/topgames/Kick-the-Buddy-Second-Kick",
+    "title": "Kick the Buddy: Second Kick",
+    "icon": "https://play-lh.googleusercontent.com/YJUlqTBwu3YTbeJVffWIEAezO3eghfynOLYRtnMv7rgIzTI6JVgxUmsKxxgmhokdhDArZsL9HmGPtIo-D3kqSg=s256-rw",
+    "slug": "Kick-the-Buddy-Second-Kick",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Kick-the-Buddy-Second-Kick.webp"
+  },
+  {
+    "url": "/topgames/Merge-Cooking",
+    "title": "Merge Cooking®",
+    "icon": "https://play-lh.googleusercontent.com/eAeYjdl3YeCgqPktbVbMp5APjT1QaCwI1dNEnTXoM2bmcx1KJykj7GDTFuPwIYara9BItd22stpDtydbyenrbg=s256-rw",
+    "slug": "Merge-Cooking",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Merge-Cooking.webp"
+  },
+  {
+    "url": "/topgames/Bloons-TD-5",
+    "title": "Bloons TD 5",
+    "icon": "https://play-lh.googleusercontent.com/XrHBbkswUfbhFWEhAmck6WKw1FFUYy3gWNB9xgGPea1SbwVhgHPF-6ZbEQFLj-gwBW9LuAfe10rYG54EQWj0aQ=s256-rw",
+    "slug": "Bloons-TD-5",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Bloons-TD-5.webp"
+  },
+  {
+    "url": "/topgames/Annoying-Uncle-Punch-Game",
+    "title": "Annoying Uncle Punch Game",
+    "icon": "https://play-lh.googleusercontent.com/x1RWw8lkChwD5Ip4uh4_w72jvJ6KMj_pWWBoT3NGhIXknPdhquAMHW_dkgsEl-R_0fOXdzi6mcK1oOpx8_cAZ5U=s256-rw",
+    "slug": "Annoying-Uncle-Punch-Game",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Annoying-Uncle-Punch-Game.webp"
+  },
+  {
+    "url": "/topgames/Brain-Puzzle-2-Logic-Twist",
+    "title": "Brain Puzzle 2: Logic Twist",
+    "icon": "https://play-lh.googleusercontent.com/7aYxCcMDJzeRgpJjX62onFcXjtEUO6MnIU9sQ1MaMDf0XpOtPtcM5t9sxq1s6cSWP5jOKqB0N5fgQVkqq71wvQ=s256-rw",
+    "slug": "Brain-Puzzle-2-Logic-Twist",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Brain-Puzzle-2-Logic-Twist.webp"
+  },
+  {
+    "url": "/topgames/School-Party-Craft",
+    "title": "School Party Craft",
+    "icon": "https://play-lh.googleusercontent.com/I_w6aXjtW6eH615QTCsn-rHXvCxx8fUpASb2p2vHGPsUQHaZrRaYS0IxmFnpDyxCBOWMSvoQHScAZ_srO8stXx4=s256-rw",
+    "slug": "School-Party-Craft",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/School-Party-Craft.webp"
+  },
+  {
+    "url": "/topgames/Top-Heroes-Kingdom-Saga",
+    "title": "Top Heroes: Kingdom Saga",
+    "icon": "https://play-lh.googleusercontent.com/6VUP1Pf_2agtJxXfsaUa9vh3ZN_eUUNWxyHSyltOz5Dx0kvoY2iG8IeT6intsGVABkp0jG7xrvyGajlJ3hv-QQ=s256-rw",
+    "slug": "Top-Heroes-Kingdom-Saga",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Top-Heroes-Kingdom-Saga.webp"
+  },
+  {
+    "url": "/topgames/Masha-and-the-Bear-Pizza-Maker",
+    "title": "Masha and the Bear Pizza Maker",
+    "icon": "https://play-lh.googleusercontent.com/oZv-3Ob4JdeQLXQFmC-bTePxjfNU7PYRcuQe-tnUPLvbL1MdeWv-X1U6bF5SApbpKO6hfW2GsQPZsnxSVnG9=s256-rw",
+    "slug": "Masha-and-the-Bear-Pizza-Maker",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Masha-and-the-Bear-Pizza-Maker.webp"
+  },
+  {
+    "url": "/topgames/Baldis-Basics-Classic",
+    "title": "Baldi's Basics® Classic",
+    "icon": "https://play-lh.googleusercontent.com/X3pFmaeRvJlDP7e_GBrnRGu5dfSrdMsudpX3BldRNSKEmE9lDNpiQ9peVkmSZUHmJPwW4OgB2-3rqA-WVfggMA=s256-rw",
+    "slug": "Baldis-Basics-Classic",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Baldis-Basics-Classic.webp"
+  },
+  {
+    "url": "/topgames/Dark-War-Survival",
+    "title": "Dark War Survival",
+    "icon": "https://play-lh.googleusercontent.com/gaanbGpciRZh801jTahoaImwr96KtBp2Uuez12ww9sIxFQhqieIZgTjB_dGzhCaR1ccM9Eku11FxhOWgoxifwdc=s256-rw",
+    "slug": "Dark-War-Survival",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Dark-War-Survival.webp"
+  },
+  {
+    "url": "/topgames/Magic-Sort",
+    "title": "Magic Sort!",
+    "icon": "https://play-lh.googleusercontent.com/WpTMBQdhAVa2y3tzsw5T4h9aT5C9Ng1fo3m5JGp0fi4bCD3Gcw8hOPodjjbs2moXX71FH21eSfPMVpR3OL6B=s256-rw",
+    "slug": "Magic-Sort",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Magic-Sort.webp"
+  },
+  {
+    "url": "/topgames/Makeup-Stylist-Makeup-Game",
+    "title": "Makeup Stylist: Makeup Game",
+    "icon": "https://play-lh.googleusercontent.com/fmwQgZ3mW7rTXggOEVaZCn74YkKikdR8ojk1aC70Anm5_JzIynU1LMjeVeRX_L0i3OQfUHYvt9Rs2LJwJaYf=s256-rw",
+    "slug": "Makeup-Stylist-Makeup-Game",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Makeup-Stylist-Makeup-Game.webp"
+  },
+  {
+    "url": "/topgames/2-3-4-Player-Mini-Games",
+    "title": "2 3 4 Player Mini Games",
+    "icon": "https://play-lh.googleusercontent.com/Twm6l8YuKOmt-7PL3rrEM-5pv4uU5MoA0FK1IhOCCdXjutiYCaxB50wSYS1jNwjuN61cO-9xiWh_4W2w3iXvag=s256-rw",
+    "slug": "2-3-4-Player-Mini-Games",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/2-3-4-Player-Mini-Games.webp"
+  },
+  {
+    "url": "/topgames/My-Talking-Tom-Friends-2",
+    "title": "My Talking Tom Friends 2",
+    "icon": "https://play-lh.googleusercontent.com/yuivsShZkyfg0ITz9azBh-ZU6p-XtbWRpJ1qA_3nEPtZcvrBMrmufyJROLtK-2X9nBg_iDA_IwIHTn3Mw1V2y0A=s256-rw",
+    "slug": "My-Talking-Tom-Friends-2",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/My-Talking-Tom-Friends-2.webp"
+  },
+  {
+    "url": "/topgames/Phone-Case-DIY",
+    "title": "Phone Case DIY",
+    "icon": "https://play-lh.googleusercontent.com/I0k164U18meu9VwS05S8chAkrJe33ts0kzYTL-SevrXBVYl5fKgsvtLhmoUD0sWRn4fTZuQFnK1ocV_68DD4SQ=s256-rw",
+    "slug": "Phone-Case-DIY",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Phone-Case-DIY.webp"
+  },
+  {
+    "url": "/topgames/Merge-Dragons",
+    "title": "Merge Dragons!",
+    "icon": "https://play-lh.googleusercontent.com/BQ7FoZvbfVgJwULkJqXD4YpTC6XqqDUBqZ9L2MAqT1YjCx8ibE60dNmofd7Wiuo7g9OAztwwCrBZFCJDsZXcKQ=s256-rw",
+    "slug": "Merge-Dragons",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Merge-Dragons.webp"
+  },
+  {
+    "url": "/topgames/Red-Ball-4",
+    "title": "Red Ball 4",
+    "icon": "https://play-lh.googleusercontent.com/iOK2SVhQXgojw4o8U_fZ2slzT0JiftJ4vU55meg0APcMOTJfZjfIp6cbz88RAp5C7RN8zPP0KIgeQw-OYnNt7Q=s256-rw",
+    "slug": "Red-Ball-4",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Red-Ball-4.webp"
+  },
+  {
+    "url": "/topgames/Kick-Break-The-Ragdoll-Games",
+    "title": "Kick & Break The Ragdoll Games",
+    "icon": "https://play-lh.googleusercontent.com/31gigCJH-uYfzAYqmgj9AdjMmhhdFm2h_e_kz0PZmqKIOgM8DZSCcvStCkRvea_fNlj2XvDuK8uPgfd7FInQXpw=s256-rw",
+    "slug": "Kick-Break-The-Ragdoll-Games",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Kick-Break-The-Ragdoll-Games.webp"
+  },
+  {
+    "url": "/topgames/2-Player-games-the-Challenge",
+    "title": "2 Player games : the Challenge",
+    "icon": "https://play-lh.googleusercontent.com/XwU0XoMDOrKlC9Ur-qsi9ZBaqtPoZUicf_UX2QHx2hqNQd4V7ggI6lZZOB6yFmt2stbtegP2-6gfcZARDZ9uIA=s256-rw",
+    "slug": "2-Player-games-the-Challenge",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/2-Player-games-the-Challenge.webp"
+  },
+  {
+    "url": "/topgames/1-2-3-4-Player-Games-Offline",
+    "title": "1 2 3 4 Player Games - Offline",
+    "icon": "https://play-lh.googleusercontent.com/Lr8T5qU3EaYfBVHdd9jcaRnauzs-oJN7GSw8GGe0kgNkhWvwQym5iNwG9A9sSIKe2Iwo37IirPJRxqlK3Icr8Q=s256-rw",
+    "slug": "1-2-3-4-Player-Games-Offline",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/1-2-3-4-Player-Games-Offline.webp"
+  },
+  {
+    "url": "/topgames/Kalliu-Game-World-Life-Story",
+    "title": "Kalliu Game World: Life Story",
+    "icon": "https://play-lh.googleusercontent.com/2jVRzVIS6dfQAT5EdxFhL62AB6IHv4uZKMvEIk67_-oxWU-uvJV7lhKEx2_go6yEJZTk5ud5bll-alnLZ_xE=s256-rw",
+    "slug": "Kalliu-Game-World-Life-Story",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Kalliu-Game-World-Life-Story.webp"
+  },
+  {
+    "url": "/topgames/Solar-Smash",
+    "title": "Solar Smash",
+    "icon": "https://play-lh.googleusercontent.com/CEQ7m2k4DA1fh8QKk8ArK5bfQM6_rL0pUHo9XAPslrWloX1AbQ2M6v7uOGQmUm6TtZSGlfvK4LGtB1O5lA551g=s256-rw",
+    "slug": "Solar-Smash",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Solar-Smash.webp"
+  },
+  {
+    "url": "/topgames/Solitaire-Classic-Card-Games",
+    "title": "Solitaire - Classic Card Games",
+    "icon": "https://play-lh.googleusercontent.com/nVTU-EbcHkMg-KXt93shtsgX506v_zDBLG04H2pnp4Lom2J_mSp5gHO5YtZhCSpDpLJUgBYneCd5h6oDduKJ6Q=s256-rw",
+    "slug": "Solitaire-Classic-Card-Games",
+    "category": "Card",
+    "localIcon": "/assets/media/topgames/Solitaire-Classic-Card-Games.webp"
+  },
+  {
+    "url": "/topgames/FNaF-6-Pizzeria-Simulator",
+    "title": "FNaF 6: Pizzeria Simulator",
+    "icon": "https://play-lh.googleusercontent.com/kzdjr8Mi53HMi_Ils2YWpVCq8Ns0s40QzcYEeMQcZxXB8owNcRFIKPAKgadjbuqkHZ7nl2nF-PQ8BSQhLUCSuw=s256-rw",
+    "slug": "FNaF-6-Pizzeria-Simulator",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/FNaF-6-Pizzeria-Simulator.webp"
+  },
+  {
+    "url": "/topgames/F1-Clash-Official-2026-Game",
+    "title": "F1® Clash - Official 2026 Game",
+    "icon": "https://play-lh.googleusercontent.com/u2qi5FiPxN0jkXx7qLwmtcvbZ0NKeYS4rzTOb83-w-_MHH71IFtPZ8wUPM2tDDDk5FRlV5pmJtGNG3T0o_uf=s256-rw",
+    "slug": "F1-Clash-Official-2026-Game",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/F1-Clash-Official-2026-Game.webp"
+  },
+  {
+    "url": "/topgames/Stealth-Master-Assassin-Ninja",
+    "title": "Stealth Master: Assassin Ninja",
+    "icon": "https://play-lh.googleusercontent.com/KV1CPsb_8AL1scwaSKPJmo7qjemtDzDythkf4epSMTyyKhGhYG1Q9uyZC_XWq4-sHZnftveFvKOf8VLdOm9X=s256-rw",
+    "slug": "Stealth-Master-Assassin-Ninja",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Stealth-Master-Assassin-Ninja.webp"
+  },
+  {
+    "url": "/topgames/Stickman-Hook",
+    "title": "Stickman Hook",
+    "icon": "https://play-lh.googleusercontent.com/P0iWBBBjLDDVhrNVWUgQ0ApoIroCyN4ZHWdtjd4Uj3BJw9PX7zABccjrfRD2Mntw6ywSWL7UXNeKOwOVOyJxYw=s256-rw",
+    "slug": "Stickman-Hook",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Stickman-Hook.webp"
+  },
+  {
+    "url": "/topgames/Lands-of-Jail",
+    "title": "Lands of Jail",
+    "icon": "https://play-lh.googleusercontent.com/Ms4UyzsEEE4kwdQb2EoAwovIFN4wOabxDtpjlD9jpnfI7WG00l3B4Ue7Katc1CbQ6vmTGNQomk1LewfY-tmPPes=s256-rw",
+    "slug": "Lands-of-Jail",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Lands-of-Jail.webp"
+  },
+  {
+    "url": "/topgames/Moto-X3M-Bike-Race-Game",
+    "title": "Moto X3M Bike Race Game",
+    "icon": "https://play-lh.googleusercontent.com/h4VaVu607Cj-9wIJf8AWuSo_zdMIHHAGldVQV2iGNAtMxuY9lVcVEnndZB5JXOJTG8t3RpcP4QLLP53SvsnZ_A=s256-rw",
+    "slug": "Moto-X3M-Bike-Race-Game",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Moto-X3M-Bike-Race-Game.webp"
+  },
+  {
+    "url": "/topgames/Zen-Word-Relax-Puzzle-Game",
+    "title": "Zen Word® - Relax Puzzle Game",
+    "icon": "https://play-lh.googleusercontent.com/B1vB5FicSMSGxmWvb92jDVIh_5VGq0mFSKQ4TBc0Nl1X5XtoANsuarU8hNilV8z4pxA68UpcJkwlLupENp3A=s256-rw",
+    "slug": "Zen-Word-Relax-Puzzle-Game",
+    "category": "Word",
+    "localIcon": "/assets/media/topgames/Zen-Word-Relax-Puzzle-Game.webp"
+  },
+  {
+    "url": "/topgames/Super-Bear-Adventure",
+    "title": "Super Bear Adventure",
+    "icon": "https://play-lh.googleusercontent.com/e8EqoEJMdQpFVNmDSi5dSmf2EZx_93y66qayc3y5FxbiGOSp38Sww6wtvlI5oZyXD6hamJ9Vtw3pEb_SaWd8LIU=s256-rw",
+    "slug": "Super-Bear-Adventure",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Super-Bear-Adventure.webp"
+  },
+  {
+    "url": "/topgames/Gacha-Life",
+    "title": "Gacha Life",
+    "icon": "https://play-lh.googleusercontent.com/1lrIYqfp3xHxFCASxQ2hVaTPLkjoDHpLYVCuiLGOu2v7vCHfjE7hm2gtGgHAqOVm83KOUUW1878BoIh1kGcTrg=s256-rw",
+    "slug": "Gacha-Life",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Gacha-Life.webp"
+  },
+  {
+    "url": "/topgames/Five-Nights-at-Freddys",
+    "title": "Five Nights at Freddy's",
+    "icon": "https://play-lh.googleusercontent.com/AI5JwVmiXgkAvySoyHcIIsQAZjAsX3C0GfOIeTx6MM2AyGP02DwPlx29IZUi4JzGnpUJJhQYwRnu8rd0IwmMbg=s256-rw",
+    "slug": "Five-Nights-at-Freddys",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Five-Nights-at-Freddys.webp"
+  },
+  {
+    "url": "/topgames/The-Baby-In-Yellow",
+    "title": "The Baby In Yellow",
+    "icon": "https://play-lh.googleusercontent.com/vz14ouljOAK5wXdK_Ve93c8eRLGgxkn2ALT7WTa74cu3h6VEcRHY8LjYfs8PIC_msKrdituk5xfIBVr-Fopm2w=s256-rw",
+    "slug": "The-Baby-In-Yellow",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/The-Baby-In-Yellow.webp"
+  },
+  {
+    "url": "/topgames/Tiles-Survive",
+    "title": "Tiles Survive!",
+    "icon": "https://play-lh.googleusercontent.com/s0BYl3XzwvKGfma3ZftsmchXs7rCsyDKHJ7LTB6E3kY_WRorvEKg4cRawg0r2Ac0ZIbZ90VcEkI3UsUvdHlt4fg=s256-rw",
+    "slug": "Tiles-Survive",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Tiles-Survive.webp"
+  },
+  {
+    "url": "/topgames/PK-XD-Fun-friends-games",
+    "title": "PK XD: Fun, friends & games",
+    "icon": "https://play-lh.googleusercontent.com/gfr2n8K9E_cNPUdnYSNDUjOPQn4Z3gBd_0Rz9T0SHlP1ViwkAC-Lj6iOwA9lr7u3f0QkRpRiQyAKPwOzmNxq=s256-rw",
+    "slug": "PK-XD-Fun-friends-games",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/PK-XD-Fun-friends-games.webp"
+  },
+  {
+    "url": "/topgames/My-Perfect-Hotel",
+    "title": "My Perfect Hotel",
+    "icon": "https://play-lh.googleusercontent.com/LFGfYEgoPSU570A042YrKnkeKWwhM22K3Lo7SHkoaltHQKz1FvZX6lv1eS8yFxHKzkUXKD2mewOU9fQzQU1s=s256-rw",
+    "slug": "My-Perfect-Hotel",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/My-Perfect-Hotel.webp"
+  },
+  {
+    "url": "/topgames/Fruit-MergeTM-Match-Game",
+    "title": "Fruit Merge™: Match Game",
+    "icon": "https://play-lh.googleusercontent.com/k-h17D0nT2I4QkPS4zopZHz-uxlcBn2AJ5ly8BekGg7_fAFpgQL9fqakvbaVTDJNsk5sJOMzjd7SY7DFYuyjjNw=s256-rw",
+    "slug": "Fruit-MergeTM-Match-Game",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Fruit-MergeTM-Match-Game.webp"
+  },
+  {
+    "url": "/topgames/Granny",
+    "title": "Granny",
+    "icon": "https://play-lh.googleusercontent.com/P8BbkQ6m0eCYYAx2tXTESBiIDQ2RESsSQp6oD8ZAP35rmEjmaXHMboYT6P807sAnfcuskKTdYbTyH5R0GCFk8Q=s256-rw",
+    "slug": "Granny",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Granny.webp"
+  },
+  {
+    "url": "/topgames/Supreme-Duelist",
+    "title": "Supreme Duelist",
+    "icon": "https://play-lh.googleusercontent.com/W-LK0QBaaoFB0O_V8bs8emWxsC_p0-DUYGfctk-sUDND0Z8u6Bq85E3D1KYfKbRg-b2Gg9fefi8_497l1VREdA=s256-rw",
+    "slug": "Supreme-Duelist",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Supreme-Duelist.webp"
+  },
+  {
+    "url": "/topgames/Archery-Battle-3D",
+    "title": "Archery Battle 3D",
+    "icon": "https://play-lh.googleusercontent.com/qUyvSWqyfTRqZvpffToo-uziThY1cffxR8pbAIQVpZVYit-BtJdzhLLmaDwKqmjPSTTG2po_WVj9hEIMjRyJ=s256-rw",
+    "slug": "Archery-Battle-3D",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Archery-Battle-3D.webp"
+  },
+  {
+    "url": "/topgames/Toca-Life-World-Build-a-Story",
+    "title": "Toca Boca World",
+    "icon": "https://play-lh.googleusercontent.com/FindnWJcVLEkWKxJPm1P4NA07WJkLd2BrkHschg7gjQ_CFJ_9DUkS2nBwywXPxQkdWokX2UG_0v8hGbuq9t_=s256-rw",
+    "slug": "Toca-Life-World-Build-a-Story",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Toca-Life-World-Build-a-Story.webp"
+  },
+  {
+    "url": "/topgames/Moy-6-the-Virtual-Pet-Game",
+    "title": "Moy 6 the Virtual Pet Game",
+    "icon": "https://play-lh.googleusercontent.com/-IIHf2YG7B7Crmv3D53lEQpTsbbFVZAxAQDm4nUXU65Z_uZIz95qyTC748SR9m4x0xiQEJY9a4xDIv99lSBpqw=s256-rw",
+    "slug": "Moy-6-the-Virtual-Pet-Game",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Moy-6-the-Virtual-Pet-Game.webp"
+  },
+  {
+    "url": "/topgames/Flambe-Merge-Cook",
+    "title": "Flambé®: Merge & Cook",
+    "icon": "https://play-lh.googleusercontent.com/DxEYTS_nNDbesjgAGulDTgl8V2cV42UUmeOGPei2c95XRW7GY_XgihSsaPF7rnRua18Egkd1-siIgbkVjq73Hg=s256-rw",
+    "slug": "Flambe-Merge-Cook",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Flambe-Merge-Cook.webp"
+  },
+  {
+    "url": "/topgames/Car-Race",
+    "title": "Car Race 3D: Car Racing",
+    "icon": "https://play-lh.googleusercontent.com/GSn5DZrqYRHc_my71disDV3GC-vKDg5FcgjAjb8SElHkRKvjl5vdaB-9D3cLYsZ0n5LGxijY5Rdopk2r76MX=s256-rw",
+    "slug": "Car-Race",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Car-Race.webp"
+  },
+  {
+    "url": "/topgames/Color-Block-Combo-Blast",
+    "title": "Color Block: Combo Blast",
+    "icon": "https://play-lh.googleusercontent.com/yYQ4QldM1Dclw1mK0sW1gJlwT6XJ05qPf6IGu9GtXc3kKfNj92PqdmkD8OFtRId75a5fuKkJ5X38b2qCl3QYeA=s256-rw",
+    "slug": "Color-Block-Combo-Blast",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Color-Block-Combo-Blast.webp"
+  },
+  {
+    "url": "/topgames/Mario-Kart-Tour",
+    "title": "Mario Kart Tour",
+    "icon": "https://play-lh.googleusercontent.com/nuFtr86rUfHTNf2vk_MuxWkXm6LOswzIYbxJ7Nd6E48WcyzEhAmIugThYVXvJ6qbQrMmhsPxmstAsQA4y7P7iw=s256-rw",
+    "slug": "Mario-Kart-Tour",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Mario-Kart-Tour.webp"
+  },
+  {
+    "url": "/topgames/My-Talking-Hank-Islands",
+    "title": "My Talking Hank: Islands",
+    "icon": "https://play-lh.googleusercontent.com/9zyuaXU8DwuSvpxGtQ4IXXpjl7961MzAPB7GRn6TeFuIlzfADgo5pkXP_YvxMTGP1yOGQsZFqslbGTOMOpzIdWc=s256-rw",
+    "slug": "My-Talking-Hank-Islands",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/My-Talking-Hank-Islands.webp"
+  },
+  {
+    "url": "/topgames/Race-Master-3D-Car-Racing",
+    "title": "Race Master 3D: Car Racing",
+    "icon": "https://play-lh.googleusercontent.com/-dgmy1tX42EGfXRFTfSzCmSNbj3KZIdkE6vNS69cVcVUEFMdq_WWHI7Yb2Z9p4-7nym3VXhHIZhXUOmgNrtUIl8=s256-rw",
+    "slug": "Race-Master-3D-Car-Racing",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Race-Master-3D-Car-Racing.webp"
+  },
+  {
+    "url": "/topgames/Mini-Relaxing-Game-pop-it",
+    "title": "Mini Relaxing Game- pop it",
+    "icon": "https://play-lh.googleusercontent.com/eHgIwVUM5aruvs_MezReNIqNY_bwXwh9ycmoD4tICEoR8nLuRNr3DTWq3KjL6-8fIdnDFArb_rNChmeuNIMPa-U=s256-rw",
+    "slug": "Mini-Relaxing-Game-pop-it",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Mini-Relaxing-Game-pop-it.webp"
+  },
+  {
+    "url": "/topgames/FPS-Strike-Ops-Modern-Arena",
+    "title": "FPS Strike Ops : Modern Arena",
+    "icon": "https://play-lh.googleusercontent.com/eiOZd_w3-KqGU1NfuZDqrY8FclcKAdGegweEXsNcjBWPs9yWffAY78PCITk1wj9vtEdM0S3DuKdoXiqUF1o_=s256-rw",
+    "slug": "FPS-Strike-Ops-Modern-Arena",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/FPS-Strike-Ops-Modern-Arena.webp"
+  },
+  {
+    "url": "/topgames/Animals-Coins-Adventure-Game",
+    "title": "Animals & Coins Adventure Game",
+    "icon": "https://play-lh.googleusercontent.com/hkBI676r8G05kQEhxXgzDuACsU3FG9QdAH-6po7D9Ev-UTW3cVmAai6U6GhZHSIE4iU_lX2_zFcJpCcOcxHr=s256-rw",
+    "slug": "Animals-Coins-Adventure-Game",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Animals-Coins-Adventure-Game.webp"
+  },
+  {
+    "url": "/topgames/Poppy-Playtime-Chapter-1",
+    "title": "Poppy Playtime Chapter 1",
+    "icon": "https://play-lh.googleusercontent.com/Wm5KSdQqBegE1stWFUOB3Vg0rw6z0LQPG1_sIFtiQgj2VMZmefaScEfcJXPsnz2MCc9su-P9msWZU2mKEcuxgOY=s256-rw",
+    "slug": "Poppy-Playtime-Chapter-1",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Poppy-Playtime-Chapter-1.webp"
+  },
+  {
+    "url": "/topgames/Flip-Master",
+    "title": "Flip Master",
+    "icon": "https://play-lh.googleusercontent.com/FPs-rotjozAfWa1cnuff81LMLwV3bWSUu9hpKAhQeneflz6-HeJYEmQhj9iasISntyfWCBZr4jLmIQstlSZ3Ww=s256-rw",
+    "slug": "Flip-Master",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Flip-Master.webp"
+  },
+  {
+    "url": "/topgames/Street-Racing-3D",
+    "title": "Street Racing 3D",
+    "icon": "https://play-lh.googleusercontent.com/8Prp3HDz_MlJi5Jggg-RCGieSihzWQw7Dj7bi45rHSc2MOvei2SDAslIt4INFh4DyKCVpJlIaiJMpZhOx58cXw=s256-rw",
+    "slug": "Street-Racing-3D",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Street-Racing-3D.webp"
+  },
+  {
+    "url": "/topgames/Pixel-Flow",
+    "title": "Pixel Flow!",
+    "icon": "https://play-lh.googleusercontent.com/FvAiHRhj8Wo1vO_4ez1V8ChSJKAw46dos-FEIkbmNs_wtbDKg0Y9eyVJe1hJn2R-mwyr4_LmWkIGJCHHY74K=s256-rw",
+    "slug": "Pixel-Flow",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Pixel-Flow.webp"
+  },
+  {
+    "url": "/topgames/Cooking-City-Restaurant-Games",
+    "title": "Cooking City - Cooking Games",
+    "icon": "https://play-lh.googleusercontent.com/WlwQNbYJ3Ku5OsAh1sgalYjRMhUaQbVl0XVN5uE5u288IYQl1ZnXoX2edj58AjrVCpPU1bk83SK7gYapo2bOuKk=s256-rw",
+    "slug": "Cooking-City-Restaurant-Games",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Cooking-City-Restaurant-Games.webp"
+  },
+  {
+    "url": "/topgames/War-MachinesTanks-Battle-Game",
+    "title": "War Machines：Tanks Battle Game",
+    "icon": "https://play-lh.googleusercontent.com/bkzoRJZfTQNKKQSDBsedwOg8lMl4bepJiueo7DLDWS82sRRsEWhwKZPkHCuLxvDKeS8y977LbhjqPDJK4NaQiA=s256-rw",
+    "slug": "War-MachinesTanks-Battle-Game",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/War-MachinesTanks-Battle-Game.webp"
+  },
+  {
+    "url": "/topgames/Dino-Bash-Dinosaur-Battle",
+    "title": "Dino Bash: Dinosaur Battle",
+    "icon": "https://play-lh.googleusercontent.com/_gpcXwrbciN2hdf3Bz1TRWCzCj6qtg5-qGqZRj8XcB4XR6SZZwMNaYksk_PAlqGVZMbu_Z0gOsOF-EHRcAr2vDs=s256-rw",
+    "slug": "Dino-Bash-Dinosaur-Battle",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Dino-Bash-Dinosaur-Battle.webp"
+  },
+  {
+    "url": "/topgames/All-in-Hole-Black-Hole-Games",
+    "title": "All in Hole: Black Hole Games",
+    "icon": "https://play-lh.googleusercontent.com/C9bF6DEb9Ppu-S8M_d6o1n0Wg7p6mwf3_pgGERHPtlt5IoRxH1V0O0bhGhdqliNivGeZ4I8vO51qxeCOu_RzS3o=s256-rw",
+    "slug": "All-in-Hole-Black-Hole-Games",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/All-in-Hole-Black-Hole-Games.webp"
+  },
+  {
+    "url": "/topgames/Bomber-Friends",
+    "title": "Bomber Friends",
+    "icon": "https://play-lh.googleusercontent.com/CaeVov59xCUGgvyETj7FWfo81gvey9pqvI-LQG9Opq1fq7KQp--z7ASjpf4VsXSAcekN-ad8BZtMxdF8XQrc9A=s256-rw",
+    "slug": "Bomber-Friends",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Bomber-Friends.webp"
+  },
+  {
+    "url": "/topgames/Top-Tycoon-Coin-Theme-Empire",
+    "title": "Top Tycoon: Coin Theme Empire",
+    "icon": "https://play-lh.googleusercontent.com/j24FeVh0JS2xgxwLPsZ57I4qZhEPtbXrlz4drrSQXh3_oZI8O4W-X7bZKQ1p5SjanHIBIoHiKTjUzLftEhJVig=s256-rw",
+    "slug": "Top-Tycoon-Coin-Theme-Empire",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Top-Tycoon-Coin-Theme-Empire.webp"
+  },
+  {
+    "url": "/topgames/The-Grand-Mafia",
+    "title": "The Grand Mafia",
+    "icon": "https://play-lh.googleusercontent.com/bP2YijJqvRcJoYwnF3983v4wgLNWZ4BbjOXlPKl2oyxbTDJDHa3TB54-qN6kbZ869oyI7Vd21-MqyTTQ5eJD=s256-rw",
+    "slug": "The-Grand-Mafia",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/The-Grand-Mafia.webp"
+  },
+  {
+    "url": "/topgames/Solitaire---Classic-Card-Game",
+    "title": "Solitaire - Classic Card Game",
+    "icon": "https://play-lh.googleusercontent.com/sTclWyu-6LKa5SEZsQd52lFHHus9UH8LBl-wTqBMUdfDKTZGaqs_HzgJOnuQ8zfiqYtys3PZq910Tct7ab9gn6w=s256-rw",
+    "slug": "Solitaire---Classic-Card-Game",
+    "category": "Card",
+    "localIcon": "/assets/media/topgames/Solitaire---Classic-Card-Game.webp"
+  },
+  {
+    "url": "/topgames/Super-Goal-Fun-Soccer-Game",
+    "title": "Super Goal: Fun Soccer Game",
+    "icon": "https://play-lh.googleusercontent.com/nEUrOHwb2D5oxvdjC2XWy2sxkoa_gfP5_tOhjMS-epq62JNsflkZrmQquK4zvIjl-ARok9KygnpJZgIPnoW5Tg=s256-rw",
+    "slug": "Super-Goal-Fun-Soccer-Game",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Super-Goal-Fun-Soccer-Game.webp"
+  },
+  {
+    "url": "/topgames/Last-Day-on-Earth-Survival",
+    "title": "Last Day on Earth: Survival",
+    "icon": "https://play-lh.googleusercontent.com/_dEeRX2npkXJsq4iZZer_WAHFSLCdybkMdYkDB3ltLBAtK6RxKovMPB238LP0u6k0CcM1whYeZsTbyWoY2W-=s256-rw",
+    "slug": "Last-Day-on-Earth-Survival",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Last-Day-on-Earth-Survival.webp"
+  },
+  {
+    "url": "/topgames/Disney-Frozen-Free-Fall-Games",
+    "title": "Disney Frozen Free Fall Games",
+    "icon": "https://play-lh.googleusercontent.com/5aDd-lwWuvK_ljQ9suzZP-OdTkGBQKN7l6hV9ydfKJrMrpIpPOp0GkwkVYXII0Myfx1yAFw4_E6kRTXdvppGbOs=s256-rw",
+    "slug": "Disney-Frozen-Free-Fall-Games",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Disney-Frozen-Free-Fall-Games.webp"
+  },
+  {
+    "url": "/topgames/Crazy-Dino-Park",
+    "title": "Crazy Dino Park",
+    "icon": "https://play-lh.googleusercontent.com/ZjOZt105HQCSHvyGxSKpgAbKdzIR4Yh_tdtN-1_NtWCT--q6lIiEmQPNfsb-WgcZBGt0xsYwOPasDJ0ExrS9y00=s256-rw",
+    "slug": "Crazy-Dino-Park",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Crazy-Dino-Park.webp"
+  },
+  {
+    "url": "/topgames/Plants-vs-Zombies-Heroes",
+    "title": "Plants vs. Zombies™ Heroes",
+    "icon": "https://play-lh.googleusercontent.com/B0G4J3QhWC4z5xKKgUa4rUcWklYJqqWDycWgCu17uB7G8a3iyMv63KTe7UtT6HZrpFzkk2xzk7GaavqUyALV=s256-rw",
+    "slug": "Plants-vs-Zombies-Heroes",
+    "category": "Card",
+    "localIcon": "/assets/media/topgames/Plants-vs-Zombies-Heroes.webp"
+  },
+  {
+    "url": "/topgames/Daily-Number-Match",
+    "title": "Daily Number Match",
+    "icon": "https://play-lh.googleusercontent.com/wa9Oo3E22FuBFDmjJqfuQdXN_6M5W7YHiuJF4rL_I8Tjm7ORzdUAQ0xurEKf7bk6vmH_RSap-3cLK1B-hGI7SQ=s256-rw",
+    "slug": "Daily-Number-Match",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Daily-Number-Match.webp"
+  },
+  {
+    "url": "/topgames/Spider-Fighter-3-Action-Game",
+    "title": "Spider Fighter 3: Action Game",
+    "icon": "https://play-lh.googleusercontent.com/qFjN5xUtdSlY9agy2ZEK2Tlh5GomgS6w0t9ysH1p2Q9aDpLEoe6SsSq9mSXZw0jsltgtrm66ki40BTvSXlcZ=s256-rw",
+    "slug": "Spider-Fighter-3-Action-Game",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Spider-Fighter-3-Action-Game.webp"
+  },
+  {
+    "url": "/topgames/MadOut-2-Grand-Auto-Racing",
+    "title": "MadOut 2: Grand Auto Racing",
+    "icon": "https://play-lh.googleusercontent.com/tp4yXu-ovpLS3NJFptnTKIEiPO5xrDjI4VfkAyDFcy8XkBfpoBVvKED-Pd2R6QHQEE_vi6z_jJfkS33jm41x=s256-rw",
+    "slug": "MadOut-2-Grand-Auto-Racing",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/MadOut-2-Grand-Auto-Racing.webp"
+  },
+  {
+    "url": "/topgames/Junes-Journey-Hidden-Objects",
+    "title": "June's Journey: Hidden Objects",
+    "icon": "https://play-lh.googleusercontent.com/gEPrM7TxCnnWEC_SbfagbJr3CDn1k2VdOip9tj1x0FdYN7naQcMF7s2sP9qJGfqcbjgM80k4d_3pQ0WI-8rk=s256-rw",
+    "slug": "Junes-Journey-Hidden-Objects",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Junes-Journey-Hidden-Objects.webp"
+  },
+  {
+    "url": "/topgames/Marble-Sort-Color-Puzzle",
+    "title": "Marble Sort! - Color Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/3ifDLC8EzFNJIbBqdgcfwAzVNzNwadi_zuyEuy2zZw0IL505s2-MPWomC5tNLXIX1kBtNxlwFiufCfUvrDgjAOY=s256-rw",
+    "slug": "Marble-Sort-Color-Puzzle",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Marble-Sort-Color-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Perfect-Makeover-Cleaning-ASMR",
+    "title": "Perfect Makeover Cleaning ASMR",
+    "icon": "https://play-lh.googleusercontent.com/tQqART498o4QoqUiVGm-yxF1wAL0sQprsU7hoDOvu_BRudzHIyYFEmQpU3-y9ureHx9TEQZrYsKlBZdJm2pnp2s=s256-rw",
+    "slug": "Perfect-Makeover-Cleaning-ASMR",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Perfect-Makeover-Cleaning-ASMR.webp"
+  },
+  {
+    "url": "/topgames/Glow-Fashion-Idol",
+    "title": "Glow Fashion Idol",
+    "icon": "https://play-lh.googleusercontent.com/g2nIc_OPSy3JLw8lgVvWCpJSsoorengpP1h70ktPZIv_x7SselgFd45FO_xZ0ANT2HSZPo_TBSHtchphJJpgmA=s256-rw",
+    "slug": "Glow-Fashion-Idol",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Glow-Fashion-Idol.webp"
+  },
+  {
+    "url": "/topgames/Lamar-Idle-Vlogger",
+    "title": "Lamar - Idle Vlogger",
+    "icon": "https://play-lh.googleusercontent.com/kq_IkzL1u2FhBFhXeozEQqhIS23pjnhYCpxlLJcLYQft2cGimQPgeOA78pyF57xp4fphWxrBy5gLixzcHAK2=s256-rw",
+    "slug": "Lamar-Idle-Vlogger",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Lamar-Idle-Vlogger.webp"
+  },
+  {
+    "url": "/topgames/Gacha-Club",
+    "title": "Gacha Club",
+    "icon": "https://play-lh.googleusercontent.com/f6kVXGwfe6vK9hJ-okf0In_wsw_pUU-Wp2h1vs-GrfuF98rsL1RZwkMiOW1_sp-R5P4r7AowRa62fbN043xZELk=s256-rw",
+    "slug": "Gacha-Club",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Gacha-Club.webp"
+  },
+  {
+    "url": "/topgames/Dog-Escape-Cute-Pet-Care-Life",
+    "title": "Dog Escape: Cute Pet Care Life",
+    "icon": "https://play-lh.googleusercontent.com/E7r9PZu51JsknCwWVJ-2c48eZbV9EzIMTOWztnmnvXBt2bUdFkhB33ciMpYC3YiwBUv--Wr7UBAKI39ja5Ll=s256-rw",
+    "slug": "Dog-Escape-Cute-Pet-Care-Life",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Dog-Escape-Cute-Pet-Care-Life.webp"
+  },
+  {
+    "url": "/topgames/Pocket-Champs-3D-Racing-Games",
+    "title": "Pocket Champs: 3D Racing Games",
+    "icon": "https://play-lh.googleusercontent.com/bS2V5iHP36mam3ZjRyi3THIXF4Fv5UxWPs0cMe9pyhdcpZWfrpypdLTg6trBNcGzhe8ZU_5BODLHESTQv3jl=s256-rw",
+    "slug": "Pocket-Champs-3D-Racing-Games",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Pocket-Champs-3D-Racing-Games.webp"
+  },
+  {
+    "url": "/topgames/Brain-Puzzle-3-Crazy-Mind",
+    "title": "Brain Puzzle 3: Crazy Mind",
+    "icon": "https://play-lh.googleusercontent.com/YoP4Pd_zbzGWIAAU9WwRsndXXDKbeXH5vUAVRKAwHh9WwgUEx1F1u3O38F9kjXQEISgT5lpor3ZEJQ1dXM2q798=s256-rw",
+    "slug": "Brain-Puzzle-3-Crazy-Mind",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Brain-Puzzle-3-Crazy-Mind.webp"
+  },
+  {
+    "url": "/topgames/I-Am-Security",
+    "title": "I Am Security",
+    "icon": "https://play-lh.googleusercontent.com/imvlIC_7A-ghCTHEdPoe9hPA2lQitN87CC6iJcYZhcb7Bs2CEgPmcwArb-HoG7GKRg57IpysZ6lFkGuliqfi=s256-rw",
+    "slug": "I-Am-Security",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/I-Am-Security.webp"
+  },
+  {
+    "url": "/topgames/Five-Nights-at-Freddys-4",
+    "title": "Five Nights at Freddy's 4",
+    "icon": "https://play-lh.googleusercontent.com/uND9auR58VWaFSjBHWEHDRxm7VzUZOrhBwxvTfNse76e4-_UOXDbk1w9JVMVUuDSntUpfN1KnBclGzqE3AgNQNI=s256-rw",
+    "slug": "Five-Nights-at-Freddys-4",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Five-Nights-at-Freddys-4.webp"
+  },
+  {
+    "url": "/topgames/I-Am-Cat",
+    "title": "I Am Cat",
+    "icon": "https://play-lh.googleusercontent.com/DNG4vEqTk4K5KXfg9vXbE4P0SGBbHIi5FIESNJd_bCDQlOg7oi8K4kgmEddUaCCAKh7se-8I7BbUg77BSlmy=s256-rw",
+    "slug": "I-Am-Cat",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/I-Am-Cat.webp"
+  },
+  {
+    "url": "/topgames/Meowdoku-Brain-Puzzle-Games",
+    "title": "Meowdoku: Brain Puzzle Games",
+    "icon": "https://play-lh.googleusercontent.com/1vD3Jl37OTth18x__EkbpMZRAmDlGB5mlqKvveWumothf52-1HZXhAy5HGkGLzW_HYoz-rj2q0HBaxu5_8kyVQ=s256-rw",
+    "slug": "Meowdoku-Brain-Puzzle-Games",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Meowdoku-Brain-Puzzle-Games.webp"
+  },
+  {
+    "url": "/topgames/Fashion-Queen-Dress-Up-Game",
+    "title": "Fashion Queen: Dress Up Game",
+    "icon": "https://play-lh.googleusercontent.com/l-0SlXv7Dm_NDb-6bhp3f88ZJG4SLBz4QiSFVcE29TsN0I5uazd3-mx6NPD41gkaXiHbXaQ1HEziBTBohG_veQ=s256-rw",
+    "slug": "Fashion-Queen-Dress-Up-Game",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Fashion-Queen-Dress-Up-Game.webp"
+  },
+  {
+    "url": "/topgames/Truck-Star",
+    "title": "Truck Star",
+    "icon": "https://play-lh.googleusercontent.com/bcvxHCVs5go0uzGohpwDu-Zid76pUDAlLY-XwbXtlGjrsv9wj2KWoW4kCWfMevxtfCbIMUQqqgZv-n8F-YD2SF0=s256-rw",
+    "slug": "Truck-Star",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Truck-Star.webp"
+  },
+  {
+    "url": "/topgames/Color-Block-Jam",
+    "title": "Color Block Jam",
+    "icon": "https://play-lh.googleusercontent.com/H-FJz6OLSLhFmflq2HoasMWZTNf38JyJ_j64ekCCZaKVcJCUQn-_foneJrV1Bd_as7-vCMiZQpY7QUWk3ArevQ=s256-rw",
+    "slug": "Color-Block-Jam",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Color-Block-Jam.webp"
+  },
+  {
+    "url": "/topgames/Domino-DreamsTM",
+    "title": "Domino Dreams™",
+    "icon": "https://play-lh.googleusercontent.com/KPBcFtNGNn3cMtgFthtbrWL0COVs5bINj1aQYniBa6JxgI-FAkce2czhVONttEtLQXnfd0X5rHA6YGMHp3nfWw=s256-rw",
+    "slug": "Domino-DreamsTM",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Domino-DreamsTM.webp"
+  },
+  {
+    "url": "/topgames/Blood-Strike-x-One-Punch-Man",
+    "title": "Blood Strike x One-Punch Man",
+    "icon": "https://play-lh.googleusercontent.com/SXwJQ3maA2BmyR2uGztnwHDIhyxcI8skvrZ1x_wDRKSv7nOALa7ZMJ_otbDoQvGkMxPJK2bFmYaY8_jzplFJNQ=s256-rw",
+    "slug": "Blood-Strike-x-One-Punch-Man",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Blood-Strike-x-One-Punch-Man.webp"
+  },
+  {
+    "url": "/topgames/Matching-Story-Merge-Match",
+    "title": "Matching Story - Merge & Match",
+    "icon": "https://play-lh.googleusercontent.com/ikXrfA5sQ4XKqVJU9CeEmz5jpyknS73VLPtkmXHTjBQ9P30_eTy4ssunIiLML-KrXQy8SVtL2uAg9mB4SGI1=s256-rw",
+    "slug": "Matching-Story-Merge-Match",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Matching-Story-Merge-Match.webp"
+  },
+  {
+    "url": "/topgames/Crafting-and-Building",
+    "title": "Crafting and Building",
+    "icon": "https://play-lh.googleusercontent.com/E5QiXAPA7QHapkST6ya0E6nE3-u0Mwh_BGPtg5X4_1LACAiO_WRxgT7024qGgAj0YxSMzhcAd7IBqMc829_P2Q=s256-rw",
+    "slug": "Crafting-and-Building",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Crafting-and-Building.webp"
+  },
+  {
+    "url": "/topgames/Flex-City-RP-Car-Game-Online",
+    "title": "Flex City RP: Car Game Online",
+    "icon": "https://play-lh.googleusercontent.com/UJGQOrxA8yqYwm90L1by4LkBE80Zmvx1C-aw9vI6PysgP6T7hJuHLDrCz7VidwNL56p95il8rsyW_PzvEHnjIA=s256-rw",
+    "slug": "Flex-City-RP-Car-Game-Online",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Flex-City-RP-Car-Game-Online.webp"
+  },
+  {
+    "url": "/topgames/Block-Crush",
+    "title": "Block Crush!",
+    "icon": "https://play-lh.googleusercontent.com/f_ImrzQpXw781wa_yNSxhfJz4b_t-MSQ6A1PXPoFBX3b0BkKRwVc7ik4eVbwA-x5S0jRxpZ0KvD__ULeEFwFAw=s256-rw",
+    "slug": "Block-Crush",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Block-Crush.webp"
+  },
+  {
+    "url": "/topgames/Match-Villains",
+    "title": "Match Villains",
+    "icon": "https://play-lh.googleusercontent.com/9lEI2KvrcwmaHW0lgTWK0UOs10eQKBHJjs8_f1vxBJaWObw5WdUxwS0VCeS4SJHWe7YpiyftkJZXNyIqOFBm5go=s256-rw",
+    "slug": "Match-Villains",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Match-Villains.webp"
+  },
+  {
+    "url": "/topgames/Carnival-Tycoon-Coin-Games",
+    "title": "Carnival Tycoon: Coin Games",
+    "icon": "https://play-lh.googleusercontent.com/kbAD9jozSTqecUAyIlzSt3D5JxKJ2oW_QNrlEDviUWAQtyDpclglwr7bX_fdskTxWDv5ZoY0iv5vqSs3ic9v7hg=s256-rw",
+    "slug": "Carnival-Tycoon-Coin-Games",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Carnival-Tycoon-Coin-Games.webp"
+  },
+  {
+    "url": "/topgames/Water-Sort-Color-Tube-Puzzle",
+    "title": "Water Sort: Color Tube Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/MFLdFYKLj_c4Sd_HsSOhhYgPM1M_PxDOQcWwyXQjxYqrUXzm-h6FIecBSpDBtm6lqzOYD9ghs5Vs9_rEEw3Kyg=s256-rw",
+    "slug": "Water-Sort-Color-Tube-Puzzle",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Water-Sort-Color-Tube-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Solitaire-Associations-Journey",
+    "title": "Solitaire Associations Journey",
+    "icon": "https://play-lh.googleusercontent.com/NriyZiaH8BOtRSXqY-B0C5d4wwTTz3LcEL71PewdQPxappaD42RQUSAymF1fqGCdm0Ocq8ycjpfF_LLC3Wt4=s256-rw",
+    "slug": "Solitaire-Associations-Journey",
+    "category": "Word",
+    "localIcon": "/assets/media/topgames/Solitaire-Associations-Journey.webp"
+  },
+  {
+    "url": "/topgames/World-of-Tanks-BlitzTM",
+    "title": "World of Tanks Blitz™",
+    "icon": "https://play-lh.googleusercontent.com/9sInKEDpfr7PP1igQkNqtE1u1DShC6C22fCDqQFMcJ2eZh9Sjm5H_PQ8tyiaX5UzClwG7EjbOwzJCYKR5Iimyg0=s256-rw",
+    "slug": "World-of-Tanks-BlitzTM",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/World-of-Tanks-BlitzTM.webp"
+  },
+  {
+    "url": "/topgames/Poppy-Playtime-Chapter-4",
+    "title": "Poppy Playtime Chapter 4",
+    "icon": "https://play-lh.googleusercontent.com/3k4WqI0LOhyrPBC5VImzNmNQ9kKVmv0VDbFbhH6FsOV1J06ECJ60e-vYMK3L2FY1beAnJmLdnNZMy059KfSc=s256-rw",
+    "slug": "Poppy-Playtime-Chapter-4",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Poppy-Playtime-Chapter-4.webp"
+  },
+  {
+    "url": "/topgames/Word-Pizza---Word-Games",
+    "title": "Word Pizza: Crossword Games",
+    "icon": "https://play-lh.googleusercontent.com/n-AEQ13FU7vGLW_lpsP7I8os9AhUeh3BGpDCMkYLuSh630cTKbfoBbP9Q7JZYBq7C9DbYsIbt9o0IQD-cIeCCg=s256-rw",
+    "slug": "Word-Pizza---Word-Games",
+    "category": "Word",
+    "localIcon": "/assets/media/topgames/Word-Pizza---Word-Games.webp"
+  },
+  {
+    "url": "/topgames/Pure-Sniper-Gun-Shooter-Games",
+    "title": "Pure Sniper: Gun Shooter Games",
+    "icon": "https://play-lh.googleusercontent.com/HJpTB_aXOSIdM-pXB-o7cYMU2v8f9jhEyt9uvhi8MlUCy0GlR8IKocdiY38Hqd7RgB3yxeO95klwF3ysLYIE1g=s256-rw",
+    "slug": "Pure-Sniper-Gun-Shooter-Games",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Pure-Sniper-Gun-Shooter-Games.webp"
+  },
+  {
+    "url": "/topgames/Goods-Puzzle-3D-Sorting-Games",
+    "title": "Goods Puzzle: 3D Sorting Games",
+    "icon": "https://play-lh.googleusercontent.com/46q96HsoAc6U0ha9OIELaoHBnH3nVvK8DJ1YrRFBYy_bqbDm84k0wZ6JYdvLX1YTeTcMnuSj5RlRqu4NVXz_cg=s256-rw",
+    "slug": "Goods-Puzzle-3D-Sorting-Games",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Goods-Puzzle-3D-Sorting-Games.webp"
+  },
+  {
+    "url": "/topgames/Point-Out-Color-Escape-Puzzle",
+    "title": "Point Out: Color Escape Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/lY-IKzG8bhPfrpUBTlmx6WRI4R4MM_vUFwUDvKmxBfAZtuVDtUfo3-XOKNG5sXmMx6x2Rgoo4qc-OUYjHrP0hA=s256-rw",
+    "slug": "Point-Out-Color-Escape-Puzzle",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Point-Out-Color-Escape-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Wool-CrushTM",
+    "title": "Wool Crush™",
+    "icon": "https://play-lh.googleusercontent.com/7mblp4y5nLCDobmHGKKHcWSlpJuqsRs5VDu-9sA8KV_FI77ZcxOU6KoPBJcAWvt5aXuffTC4KkwTy20VZtVUow=s256-rw",
+    "slug": "Wool-CrushTM",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Wool-CrushTM.webp"
+  },
+  {
+    "url": "/topgames/Castle-Busters",
+    "title": "Castle Busters",
+    "icon": "https://play-lh.googleusercontent.com/Qm1As6WDJoG6-zPYGYf3uMCbF4pGNOBz6dowCfbXt4Bh4D5VJDe_8LCIFal3800M-a9EpHZbbh0EVHYIwLiAkg=s256-rw",
+    "slug": "Castle-Busters",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Castle-Busters.webp"
+  },
+  {
+    "url": "/topgames/Water-Sort-Puz---Color-Game",
+    "title": "Water Sort Puz - Color Game",
+    "icon": "https://play-lh.googleusercontent.com/XBq8GTNub7YJ1kQx7PaEWa37zKB4ZIOJqXOG81ZwL7rcqh8jzwRxkHs6nmkQHaDcxPboI5TpkWFIbYHhSannbHg=s256-rw",
+    "slug": "Water-Sort-Puz---Color-Game",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Water-Sort-Puz---Color-Game.webp"
+  },
+  {
+    "url": "/topgames/Differences-Find-Spot-It",
+    "title": "Differences - Find & Spot It",
+    "icon": "https://play-lh.googleusercontent.com/_bOALWHaqjvS5pEflAXmKkepmBChOByEgudPowmvWsC5j0a2F7EdFhMq0_KpIO_OMihB3hqzoIfqDywDEIx4a5c=s256-rw",
+    "slug": "Differences-Find-Spot-It",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Differences-Find-Spot-It.webp"
+  },
+  {
+    "url": "/topgames/Monument-Valley",
+    "title": "Monument Valley",
+    "icon": "https://play-lh.googleusercontent.com/PSOC0jku9VwvqwGYQvYGmh9BcsCkc-raSp94t1CzOHi6v7MtC-CgqY0MJckRXX2uNCJ7S4p1eWs1d9uACuPfjw=s256-rw",
+    "slug": "Monument-Valley",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Monument-Valley.webp"
+  },
+  {
+    "url": "/topgames/Five-Nights-at-Freddys-3",
+    "title": "Five Nights at Freddy's 3",
+    "icon": "https://play-lh.googleusercontent.com/eViOi0sPsrubDYe3NCyfUzfM7z1M7gmf-8sMl7tgyPrZveteUqy_eVQoToS_eh2SvueIAvowyWBFTQaL_jQlhBo=s256-rw",
+    "slug": "Five-Nights-at-Freddys-3",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Five-Nights-at-Freddys-3.webp"
+  },
+  {
+    "url": "/topgames/MONOPOLY",
+    "title": "MONOPOLY",
+    "icon": "https://play-lh.googleusercontent.com/InQDZJSAdNFejIjlTw7eDl8TORl_6wmXJV6ANi3vWFgmqDudh_c7T2zT6jvALqXT-Pe3e--Bkat6c1YSVBUXrw=s256-rw",
+    "slug": "MONOPOLY",
+    "category": "Board",
+    "localIcon": "/assets/media/topgames/MONOPOLY.webp"
+  },
+  {
+    "url": "/topgames/Water-Sort-Color-Sort-Puzzle",
+    "title": "Water Sort! Color Sort Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/HGwC4kVKMlVC--9Maf9h6-xm5dhbDHu5WnVLEFhs9A6byuqbSnWg_pqoPzRlSiHPkSpBtnlPQcurkodTJ7lh=s256-rw",
+    "slug": "Water-Sort-Color-Sort-Puzzle",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Water-Sort-Color-Sort-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Hair-Tattoo-Barber-Shop-Game",
+    "title": "Hair Tattoo: Barber Shop Game",
+    "icon": "https://play-lh.googleusercontent.com/ETJJrOIrikhIZGD23tXE_61TZP1EgVjYOJ1cpbAxwjg9c2rGm8_6tuH9HDpRhVq67A2-Ah4op_Q1mV82oa3J=s256-rw",
+    "slug": "Hair-Tattoo-Barber-Shop-Game",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Hair-Tattoo-Barber-Shop-Game.webp"
+  },
+  {
+    "url": "/topgames/Palmon-Survival",
+    "title": "Palmon: Survival",
+    "icon": "https://play-lh.googleusercontent.com/bqAAlCFs18uqxTsCk67OF77Wl16CeVmfvqsnxmM6g8W11X8nOpRSqhjKqT2XQSROupQusPaCgRKySGbogmffiw=s256-rw",
+    "slug": "Palmon-Survival",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Palmon-Survival.webp"
+  },
+  {
+    "url": "/topgames/Dude-Theft-Wars-FPS-Open-world",
+    "title": "Dude Theft Wars FPS Open world",
+    "icon": "https://play-lh.googleusercontent.com/XUH35n4j8rpGXiDQDIjc522gccuZ9J5z8vcEDiMDnvBrZT_SR71XqXgka2-LzPDr29zccuIu9Ty1evyShOi1=s256-rw",
+    "slug": "Dude-Theft-Wars-FPS-Open-world",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Dude-Theft-Wars-FPS-Open-world.webp"
+  },
+  {
+    "url": "/topgames/Tile-Clear-Puzzle-Game",
+    "title": "Tile Clear - Puzzle Game",
+    "icon": "https://play-lh.googleusercontent.com/NBGbFnv5rrm9rLT6t6vCC5LcxGn3TLGwtgI7wO8i61E04CwWD5_wskBSNF65MCf2GhKjlumetQ87nkNZp74f=s256-rw",
+    "slug": "Tile-Clear-Puzzle-Game",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Tile-Clear-Puzzle-Game.webp"
+  },
+  {
+    "url": "/topgames/Design-HomeTM-House-Makeover",
+    "title": "Design Home™: House Makeover",
+    "icon": "https://play-lh.googleusercontent.com/wMfXqyWkT0mDAkdhg-7C8FTLcWsH9mvWevLbajJyyoletchpqrI97kLrtmPuZAPR2bsmp3v3S9MaP3tE-2cWxos=s256-rw",
+    "slug": "Design-HomeTM-House-Makeover",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Design-HomeTM-House-Makeover.webp"
+  },
+  {
+    "url": "/topgames/Top-Girl",
+    "title": "Top Girl",
+    "icon": "https://play-lh.googleusercontent.com/t5VUqlwI4zUU2Fxrn0SLnHsaXijYhijH_SO6J2H6MavPxrfTpHBou03Stm5_RHNz30k8_q8amJo-hGb6duj25mY=s256-rw",
+    "slug": "Top-Girl",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Top-Girl.webp"
+  },
+  {
+    "url": "/topgames/Modern-Warships-Naval-Battles",
+    "title": "Modern Warships: Naval Battles",
+    "icon": "https://play-lh.googleusercontent.com/CbJIZbma9S7zhK6PYYcYMwnoGWPY9WgOTYi1tEPl7APVmRuZGKVQRKXi4_TY_RuhWxa43JrM6gYAO29PuFHXuWQ=s256-rw",
+    "slug": "Modern-Warships-Naval-Battles",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Modern-Warships-Naval-Battles.webp"
+  },
+  {
+    "url": "/topgames/Bubbu-Restaurant---My-Cat-Game",
+    "title": "Bubbu Restaurant - My Cat Game",
+    "icon": "https://play-lh.googleusercontent.com/WWLPypi89T2ht8U_uq0uelKWDP19tRFxgrKXaJVCMoFK_fNptKNW5hY7Dz-NBu5ho2FE-4uBNfvFv8wNUVJ9=s256-rw",
+    "slug": "Bubbu-Restaurant---My-Cat-Game",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Bubbu-Restaurant---My-Cat-Game.webp"
+  },
+  {
+    "url": "/topgames/PAW-Patrol-Rescue-World",
+    "title": "PAW Patrol Rescue World",
+    "icon": "https://play-lh.googleusercontent.com/0ua_nqtEwCSJem9kuOOb8zHrXkJKp2LjopsFDCizkXjREqigR3wzoRAcengUfpulC6RG8-tK0wEDld5z-XL6BUE=s256-rw",
+    "slug": "PAW-Patrol-Rescue-World",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/PAW-Patrol-Rescue-World.webp"
+  },
+  {
+    "url": "/topgames/Clash-of-Kings",
+    "title": "Clash of Kings",
+    "icon": "https://play-lh.googleusercontent.com/wpfVsoLNUmr23iZEl_ypgievMnrMqZD5nb5ZKmK5iTUKOABJakuZlrZu5ghgjnwhf7Pff-Kw39UQzpsPwaidRQ=s256-rw",
+    "slug": "Clash-of-Kings",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Clash-of-Kings.webp"
+  },
+  {
+    "url": "/topgames/Tower-War-Tactical-Conquest",
+    "title": "Tower War - Tactical Conquest",
+    "icon": "https://play-lh.googleusercontent.com/HHHVHUnYC0ZF8B_15ngE2cDDcdcWYfus_iV4nqDDacWJDSIBc0K2fZq8k4jAlOQCnblY0FDk5Dt-ZTn9hju2nA=s256-rw",
+    "slug": "Tower-War-Tactical-Conquest",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Tower-War-Tactical-Conquest.webp"
+  },
+  {
+    "url": "/topgames/Mini-Challenges-Calm-Games",
+    "title": "Mini Challenges: Calm Games",
+    "icon": "https://play-lh.googleusercontent.com/SRGo62quQnh1UP7KCu66g8TNs4PwXUzu50vv32v5VGLc3ip47gytimn9kA9Q8FnwA9KDUJOEsJM4U8HEfOVJ=s256-rw",
+    "slug": "Mini-Challenges-Calm-Games",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Mini-Challenges-Calm-Games.webp"
+  },
+  {
+    "url": "/topgames/Screwdom-3D",
+    "title": "Screwdom 3D",
+    "icon": "https://play-lh.googleusercontent.com/0da_Ix7-KGiecqj9yRrGwHM6T42-irPiU9OymbijoSWC-rnPJETByhxFT1rVD0YZXD3NnSfPTwsxi8S_lxINbG4=s256-rw",
+    "slug": "Screwdom-3D",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Screwdom-3D.webp"
+  },
+  {
+    "url": "/topgames/Find-Hidden-Objects-Spot-It",
+    "title": "Find Hidden Objects - Spot It!",
+    "icon": "https://play-lh.googleusercontent.com/mm8KFtwCDrrQSQQ6lNPq7jHarbSYx6JpyFLe_PyeccQnwYW2bHybE9S09JFfH0JSCAI3x2v714mRM5hNpkuxmYQ=s256-rw",
+    "slug": "Find-Hidden-Objects-Spot-It",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Find-Hidden-Objects-Spot-It.webp"
+  },
+  {
+    "url": "/topgames/Music-Piano-7-Rush-Song-Games",
+    "title": "Music Piano 7: Rush Song Games",
+    "icon": "https://play-lh.googleusercontent.com/Dknbz5wQHKKbM4rOwmzOk7eDcd-YKHEnll1lQICOclYwo_uCk6i8vD2Ypnu3QuH12IJT7pWB_SfMWxh3LcaG3w=s256-rw",
+    "slug": "Music-Piano-7-Rush-Song-Games",
+    "category": "Music",
+    "localIcon": "/assets/media/topgames/Music-Piano-7-Rush-Song-Games.webp"
+  },
+  {
+    "url": "/topgames/Jigsawcard-Solitaire-Puzzle",
+    "title": "Jigsawcard Solitaire Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/i-gK0mDTnzfNe_76IawxphCZC9P-OgiKVTTvFGCx1U5OHpnv5x1fOHYCbKiAJYc58Mn2b5_macLs9E8aqcfauQ=s256-rw",
+    "slug": "Jigsawcard-Solitaire-Puzzle",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Jigsawcard-Solitaire-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Angry-Birds-Dream-Blast",
+    "title": "Angry Birds Dream Blast",
+    "icon": "https://play-lh.googleusercontent.com/Poj7eNOavvpolZGv2aaMX7ZyWFAQHeFHf-HQqlSvpXgKT0rgYSz4eVAqZE8DZFT2HJjD37iEUYCqrrqvhSNyNCY=s256-rw",
+    "slug": "Angry-Birds-Dream-Blast",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Angry-Birds-Dream-Blast.webp"
+  },
+  {
+    "url": "/topgames/Looney-Tunes-World-of-Mayhem",
+    "title": "Looney Tunes™ World of Mayhem",
+    "icon": "https://play-lh.googleusercontent.com/TfDav6Pkn71ylv5NR0lo_uozME3YNTdAeVS2bC8pRz1pkJyMgtb8b7k36VTTO8JQdNUIrD2yHaxftXQ6SW-L=s256-rw",
+    "slug": "Looney-Tunes-World-of-Mayhem",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Looney-Tunes-World-of-Mayhem.webp"
+  },
+  {
+    "url": "/topgames/Tricky-Prank-Brain-Quest",
+    "title": "Tricky Prank: Brain Quest",
+    "icon": "https://play-lh.googleusercontent.com/R2FmK0oweREowmbAFsV_HuqSwv8Hbw19HLcIph254o0hJDTFLimQvb8Zpl13-muhfXdl6OLhsEhbYJqPqnJeVw=s256-rw",
+    "slug": "Tricky-Prank-Brain-Quest",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Tricky-Prank-Brain-Quest.webp"
+  },
+  {
+    "url": "/topgames/Bluey-Lets-Play",
+    "title": "Bluey: Let's Play!",
+    "icon": "https://play-lh.googleusercontent.com/XnRo5elQq0t0ms25B3QWDvKAvOAZNwLyRA-mOzF3ELPfDUsBdyqyTCuvXJHbcOiAShj_9Q_Uzn1t9TEMvZNxXg=s256-rw",
+    "slug": "Bluey-Lets-Play",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Bluey-Lets-Play.webp"
+  },
+  {
+    "url": "/topgames/Mystery-Town-Merge-Games",
+    "title": "Mystery Town: Merge Games",
+    "icon": "https://play-lh.googleusercontent.com/uVjVMEJrhT-xRoUtKIUj8tOVSbCWw4IsRHaTDYICRNjQycUj6SucVpeoAPiNZWeJ5JuzIt_ZZRo1X1pW6XJFAQE=s256-rw",
+    "slug": "Mystery-Town-Merge-Games",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Mystery-Town-Merge-Games.webp"
+  },
+  {
+    "url": "/topgames/Robbery-Madness-2Stealth-game",
+    "title": "Robbery Madness 2:Stealth game",
+    "icon": "https://play-lh.googleusercontent.com/SIJlzhyfkA1XP5afjfa6xc9mesgqBAr5vRvktw1yH46elz0lOBkjpLxjrLCyFR6VtmfcpDkO8bt1mdnivwAclew=s256-rw",
+    "slug": "Robbery-Madness-2Stealth-game",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Robbery-Madness-2Stealth-game.webp"
+  },
+  {
+    "url": "/topgames/Prison-Puzzle-Brain-Twist",
+    "title": "Prison Puzzle: Brain Twist",
+    "icon": "https://play-lh.googleusercontent.com/PqNyrL42s12JWQF3sBjp1rVn3xRFzkVio3CPwhFlc0IUcHwwBUfZ_9kWe8USmhVnez3c8VAKA2pViniexinPoeI=s256-rw",
+    "slug": "Prison-Puzzle-Brain-Twist",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Prison-Puzzle-Brain-Twist.webp"
+  },
+  {
+    "url": "/topgames/Skincare-ASMR-Relaxing-Games",
+    "title": "Skincare ASMR: Relaxing Games",
+    "icon": "https://play-lh.googleusercontent.com/ffIabCgnaLaTGxgAidHA8ASW9_tdBx0FQ_5QmdyFatfKT_CMHbNFQq86If0ywhUQ3NI-B46Ggzzjp6-k7fLQaeo=s256-rw",
+    "slug": "Skincare-ASMR-Relaxing-Games",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Skincare-ASMR-Relaxing-Games.webp"
+  },
+  {
+    "url": "/topgames/Satisfying-Coloring",
+    "title": "Satisfying Coloring",
+    "icon": "https://play-lh.googleusercontent.com/ldlY5oBrcvvkG2egRGKpljeXnHS9DdQBioXtGP2jOd9gQQq2WYsfrWqyZM44Lc56X1MdkWvyYbQz81ZDYJU0NA=s256-rw",
+    "slug": "Satisfying-Coloring",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Satisfying-Coloring.webp"
+  },
+  {
+    "url": "/topgames/Snail-Bob-3",
+    "title": "Snail Bob 3",
+    "icon": "https://play-lh.googleusercontent.com/RmL922p9s91YSVAq-jJmbofG6_4KLrIGZCHNnTmq7nCiuKs5nz7S2_9oeRWRyb_PctcvKO2iz-_AfD-2fNtiVQ=s256-rw",
+    "slug": "Snail-Bob-3",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Snail-Bob-3.webp"
+  },
+  {
+    "url": "/topgames/Bus-Traffic-Fever",
+    "title": "Bus Traffic Fever!",
+    "icon": "https://play-lh.googleusercontent.com/caBiKRTVr57KEWAwIEH8mIXsjwrC19mfST9tLXizP1nPI3WdT5bJwXVSSQDb6HWLMKPkhVwLKHmA9PGAcrTZ=s256-rw",
+    "slug": "Bus-Traffic-Fever",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Bus-Traffic-Fever.webp"
+  },
+  {
+    "url": "/topgames/Sled-Surfers",
+    "title": "Sled Surfers",
+    "icon": "https://play-lh.googleusercontent.com/jiKsZESD_FX4mVtPEmErwm9-abDZcF2FVNq1KR-D7zOlYTmRljgI_sGhmWA4TrRJzxdad21WBkyfFK3j0ihfV5A=s256-rw",
+    "slug": "Sled-Surfers",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Sled-Surfers.webp"
+  },
+  {
+    "url": "/topgames/Merge-Restyle",
+    "title": "Merge Restyle",
+    "icon": "https://play-lh.googleusercontent.com/cOeVHsg8Grq_C6Qu-_R7q8crce6Rj78XFoNn1dS0bVYlEbzJ32WskG-WpY_NEgKlXgVULYXOqzIdkZpWFjMzCg=s256-rw",
+    "slug": "Merge-Restyle",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Merge-Restyle.webp"
+  },
+  {
+    "url": "/topgames/Age-of-Empires-Mobile",
+    "title": "Age of Empires Mobile",
+    "icon": "https://play-lh.googleusercontent.com/FsrJ4G5spS_npOfZQK6Y-lggN4mxUVpSgqZt15v3Cb4MHukPsQes4e75ruMrIbldET-J4tHJqTmjdSmOl3ldQQ=s256-rw",
+    "slug": "Age-of-Empires-Mobile",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Age-of-Empires-Mobile.webp"
+  },
+  {
+    "url": "/topgames/Poppy-Playtime-Chapter-2",
+    "title": "Poppy Playtime Chapter 2",
+    "icon": "https://play-lh.googleusercontent.com/uqiPJm3uXts1LKjdiGVXS42902A-Bam--4xzaZe6BEwmWv5pGxYPDp1y8eDDYNz9au05jVUvLAOyi4GnUMEmtw=s256-rw",
+    "slug": "Poppy-Playtime-Chapter-2",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Poppy-Playtime-Chapter-2.webp"
+  },
+  {
+    "url": "/topgames/Tasty-Travels-Merge-Game",
+    "title": "Tasty Travels: Merge Game",
+    "icon": "https://play-lh.googleusercontent.com/zGhriW_zOEdt1u68eybR53bC9kgIHNnsCPSrcf1e8eASpSLPXB9XrRqU25851GV6KmbwOHvVdMMJTE1h5EjD=s256-rw",
+    "slug": "Tasty-Travels-Merge-Game",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Tasty-Travels-Merge-Game.webp"
+  },
+  {
+    "url": "/topgames/Moto-Rider-Bike-Racing-Game",
+    "title": "Moto Rider, Bike Racing Game",
+    "icon": "https://play-lh.googleusercontent.com/5tokxV7MxWzy3dsmQCDnVSDt-Ni2teUbHZ0bNa6aKiD2_CNrlEewdLvWkUcHDoyjdoFyysu-E0uoDTGHjBGUeA=s256-rw",
+    "slug": "Moto-Rider-Bike-Racing-Game",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Moto-Rider-Bike-Racing-Game.webp"
+  },
+  {
+    "url": "/topgames/Miraculous-Ladybug-Life",
+    "title": "Miraculous Ladybug Life",
+    "icon": "https://play-lh.googleusercontent.com/8oMCMsi5DsWlMO0I37Pxwie8JNiTLfG6UxSR2FLGR7cRgjnKnf0KWzumdFIO-EuTYn9Ro_LhVgw3A_3HU2pldAE=s256-rw",
+    "slug": "Miraculous-Ladybug-Life",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Miraculous-Ladybug-Life.webp"
+  },
+  {
+    "url": "/topgames/Bus-Craze---Traffic-Jam-Puzzle",
+    "title": "Bus Craze - Traffic Jam Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/BJWSm_BlULjOo1SDpNVtVwWQ3BHzwinHzpGdq6FeY5wyAPiWwKibONaTmtGgpCpjBM9szEXPSxE8YY5M3MWpFpI=s256-rw",
+    "slug": "Bus-Craze---Traffic-Jam-Puzzle",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Bus-Craze---Traffic-Jam-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Craft-World-Block-Building-3D",
+    "title": "Craft World Block Building 3D",
+    "icon": "https://play-lh.googleusercontent.com/NJCoEeYrHp90AKzIlZcWlShflXdHYEkX5f2T0qu7bBwHiqYZR7QDJWRpG8xMDJps8i3FSRZ3fbbDt7Tjw-vMQH4=s256-rw",
+    "slug": "Craft-World-Block-Building-3D",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Craft-World-Block-Building-3D.webp"
+  },
+  {
+    "url": "/topgames/Beach-Buggy-Racing",
+    "title": "Beach Buggy Racing",
+    "icon": "https://play-lh.googleusercontent.com/SEYvChlcEIii7XknQ7bZOoznL0HL1WKYCxMDlCs88mhraX1aHMmIrytCcadg8gPGv9Lw5gMc3821KUxFUpFwkQ=s256-rw",
+    "slug": "Beach-Buggy-Racing",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Beach-Buggy-Racing.webp"
+  },
+  {
+    "url": "/topgames/Darts-of-Fury",
+    "title": "Darts of Fury",
+    "icon": "https://play-lh.googleusercontent.com/f5afPOTWk-Omc2naWR5SHKcFHYiRAPo2876J_WHKyWf_fKfBbgcVviTTe_lHixB3XOkEZK-G88Cccr-WSq3z=s256-rw",
+    "slug": "Darts-of-Fury",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Darts-of-Fury.webp"
+  },
+  {
+    "url": "/topgames/Magic-Dancing-Tiles",
+    "title": "Magic Dancing Tiles",
+    "icon": "https://play-lh.googleusercontent.com/cP1Vb0f9CdG17aaUv5qrISN8bne-qqxZg4FpA9H8K67a3_oNLTgHdkPL__uja2vY43hOMAHg81M6TySgA5YbWX0=s256-rw",
+    "slug": "Magic-Dancing-Tiles",
+    "category": "Music",
+    "localIcon": "/assets/media/topgames/Magic-Dancing-Tiles.webp"
+  },
+  {
+    "url": "/topgames/Satisfying-Toys-Calm-Games",
+    "title": "Satisfying Toys : Calm Games",
+    "icon": "https://play-lh.googleusercontent.com/kOSjhKmkkv49boNbDoW2OEobDqqG3QgwlAKuFad9mV2wg9ABic4nM-sXrRDrHp9XFDTeb-zykzexBiva-1XRsw=s256-rw",
+    "slug": "Satisfying-Toys-Calm-Games",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Satisfying-Toys-Calm-Games.webp"
+  },
+  {
+    "url": "/topgames/Space-shooter-Galaxy-attack",
+    "title": "Space shooter - Galaxy attack",
+    "icon": "https://play-lh.googleusercontent.com/jhi3GmRRUJEfwl0O0_jrvJwgoiQLBmYJ1T0BRYawJ9MM4iqV1LbVasSbQ0TzSdN_ksrdT25-Ro1RvABtbMpMY28=s256-rw",
+    "slug": "Space-shooter-Galaxy-attack",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Space-shooter-Galaxy-attack.webp"
+  },
+  {
+    "url": "/topgames/NTE-Neverness-to-Everness",
+    "title": "NTE: Neverness to Everness",
+    "icon": "https://play-lh.googleusercontent.com/TGl3DdDbi4hty6ooOhEvv_2s5tkpGLbL6derP8y5hK-_Bw--Ve375b08ba9HHQ9ueRpoQ9oye1T_T24BJriLUmw=s256-rw",
+    "slug": "NTE-Neverness-to-Everness",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/NTE-Neverness-to-Everness.webp"
+  },
+  {
+    "url": "/topgames/Makeover-Tile-ASMR-Blast",
+    "title": "Makeover Tile: ASMR Blast",
+    "icon": "https://play-lh.googleusercontent.com/h7tFFep0uE2VOijKI01_QkNul9ozyCxpz18j7h9lfaQFH-QhMHDHPQ9GY6U0Jf2GtIzq-w0TeiFiOW6jVuga6g=s256-rw",
+    "slug": "Makeover-Tile-ASMR-Blast",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Makeover-Tile-ASMR-Blast.webp"
+  },
+  {
+    "url": "/topgames/Hidden-Object-Games-Seek-It",
+    "title": "Hidden Object Games: Seek It",
+    "icon": "https://play-lh.googleusercontent.com/gwj39oFiR7bUkAkGj291o1D0saaPnxTVlQcSlYcOUqX9YrQwHX0dQq0ineQsee_nOw1fKT4bIfUBqNEdHhaarw=s256-rw",
+    "slug": "Hidden-Object-Games-Seek-It",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Hidden-Object-Games-Seek-It.webp"
+  },
+  {
+    "url": "/topgames/OneState-RP-Role-Play-Life",
+    "title": "OneState RP - Role Play Life",
+    "icon": "https://play-lh.googleusercontent.com/R2YbFZkxuNi_uUGP3ci6Yty958SQYnuLkV44SpqBHN7PnCBb9NQbpGzsSAvbEYKaGi9SeglmdkuOU3VrYszFhY8=s256-rw",
+    "slug": "OneState-RP-Role-Play-Life",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/OneState-RP-Role-Play-Life.webp"
+  },
+  {
+    "url": "/topgames/My-Sticker-Room-Decor-Game",
+    "title": "My Sticker Room - Decor Game",
+    "icon": "https://play-lh.googleusercontent.com/aYnmop6OVXM3qU7BJZAr7hjIczYlSJmkCJVWEioiNxg71sgM_ET1YeqEZovpHu6-9ZWOI9iQc15l78F4FnDhkEY=s256-rw",
+    "slug": "My-Sticker-Room-Decor-Game",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/My-Sticker-Room-Decor-Game.webp"
+  },
+  {
+    "url": "/topgames/Tanks-a-Lot---3v3-Battle-Arena",
+    "title": "Tanks a Lot - 3v3 Battle Arena",
+    "icon": "https://play-lh.googleusercontent.com/wGTZR4G5eb4LLtxMVGSlUAS5L_WY5sX3PEl8jM35GPv0E7Ie9AVAtLmshPD1y0YjMKh_Hxi83dPtCmvHwqb1Sw=s256-rw",
+    "slug": "Tanks-a-Lot---3v3-Battle-Arena",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Tanks-a-Lot---3v3-Battle-Arena.webp"
+  },
+  {
+    "url": "/topgames/Troll-Face-Quest-VideoGames-2",
+    "title": "Troll Face Quest: VideoGames 2",
+    "icon": "https://play-lh.googleusercontent.com/uO-U4bUiE5c5eMt27812XN9rFszTahWYqHi16-vE3gKvgUL-1qp9UKAvmcvFfx_sxrIviaZuGsh6wLlkkWlQqik=s256-rw",
+    "slug": "Troll-Face-Quest-VideoGames-2",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Troll-Face-Quest-VideoGames-2.webp"
+  },
+  {
+    "url": "/topgames/Mini-Soccer-Star-2026-Football",
+    "title": "Mini Soccer Star 2026 Football",
+    "icon": "https://play-lh.googleusercontent.com/lfhsgCK2UpJhLTvzvdFd303ZF2S7rhbmwLf5fyQfUG7PlZ01xyPwuoQx94-ILAstinl2RxMlFK_RB6_xMYenOw=s256-rw",
+    "slug": "Mini-Soccer-Star-2026-Football",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Mini-Soccer-Star-2026-Football.webp"
+  },
+  {
+    "url": "/topgames/Sprunki-Beat-Full-Mod-Music",
+    "title": "Sprunki Beat: Full Mod Music",
+    "icon": "https://play-lh.googleusercontent.com/405bmrQUnRuyGgynZi1ehgkGXE6n7tDs0O95O7pAavK6Cy9jyPGRbMAYhEfGp1n271g9OwXZPErmb3LDNEg-jg=s256-rw",
+    "slug": "Sprunki-Beat-Full-Mod-Music",
+    "category": "Music",
+    "localIcon": "/assets/media/topgames/Sprunki-Beat-Full-Mod-Music.webp"
+  },
+  {
+    "url": "/topgames/Hollywood-Merge",
+    "title": "Hollywood Merge",
+    "icon": "https://play-lh.googleusercontent.com/5mzN7_uKeXNnloF-zlXGxiwKuepToEdRwbFUK_aQqk7ORLUGPsMwQK__J9IL9DBMWty-zuLvZ4FYHikK2xCttIw=s256-rw",
+    "slug": "Hollywood-Merge",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Hollywood-Merge.webp"
+  },
+  {
+    "url": "/topgames/Car-Games-Monster-Truck-Stunt",
+    "title": "Monster Truck Stunt Racing",
+    "icon": "https://play-lh.googleusercontent.com/YB75UW4AC2skLoBjobHwqJCOx91D1n22yN_27HucYkeq6lmAfL09mSBdbSRmaU1ib5mFzoK7XM4LdRcjm3Id85U=s256-rw",
+    "slug": "Car-Games-Monster-Truck-Stunt",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Car-Games-Monster-Truck-Stunt.webp"
+  },
+  {
+    "url": "/topgames/Masha-and-the-Bear-Educational",
+    "title": "Masha and the Bear Educational",
+    "icon": "https://play-lh.googleusercontent.com/QVE-CZiMisbhr9f0foNz5HyyLpn0I0_BzPquGdFo82tN_mKCInCM-8goxCNBxduG_RdDtlkWtD_ulNM0vW4087Q=s256-rw",
+    "slug": "Masha-and-the-Bear-Educational",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Masha-and-the-Bear-Educational.webp"
+  },
+  {
+    "url": "/topgames/Color-Knitzy",
+    "title": "Color Knitzy",
+    "icon": "https://play-lh.googleusercontent.com/m4qSzYadkeQm4s1Q66-Sd2miwaHGJNWK-ctPQqc2NubYT0G_dXhS_C_wGVGi6TTMT2L1qotFqX5MviZ5U1Tq=s256-rw",
+    "slug": "Color-Knitzy",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Color-Knitzy.webp"
+  },
+  {
+    "url": "/topgames/Aquarium-Land-Fishbowl-World",
+    "title": "Aquarium Land — Fishbowl World",
+    "icon": "https://play-lh.googleusercontent.com/oXyKuupNRPfPNI4PPt5bFgteQPp2WfG57J9Pq0MMhk_IppGvjKlA2KK4XXnebcOVbwj0sLnuVd52Hb8CWumijgk=s256-rw",
+    "slug": "Aquarium-Land-Fishbowl-World",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Aquarium-Land-Fishbowl-World.webp"
+  },
+  {
+    "url": "/topgames/Pocket-Sort-Coin-Merge-Puzzle",
+    "title": "Pocket Sort: Coin Merge Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/nB3aVJ6eYhfGa1m1EzgvE0RjH3C13v2wLLrwkQYzsG0427-jyQDopxiddjDOQNpOSoePVcl7jNgBUPXOCVmjXg=s256-rw",
+    "slug": "Pocket-Sort-Coin-Merge-Puzzle",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Pocket-Sort-Coin-Merge-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Friday-Night-Funkin",
+    "title": "Friday Night Funkin'",
+    "icon": "https://play-lh.googleusercontent.com/ZplHij_geaxbSPxB3Eo8ynVnOM0i3Ug8vD0bIi-1-q5gzK7QPoVqvGLeLYlJWGLV48LGtpfpMp6BQ56iEXqMUtw=s256-rw",
+    "slug": "Friday-Night-Funkin",
+    "category": "Music",
+    "localIcon": "/assets/media/topgames/Friday-Night-Funkin.webp"
+  },
+  {
+    "url": "/topgames/Pokemon-Champions",
+    "title": "Pokémon Champions",
+    "icon": "https://play-lh.googleusercontent.com/CpBUPy9eZPB-lVJzVtVtwE6IPvNbr6hvxwcLDkcw4_LXJd6HYh0nBl37AwjZOWB4IecEM3PcPoYcvd-T6JYldz4=s256-rw",
+    "slug": "Pokemon-Champions",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Pokemon-Champions.webp"
+  },
+  {
+    "url": "/topgames/Thomas--Friends-Magic-Tracks",
+    "title": "Thomas & Friends: Magic Tracks",
+    "icon": "https://play-lh.googleusercontent.com/gnWXyt5__mbXw8zDgle0ylRYeIWC-_1XQgDCcXMlC7yAOu5NyM4xhGnx-9cyNjBZf819JNj4QjeLrwVghvqA=s256-rw",
+    "slug": "Thomas--Friends-Magic-Tracks",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Thomas--Friends-Magic-Tracks.webp"
+  },
+  {
+    "url": "/topgames/Jewel-Coloring",
+    "title": "Jewel Coloring",
+    "icon": "https://play-lh.googleusercontent.com/4O3eRZ4cOMPSFiasjvlJuodijaKtNiv7HZ9Hm5r4CT78imAL32QbbWoJkiOJ3erjS4Yi652WTBrwcQrbbsuW=s256-rw",
+    "slug": "Jewel-Coloring",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Jewel-Coloring.webp"
+  },
+  {
+    "url": "/topgames/Dreamy-Room",
+    "title": "Dreamy Room",
+    "icon": "https://play-lh.googleusercontent.com/UofDNBngyS3ffyJTtq9Uuz_vt_mBI9u8S2_LZa7UnUtiNURBdMT3Z-D11Xjl7ueiVwpLBajY5mrDir8JnZDL=s256-rw",
+    "slug": "Dreamy-Room",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Dreamy-Room.webp"
+  },
+  {
+    "url": "/topgames/The-Battle-Cats",
+    "title": "The Battle Cats",
+    "icon": "https://play-lh.googleusercontent.com/nDvW3O0_ti47tOkwKTrPyuoqO0ACKMjXFlogadkNDD2bouaAgZzXN-F44cZM2dvwLA60vsaJCDgEko60meTf_Oc=s256-rw",
+    "slug": "The-Battle-Cats",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/The-Battle-Cats.webp"
+  },
+  {
+    "url": "/topgames/Sprunki-Monster-Music-Beats",
+    "title": "Sprunki Monster Music Beats",
+    "icon": "https://play-lh.googleusercontent.com/-vlyQmq0j_yULiNzTH-pTfPqoOaO0MivyINCkHCz9BPr1FVuD1D5nBOs3TNel6wk-rH_RMAuX9KYEFZGHPgP2Q=s256-rw",
+    "slug": "Sprunki-Monster-Music-Beats",
+    "category": "Music",
+    "localIcon": "/assets/media/topgames/Sprunki-Monster-Music-Beats.webp"
+  },
+  {
+    "url": "/topgames/Warhammer-40000-Tacticus-TM",
+    "title": "Warhammer 40,000: Tacticus ™",
+    "icon": "https://play-lh.googleusercontent.com/6W0njbg-XgAbpDqKHJiyKB1xad6RtT3TjOwUnjgXNt_BadlUY496CVtLvLiZwn8_y6Shbu97qvQaAHZOxo0RxGI=s256-rw",
+    "slug": "Warhammer-40000-Tacticus-TM",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Warhammer-40000-Tacticus-TM.webp"
+  },
+  {
+    "url": "/topgames/Idle-Ants---Simulator-Game",
+    "title": "Idle Ants - Simulator Game",
+    "icon": "https://play-lh.googleusercontent.com/DdzsxIDvOxj5KnXTSwD0KGaYzVna6rTfIwE2wtGHNGWs8P9q-Q6tbPWW_zD0xfPMOMgANR6NrJEpkPdZDRd8=s256-rw",
+    "slug": "Idle-Ants---Simulator-Game",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Idle-Ants---Simulator-Game.webp"
+  },
+  {
+    "url": "/topgames/Coloring-Learn",
+    "title": "Coloring & Learn",
+    "icon": "https://play-lh.googleusercontent.com/nMwCmFsD4_EgJMspvtUnBK0oDkvhBSYcf5lnvCJz4HHlKEUj-vjr_JEc5OwfVnGjFd8WsCOqzbWXsaQ_lyHU=s256-rw",
+    "slug": "Coloring-Learn",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Coloring-Learn.webp"
+  },
+  {
+    "url": "/topgames/Block-Gun-3D-FPS-Shooter-PvP",
+    "title": "Block Gun 3D: FPS Shooter PvP",
+    "icon": "https://play-lh.googleusercontent.com/fCDdWlVpKGCWD-U_2hs7hVy88Mp5UG_Z2upwPo50iV8KyLkbgexg4iESPGn6qHrwG3Wb5IsW8g96KOy04cwTTA=s256-rw",
+    "slug": "Block-Gun-3D-FPS-Shooter-PvP",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Block-Gun-3D-FPS-Shooter-PvP.webp"
+  },
+  {
+    "url": "/topgames/Rio-Rise-A-life-simulator-game",
+    "title": "Rio Rise－A life simulator game",
+    "icon": "https://play-lh.googleusercontent.com/WhWsXAzC8j2eci2H50Z5yj6GcMJTUqNwZLeGlPtmGnSbb4jJ6I2PFxMUKPHoEsVssmJF5jXPiVvYjO6EmivbDPo=s256-rw",
+    "slug": "Rio-Rise-A-life-simulator-game",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Rio-Rise-A-life-simulator-game.webp"
+  },
+  {
+    "url": "/topgames/Soccer-Referee-Simulator-2026",
+    "title": "Soccer Referee Simulator 2026",
+    "icon": "https://play-lh.googleusercontent.com/BPQKNCZoLT18qtcnDv6L-wLwYhWcLHJjLxRWeFHcgYAlzz_mLUHHYHch6x6BvgXOnSVB7apXt5-yh39zbOGzgA=s256-rw",
+    "slug": "Soccer-Referee-Simulator-2026",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Soccer-Referee-Simulator-2026.webp"
+  },
+  {
+    "url": "/topgames/Zombie-Waves",
+    "title": "Zombie Waves",
+    "icon": "https://play-lh.googleusercontent.com/n_PJuIJizHA7kBRTmziDHlVOttvhMFjboIfuAdj1hd7wjggoc2VDLFt3cL_KlJ7NIADxa0jqnLZUOnNJPH5Q=s256-rw",
+    "slug": "Zombie-Waves",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Zombie-Waves.webp"
+  },
+  {
+    "url": "/topgames/Golf-Rival-Multiplayer-Game",
+    "title": "Golf Rival - Multiplayer Game",
+    "icon": "https://play-lh.googleusercontent.com/x-pLwa3GxIo6GtrLMp-InAepXC6ZRuOlm14XG_S2vCVjPNbtnHJT7QReo4RMz9AsRUZYm9u5YOCGmpwDXwe-QQ=s256-rw",
+    "slug": "Golf-Rival-Multiplayer-Game",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Golf-Rival-Multiplayer-Game.webp"
+  },
+  {
+    "url": "/topgames/Kings-Choice-Rule-Your-Fate",
+    "title": "King's Choice: Rule Your Fate",
+    "icon": "https://play-lh.googleusercontent.com/Dmdruh7RUeZ8rgFNzMJ6T342W3xm6aucHdIiIguOLF-G2lYAMRpcb3B9_8inxCZxyRQe55YZxSeC-yUZWF99=s256-rw",
+    "slug": "Kings-Choice-Rule-Your-Fate",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Kings-Choice-Rule-Your-Fate.webp"
+  },
+  {
+    "url": "/topgames/Zen-Tiles---Mahjong-Match",
+    "title": "Zen Tiles - Mahjong Match",
+    "icon": "https://play-lh.googleusercontent.com/M_Udh-qqEEtuOd5YOPp4MdlAHjPyFQ_ODDz1ejEPjjcOiV3d1cFeI67AfOnoUO9T1hZQs-cMqd9GsIyOSP3Epg=s256-rw",
+    "slug": "Zen-Tiles---Mahjong-Match",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Zen-Tiles---Mahjong-Match.webp"
+  },
+  {
+    "url": "/topgames/Game-of-Thrones-Dragonfire",
+    "title": "Game of Thrones: Dragonfire",
+    "icon": "https://play-lh.googleusercontent.com/bsw1K8wHf8XQGoG98VK91ycREOF3v2lK0-Kn2Lumd7GQfbC34XK9Yrs_8VJv4K02dkZv_IXbyu9E-o_cWAsnfw=s256-rw",
+    "slug": "Game-of-Thrones-Dragonfire",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Game-of-Thrones-Dragonfire.webp"
+  },
+  {
+    "url": "/topgames/Modern-Community",
+    "title": "Modern Community",
+    "icon": "https://play-lh.googleusercontent.com/GMMJjQm9R16WF0AvifVAFfhFCpv_QTxavwguEwL1SQSstf9zdha2Gg6JMYzXQJj2bnts0biyTFAk9T4_62aB=s256-rw",
+    "slug": "Modern-Community",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Modern-Community.webp"
+  },
+  {
+    "url": "/topgames/Brain-Puzzle-Tricky-Test",
+    "title": "Brain Puzzle: Tricky Test",
+    "icon": "https://play-lh.googleusercontent.com/GAW1v5cC_rUq5q1VGTjswJfgIfE8jcF84e7YPG8bY2UZBj_stHbZrxqJMLPzLJtEnjUl_KwwqiMrMLVp7RVY=s256-rw",
+    "slug": "Brain-Puzzle-Tricky-Test",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Brain-Puzzle-Tricky-Test.webp"
+  },
+  {
+    "url": "/topgames/Childrens-doctor--dentist",
+    "title": "Children's doctor: Dentist",
+    "icon": "https://play-lh.googleusercontent.com/uiHo_46JzbA0uJXsbfg1GljSZjXcb3r84DSJU0vkdUD1XO_Y4zXH4CU0GNA4zQmtig3oi4dURuVmrFYL_g-vFA=s256-rw",
+    "slug": "Childrens-doctor--dentist",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Childrens-doctor--dentist.webp"
+  },
+  {
+    "url": "/topgames/World-Flags-Color-Puzzle",
+    "title": "World Flags: Color Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/9mJeQp2Ly3IsBaxF4bJIILkGd5ZId7ecTxptdRONkAzgE1HcPbTRql3y4xKX9n3J9kEQy_FNsWMQC5bOUos4=s256-rw",
+    "slug": "World-Flags-Color-Puzzle",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/World-Flags-Color-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Slayer-Legend-Idle-RPG",
+    "title": "Slayer Legend : Idle RPG",
+    "icon": "https://play-lh.googleusercontent.com/10UeXqK-Ark_vcCGfa7qwmh9nEMxuSygTLKaawR3qoQd0AQRRRebI6owc_1PYYg3ZqDl2zodOBFBo9oYgtbb=s256-rw",
+    "slug": "Slayer-Legend-Idle-RPG",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Slayer-Legend-Idle-RPG.webp"
+  },
+  {
+    "url": "/topgames/Color-Wood-Jam---Block-Puzzle",
+    "title": "Wood Color Jam - Block Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/-Sav8yHc6GoBrEYKMoT36p3jftA8H5LDz3UNF2UmGhoE8OaKEyR27eNnqARjHOAiyRXxnvmU5o09ZOhUYuj7Bw=s256-rw",
+    "slug": "Color-Wood-Jam---Block-Puzzle",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Color-Wood-Jam---Block-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Puzzles-Chaos-Frozen-Castle",
+    "title": "Puzzles & Chaos: Frozen Castle",
+    "icon": "https://play-lh.googleusercontent.com/FuuH9hfYKAc-lNwR2yEJDJdAd6jrDsTyJVUqYAmlvgM1s2aPqXTSqMVER__nk-ghL-aWWMkQnpNHDT0_P05lzg=s256-rw",
+    "slug": "Puzzles-Chaos-Frozen-Castle",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Puzzles-Chaos-Frozen-Castle.webp"
+  },
+  {
+    "url": "/topgames/Rebel-Glam-Dress-Up-Games",
+    "title": "Rebel Glam: Dress Up Games",
+    "icon": "https://play-lh.googleusercontent.com/k9SUusatGlYt9vQ9RAlHxfsZlEoHfLV9CDbnF4Pq4ceLjZVCDu-cKVZ5htAH5CMigweWSbEvno-NBP40EHzj-gA=s256-rw",
+    "slug": "Rebel-Glam-Dress-Up-Games",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Rebel-Glam-Dress-Up-Games.webp"
+  },
+  {
+    "url": "/topgames/Watcher-of-Realms",
+    "title": "Watcher of Realms",
+    "icon": "https://play-lh.googleusercontent.com/fankBDi9cQksSEZYX7XZhaRYDp6Kr4YCU0HxOZdhMBdPF3iPbvbIjEU6aC8nHpXGLMPR3J5s2dYSx1u3Kwf2mV0=s256-rw",
+    "slug": "Watcher-of-Realms",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Watcher-of-Realms.webp"
+  },
+  {
+    "url": "/topgames/WGT-Golf",
+    "title": "WGT Golf: Realistic Golf Game",
+    "icon": "https://play-lh.googleusercontent.com/gFB6WQge42kh4VO_KsxFM7wX2zOMpa9WmnhMfnDl9u-VeX6px0zKZjVTI93wLVF8Yr9j4XhFHmXmn5mfWzbltyI=s256-rw",
+    "slug": "WGT-Golf",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/WGT-Golf.webp"
+  },
+  {
+    "url": "/topgames/Gacha-Life-2",
+    "title": "Gacha Life 2",
+    "icon": "https://play-lh.googleusercontent.com/eJGgDZZP5g3f98CFohpQ-YnWx4atWbvGQhxGej20298gfTdx7ZJdVmLuEzFa5TXXKOjLoaZJTfO0_I_V_u-3lg=s256-rw",
+    "slug": "Gacha-Life-2",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Gacha-Life-2.webp"
+  },
+  {
+    "url": "/topgames/Savage-SurvivalJurassic-Isle",
+    "title": "Savage Survival:Jurassic Isle",
+    "icon": "https://play-lh.googleusercontent.com/lQk91XJ-esQ23lf8xLgjdZx1Kq9SeX73T6N2Yx7Q0jjFDluIOue8swaSQZ_qM7VMrBO6evc2tY0P3yf0ypM6YUo=s256-rw",
+    "slug": "Savage-SurvivalJurassic-Isle",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Savage-SurvivalJurassic-Isle.webp"
+  },
+  {
+    "url": "/topgames/Mahjong-Master-Daily-Match",
+    "title": "Mahjong Master: Daily Match",
+    "icon": "https://play-lh.googleusercontent.com/nUHFn87Lc2AifraSGdQH3DnwOZNzwEj25zYYk3qz3lsxsAa5p_RbXwCHZg38XpZMOcc4KQqlSMWJHfZiBMzErQ=s256-rw",
+    "slug": "Mahjong-Master-Daily-Match",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Mahjong-Master-Daily-Match.webp"
+  },
+  {
+    "url": "/topgames/Monument-Valley-2",
+    "title": "Monument Valley 2",
+    "icon": "https://play-lh.googleusercontent.com/TWEL-jxgfYY3KPfU0X2bQsGW5ho-n0NR72768VPOsRycD1luFqTG3jjpHUvZlvjPeCpMUI1sx4gmjBwrQ_HP=s256-rw",
+    "slug": "Monument-Valley-2",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Monument-Valley-2.webp"
+  },
+  {
+    "url": "/topgames/Wheres-My-Water",
+    "title": "Where's My Water?",
+    "icon": "https://play-lh.googleusercontent.com/qDL8tTElC2z6gFK7-siNBTBWIeSUXnyZSTDKZ-o-8Wzb3Vf7qMNsFhl7lfDPLgo3MCn5nCoedSmc5sUnySe_zg=s256-rw",
+    "slug": "Wheres-My-Water",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Wheres-My-Water.webp"
+  },
+  {
+    "url": "/topgames/Overgeared-Hero-Merge-RPG",
+    "title": "Overgeared Hero: Merge RPG",
+    "icon": "https://play-lh.googleusercontent.com/NFP1DhDRfMkHRTkX9qaY56Ym1HHxbd7zfvpHOiiYAMG1glI348waM3h5tHpCARtTA3q_ZevjcNw36NQd4ieJ6A=s256-rw",
+    "slug": "Overgeared-Hero-Merge-RPG",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Overgeared-Hero-Merge-RPG.webp"
+  },
+  {
+    "url": "/topgames/Clash-of-Critters",
+    "title": "Clash of Critters",
+    "icon": "https://play-lh.googleusercontent.com/nIjO9pFz1R7G_wct00QMBKVqAmLHs2TqiaCmSUJfnKPw7yG_VzSmp26TRGCmm98v-Mye0MtsW_xz8CHNdIFD1A=s256-rw",
+    "slug": "Clash-of-Critters",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Clash-of-Critters.webp"
+  },
+  {
+    "url": "/topgames/Duck-Survival",
+    "title": "Duck Survival",
+    "icon": "https://play-lh.googleusercontent.com/oJwkS9ZVrHGeAjm1dfdzJQLfzAV5mUlWdHuVWdSGy8WFNAc1YdqxKESFaw0lJL149oXG3rJ4Rqix_7LjhTn6PVg=s256-rw",
+    "slug": "Duck-Survival",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Duck-Survival.webp"
+  },
+  {
+    "url": "/topgames/IsekaiSlow-Life",
+    "title": "Isekai:Slow Life",
+    "icon": "https://play-lh.googleusercontent.com/syUTZOnXDFg7hStBSVwGu5LRXEkmCsrO5tt2FTpeW3Scu928Gzc8bZ82oLiRS-M3oGacd4OmvfMChSlbFNt1=s256-rw",
+    "slug": "IsekaiSlow-Life",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/IsekaiSlow-Life.webp"
+  },
+  {
+    "url": "/topgames/Gecko-Out",
+    "title": "Gecko Out",
+    "icon": "https://play-lh.googleusercontent.com/cxM0xkJJiWU82uhKMislq6KrFqn5BVp2susrHANexjE3Ov-DYpp6Iad080qHDohUJUTZ763ZNC_BVgoyvmOHCQ=s256-rw",
+    "slug": "Gecko-Out",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Gecko-Out.webp"
+  },
+  {
+    "url": "/topgames/Triple-Match-City",
+    "title": "Triple Match City",
+    "icon": "https://play-lh.googleusercontent.com/Xjv5sbjaDzPHu1g00rSnPgWmGerujoolAHLNwZENBABH5SgF723m-VLCIZo7W0H_nr2DDIvgKzkVzxSc-akb2Q=s256-rw",
+    "slug": "Triple-Match-City",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Triple-Match-City.webp"
+  },
+  {
+    "url": "/topgames/Love-Island-The-Game",
+    "title": "Love Island: The Game",
+    "icon": "https://play-lh.googleusercontent.com/61bDEKdaU2l6Yk0d9CvvMPsUCW9hC2A7I18PwcI29fjE3vmShovXXIpvqvhFdHbEGbUywJ1p892whH_2AHg-SQ=s256-rw",
+    "slug": "Love-Island-The-Game",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Love-Island-The-Game.webp"
+  },
+  {
+    "url": "/topgames/Manor-Matters",
+    "title": "Manor Matters",
+    "icon": "https://play-lh.googleusercontent.com/pAwC6_PwTAWxLChp6qTLJnA8_jVtXpDmqBL9ro61b6YfH6wH3xnA4-uMUoXU-r_kLed9SO92GW1j2O0nZlIa94Y=s256-rw",
+    "slug": "Manor-Matters",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Manor-Matters.webp"
+  },
+  {
+    "url": "/topgames/Sprunki-Funky-Beat",
+    "title": "Sprunki Funky Beat",
+    "icon": "https://play-lh.googleusercontent.com/gBgchLoQ1PXJ3ucZZyPZb5zB48XCVk9BsMz8YwmVUo6BFYXskUiul6xlkGSmgX6YfUfhapjskjkZYI9cqEiY=s256-rw",
+    "slug": "Sprunki-Funky-Beat",
+    "category": "Music",
+    "localIcon": "/assets/media/topgames/Sprunki-Funky-Beat.webp"
+  },
+  {
+    "url": "/topgames/Resident-Evil-Survival-Unit",
+    "title": "Resident Evil Survival Unit",
+    "icon": "https://play-lh.googleusercontent.com/d5ov-U7wCs-mu-9jb-mExBhU35YUU6CVU1NVJGqYmFJTIas0KFbOLUHFg4iQtwbN56CwKXm1sT9I7LMiPZhIOP8=s256-rw",
+    "slug": "Resident-Evil-Survival-Unit",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Resident-Evil-Survival-Unit.webp"
+  },
+  {
+    "url": "/topgames/Heartopia",
+    "title": "Heartopia",
+    "icon": "https://play-lh.googleusercontent.com/FtZNAkKn4faEpRU4UjtRRUk-aQP5zwiN1Kg4FzAcQBN7S8-PfDo7ODxmjaPlMu3HOFJ6-1WhzXxwKA6q1bOw=s256-rw",
+    "slug": "Heartopia",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Heartopia.webp"
+  },
+  {
+    "url": "/topgames/Goodville-Farm-Game-Adventure",
+    "title": "Goodville: Farm Game Adventure",
+    "icon": "https://play-lh.googleusercontent.com/8_gf2BdKST_dyDjhoBcOuZ5z9VxeQrllp5aZ3Kvzyn0KWTEd0UxNIoj6mZ0B31KaLrsbmg1fM24g-W46bkMsJFw=s256-rw",
+    "slug": "Goodville-Farm-Game-Adventure",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Goodville-Farm-Game-Adventure.webp"
+  },
+  {
+    "url": "/topgames/Police-Chief",
+    "title": "Police Chief",
+    "icon": "https://play-lh.googleusercontent.com/w33GZBYhYKwUwUzkNcIcw-EruqdrCciVN5UhCmyn1Z8BDGLDyKeqBrU8IXVKz6P1R5tX1NT6H2sX75YADW4Lug=s256-rw",
+    "slug": "Police-Chief",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Police-Chief.webp"
+  },
+  {
+    "url": "/topgames/Identity-V",
+    "title": "Identity V",
+    "icon": "https://play-lh.googleusercontent.com/gP6SK4EnELXuvGQWstDib8kmu7IS_TtyxRPfATilagj1PFW7zDfbiU8qn5vaPEju5OUB_NwuaN8qtFZVpPUbng=s256-rw",
+    "slug": "Identity-V",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Identity-V.webp"
+  },
+  {
+    "url": "/topgames/Music-Ballz-Hop",
+    "title": "Music Ballz Hop",
+    "icon": "https://play-lh.googleusercontent.com/UeaanQM5kMqeZZ9lXaOxQ116_QtHfKN8NuGeSPeViMkgtBghySl9y7FMEtCihnGHOyIvvOFd08dJ67BKb__oINg=s256-rw",
+    "slug": "Music-Ballz-Hop",
+    "category": "Music",
+    "localIcon": "/assets/media/topgames/Music-Ballz-Hop.webp"
+  },
+  {
+    "url": "/topgames/Sword-x-Staff",
+    "title": "Sword x Staff",
+    "icon": "https://play-lh.googleusercontent.com/JgtDyOR0A5zYyMlpXN8VKJeDu1T1C5uuLKJOtgP8ZaoqSY2BV2KPNAJ4az_WfcpZ9rHyy2Rca_UNEFeO69u49g=s256-rw",
+    "slug": "Sword-x-Staff",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Sword-x-Staff.webp"
+  },
+  {
+    "url": "/topgames/Grand-Theft-Auto-V-The-Manual",
+    "title": "Grand Theft Auto V: The Manual",
+    "icon": "https://play-lh.googleusercontent.com/SzqPdXBF8ob2DDBIngEYW8NIA67OFGNaw0iKvhKtAKybq7v6qGFIyal6q-eD1UekEC-_H-5jpGAsoG9Oj41eQQ=s256-rw",
+    "slug": "Grand-Theft-Auto-V-The-Manual",
+    "category": "Entertainment",
+    "localIcon": "/assets/media/topgames/Grand-Theft-Auto-V-The-Manual.webp"
+  },
+  {
+    "url": "/topgames/Crazy-Fox",
+    "title": "Crazy Fox",
+    "icon": "https://play-lh.googleusercontent.com/e30tJK3foLCGWKzKHljO0o3fCAbe74W6RuDlPX-A3o0c4H2QgAwN1CCF6Sqyd-UOde7BtzpKfeoElYd8l1tWchQ=s256-rw",
+    "slug": "Crazy-Fox",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Crazy-Fox.webp"
+  },
+  {
+    "url": "/topgames/Garena-Delta-Force",
+    "title": "Garena® Delta Force",
+    "icon": "https://play-lh.googleusercontent.com/JeXWmt6zPqeb8KtLnULXWpYG9l6syolkbks5N2T4RX2D5vAqSnrnVG0nY4aN0ZqpgJezfruup_naTlXU3osuow=s256-rw",
+    "slug": "Garena-Delta-Force",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Garena-Delta-Force.webp"
+  },
+  {
+    "url": "/topgames/Jigsaw-Drop-Solitaire-Puzzle",
+    "title": "Jigsaw Drop: Solitaire Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/osGxi-Zz3WeL09IOBQD5QbD9BGtf78utL7d4Og4K47n9HTosLISS_Hw9EbKJ9aIKw2yfslrwQX1SiU4i60V6oCE=s256-rw",
+    "slug": "Jigsaw-Drop-Solitaire-Puzzle",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Jigsaw-Drop-Solitaire-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Disney-Frozen-Royal-Castle",
+    "title": "Disney Frozen Royal Castle",
+    "icon": "https://play-lh.googleusercontent.com/6xayMOXHlhFnRjLmDFJt4Cyn2zD3j41uauDhP3_HH74kVd8XoiQge8WaPwoBTWR5P-a_UapC9uuzAjp_Wm2eAQ=s256-rw",
+    "slug": "Disney-Frozen-Royal-Castle",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Disney-Frozen-Royal-Castle.webp"
+  },
+  {
+    "url": "/topgames/Associations-Colorwood-Game",
+    "title": "Associations - Colorwood Game",
+    "icon": "https://play-lh.googleusercontent.com/bwNj3Phx8c5VWiXvCYMMcMs3ULNFqockg6BTcirDGbnUig0gSitTidoDQlOzSbl3Zbrd6Vc9Wj2TB9LpItR3Sw=s256-rw",
+    "slug": "Associations-Colorwood-Game",
+    "category": "Word",
+    "localIcon": "/assets/media/topgames/Associations-Colorwood-Game.webp"
+  },
+  {
+    "url": "/topgames/Ultimate-Custom-Night",
+    "title": "Ultimate Custom Night",
+    "icon": "https://play-lh.googleusercontent.com/HcvO9zOifBjdS5insyoZQ5VLqh5ScSW5XSKQW-u9d3imlwS4mp8FN5XfX_JUpBkSYmFo63giwi6QfhjDHjiqTg=s256-rw",
+    "slug": "Ultimate-Custom-Night",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Ultimate-Custom-Night.webp"
+  },
+  {
+    "url": "/topgames/Limbus-Company",
+    "title": "Limbus Company",
+    "icon": "https://play-lh.googleusercontent.com/mnqUeIK2w48bqiVf9w3h-6w0SuHrwx1Xh5DFhHHjgcu9x29qGIzs4EO9QeWtmZ42YzPOC29uU2Q73h25Nz9PCQ=s256-rw",
+    "slug": "Limbus-Company",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Limbus-Company.webp"
+  },
+  {
+    "url": "/topgames/Smash-Car-Robot-Racing",
+    "title": "Smash Car: Robot Racing",
+    "icon": "https://play-lh.googleusercontent.com/MAkVu-TGISXJLJFGIPkbtzy8ZKqkGQIEcriYm3TnZzP33m_bLJv6-JOHgE40cfneLFjyMnojAZ9io88h7MMBbwA=s256-rw",
+    "slug": "Smash-Car-Robot-Racing",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Smash-Car-Robot-Racing.webp"
+  },
+  {
+    "url": "/topgames/Frost-ValleyTM-Merge-Story",
+    "title": "Frost Valley™: Merge & Story",
+    "icon": "https://play-lh.googleusercontent.com/DNlTlOWp5zc9Xe77eizL8vU7aT72_SwVwSHcz0NtSlMz6Dmosk8BM_PDv3h2Zd661HVX9gK2klsySgKmaGoiUJk=s256-rw",
+    "slug": "Frost-ValleyTM-Merge-Story",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Frost-ValleyTM-Merge-Story.webp"
+  },
+  {
+    "url": "/topgames/Jelly-Hole-Roll-Eat-Pals",
+    "title": "Jelly Hole: Roll & Eat Pals",
+    "icon": "https://play-lh.googleusercontent.com/XC0uXtVHlhLOpey9knzelnGrNbu-8EjkhoclUWi5zZr0Y3TPPUHA3MId3ZVqWvYzJyNv8zIqC5laXODx7mDQTg=s256-rw",
+    "slug": "Jelly-Hole-Roll-Eat-Pals",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Jelly-Hole-Roll-Eat-Pals.webp"
+  },
+  {
+    "url": "/topgames/Search-It-Hidden-Objects",
+    "title": "Search It - Hidden Objects",
+    "icon": "https://play-lh.googleusercontent.com/FEm3ln0xO8rHJdwhaUW7wj-PxBhL_GS9-PQWcp-Cbj4JIKrYcfyQFpUX0W43JvaKs_aer741tZwoBbDY2F_Ptg=s256-rw",
+    "slug": "Search-It-Hidden-Objects",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Search-It-Hidden-Objects.webp"
+  },
+  {
+    "url": "/topgames/Block-World-3D-Craft-Build",
+    "title": "Block World 3D: Craft & Build",
+    "icon": "https://play-lh.googleusercontent.com/zp0eifpB8QIjJstb9yi4UygrLx-43L28X3ZUDV0xLh2SSLgbc6qYl6cy74xhDwBrdz8hkWqqVl-ASulV2RNesw=s256-rw",
+    "slug": "Block-World-3D-Craft-Build",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Block-World-3D-Craft-Build.webp"
+  },
+  {
+    "url": "/topgames/Maze-Madness-Brain-Puzzle",
+    "title": "Maze Madness - Brain Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/H4NcqsVxmw8_6IctC5lDEQEu4y9ElgR1GO1xr3fmaFcSzXHX3szzmay2t1wph7JN4NXTk0TCx3voJ9bIu7vU=s256-rw",
+    "slug": "Maze-Madness-Brain-Puzzle",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Maze-Madness-Brain-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Piggy-Kingdom",
+    "title": "Piggy Kingdom",
+    "icon": "https://play-lh.googleusercontent.com/fQwjdPKTG8GzZjwuXN-zWJXbvpu8iTyrW2lYmzumnQn6BLhsuucYakh6lW9otaOwJ2LuJWylwA-8mJKfeQeV=s256-rw",
+    "slug": "Piggy-Kingdom",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Piggy-Kingdom.webp"
+  },
+  {
+    "url": "/topgames/Block-Color-Mania-Puzzle-Game",
+    "title": "Block Color Mania, Puzzle Game",
+    "icon": "https://play-lh.googleusercontent.com/5SB2idoprwmlQp1Whr0Yvi0ihmdoUqfFAQpxzAkovSLtdM1k5NIdAdMpufHvGZYOUJ3ld5uZzgLtpZ7f__bXeHA=s256-rw",
+    "slug": "Block-Color-Mania-Puzzle-Game",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Block-Color-Mania-Puzzle-Game.webp"
+  },
+  {
+    "url": "/topgames/Cooking-Clash",
+    "title": "Cooking Clash",
+    "icon": "https://play-lh.googleusercontent.com/s23ymbfpFFyw4ASOY0BEqZ5AvumKTz00_iKWZYkFFvmqLbmEpi-0h0CpmEvAOMBQ-y748xTuciJRcDhcAaQIjA=s256-rw",
+    "slug": "Cooking-Clash",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Cooking-Clash.webp"
+  },
+  {
+    "url": "/topgames/Shoppin-Drop---Hole-Puzzle",
+    "title": "Shoppin' Drop - Hole Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/e1UT_xlvHj1oBzx97vXhhSUFqzCohX-_kTK5RKZ5mdUrdK3wnJQi3FSJ_vYY6qw0iNir4VQkNkaVEWNgD4I-Xw=s256-rw",
+    "slug": "Shoppin-Drop---Hole-Puzzle",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Shoppin-Drop---Hole-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Hole-Stars-Puzzle-Game",
+    "title": "Hole Stars: Puzzle Game",
+    "icon": "https://play-lh.googleusercontent.com/FNCz82sncnDjBLqJyHmQZEuHFVxbQIpVuSExCOTCcelqEo654O2z-bUVAFxo0IR5MX3-64UBgqZl7HLq-_3WgQ=s256-rw",
+    "slug": "Hole-Stars-Puzzle-Game",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Hole-Stars-Puzzle-Game.webp"
+  },
+  {
+    "url": "/topgames/Magic-Piano-Music-game",
+    "title": "Magic Piano: Rhythm Challenge",
+    "icon": "https://play-lh.googleusercontent.com/Et0TPJMSmPvixDA-WCouXTS8jT7h5C6bJ_BLjMoEsP3J_iOZWUa01pJHycC7t2SVMGUhD3LPJPpR3KR831yD=s256-rw",
+    "slug": "Magic-Piano-Music-game",
+    "category": "Music",
+    "localIcon": "/assets/media/topgames/Magic-Piano-Music-game.webp"
+  },
+  {
+    "url": "/topgames/Pistol-Duel",
+    "title": "Pistol Duel",
+    "icon": "https://play-lh.googleusercontent.com/VG0V4FXApzNnC5kvj4eLHTLK6FEtuHzOyt4ZNqpT3w3vv_xFRQBoUYe9oIJpWmf0GAzQtB-4D1PiHdwAsaOqcg=s256-rw",
+    "slug": "Pistol-Duel",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Pistol-Duel.webp"
+  },
+  {
+    "url": "/topgames/Shadow-Fight-2-Special-Edition",
+    "title": "Shadow Fight 2 Special Edition",
+    "icon": "https://play-lh.googleusercontent.com/aqpemoEhFAIOypXNxwHCGQUfpEOkkwGduKTrJF-lZw9c6DlMCoTe9AXkVHjht6gzBmBU5S4vL5xlfdSJXlEhddU=s256-rw",
+    "slug": "Shadow-Fight-2-Special-Edition",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Shadow-Fight-2-Special-Edition.webp"
+  },
+  {
+    "url": "/topgames/Duck-Life-4",
+    "title": "Duck Life 4",
+    "icon": "https://play-lh.googleusercontent.com/srU8nuFoyQPTiKHNoPNTSXVo52k1svqcxvbB0q5UKBNGOgVR0wkL7f-nrX4i2GL75TBiBq6Blb2BqnWSLRsd0g=s256-rw",
+    "slug": "Duck-Life-4",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Duck-Life-4.webp"
+  },
+  {
+    "url": "/topgames/CatDog-World-After-Humans",
+    "title": "CatDog World: After Humans",
+    "icon": "https://play-lh.googleusercontent.com/diPHztqICkd4EQZb5waN2bmgJ90FIefp2Bt60IIoBKBvgiKb3DxCxMgsUkYwnSyBI0bcMgulMMGlObT3lnEsJA=s256-rw",
+    "slug": "CatDog-World-After-Humans",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/CatDog-World-After-Humans.webp"
+  },
+  {
+    "url": "/topgames/Panthia-Magic-Merge-Game",
+    "title": "Panthia®: Magic & Merge Game",
+    "icon": "https://play-lh.googleusercontent.com/dVp-1_S8OJ0DHHZK5O8FN_6uy3w5vkjAFWtwUGS5WXh24JD7iLGisxIKWTXQ-pj4TtR-nsQhf4afvWonQfPxeg=s256-rw",
+    "slug": "Panthia-Magic-Merge-Game",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Panthia-Magic-Merge-Game.webp"
+  },
+  {
+    "url": "/topgames/Real-Extreme-Moto-Racing",
+    "title": "Real Extreme Moto Racing",
+    "icon": "https://play-lh.googleusercontent.com/7pIm59-eo29tVFX_d0rHdBudFX0nx-TKDJ7nIyJVpbnSLM1ukm_Z-AR3pKfjTJasYSkP2DzTvyv69boUQahvtQ=s256-rw",
+    "slug": "Real-Extreme-Moto-Racing",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Real-Extreme-Moto-Racing.webp"
+  },
+  {
+    "url": "/topgames/Pinkfong-Baby-Shark-Kid-Games",
+    "title": "Pinkfong Baby Shark: Kid Games",
+    "icon": "https://play-lh.googleusercontent.com/DpBeyuWM2RYLyi6BK6OoC9r6KmWCpJ0wzKjKYLhc9dZglJ2rCgyJ83cIxaDDou_r-B6N-ut-hhNpCoU53gIJhA=s256-rw",
+    "slug": "Pinkfong-Baby-Shark-Kid-Games",
+    "category": "Education",
+    "localIcon": "/assets/media/topgames/Pinkfong-Baby-Shark-Kid-Games.webp"
+  },
+  {
+    "url": "/topgames/Tap-Tile",
+    "title": "Tap Tile!",
+    "icon": "https://play-lh.googleusercontent.com/LWekJ21RIRChTAcqy6aRffTIv5W0xneFMaYETR69CqYHBFKEfAGp-8dhUJam8LJM6CaxeYZwzWKSaK8qbNZq=s256-rw",
+    "slug": "Tap-Tile",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Tap-Tile.webp"
+  },
+  {
+    "url": "/topgames/Chirpy-Sort-Bird-Color-Puzzle",
+    "title": "Chirpy Sort: Bird Color Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/78pU3tsZotVxo0J4Z2pTm-sX_1uR8UYvi2JzAjfEmuZ-iw7WYc_MqEurpos6N_HeUVyMXg0nRUu0VCV5sPnP-w=s256-rw",
+    "slug": "Chirpy-Sort-Bird-Color-Puzzle",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Chirpy-Sort-Bird-Color-Puzzle.webp"
+  },
+  {
+    "url": "/topgames/Foundation-Galactic-Frontier",
+    "title": "Foundation: Galactic Frontier",
+    "icon": "https://play-lh.googleusercontent.com/dmBqQ2vxCp2soM-8ez4DNs1JFKIcYvlkCLOdRPu4k8clLdJNcsUaVHnmsmDFMl5WMNsSiupUfb55oqo6YJzTnA=s256-rw",
+    "slug": "Foundation-Galactic-Frontier",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Foundation-Galactic-Frontier.webp"
+  },
+  {
+    "url": "/topgames/Paint-by-Number-Coloring-Game",
+    "title": "Paint by Number: Coloring Game",
+    "icon": "https://play-lh.googleusercontent.com/tOVyDT-cCiOBcayEhavFWx8mVR6aTKWIdDRM1fKoBX_yDhRWtplxJ7IQUdAn1E2N8kDD_qVbyGSkGgN-_YR2cA=s256-rw",
+    "slug": "Paint-by-Number-Coloring-Game",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Paint-by-Number-Coloring-Game.webp"
+  },
+  {
+    "url": "/topgames/Brick-Blast-Ball-Breaker",
+    "title": "Brick Blast - Ball Breaker",
+    "icon": "https://play-lh.googleusercontent.com/WPk1QPZRP-tKLHqJwhLqgRR39XWejFN7peg4XPsD2XJQz2K3L-oAFcNEOEzxUJSpfgFojtE1lrkNKdxmUnQSwGE=s256-rw",
+    "slug": "Brick-Blast-Ball-Breaker",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Brick-Blast-Ball-Breaker.webp"
+  },
+  {
+    "url": "/topgames/Hunting-Battle-Hunter-Game",
+    "title": "Hunting Battle: Hunter Game",
+    "icon": "https://play-lh.googleusercontent.com/O2nB-hF4hFk2Q2IfunYkmOQ6HMBZSawgOlS5pEDM4kZm8QXa6NWCNl4q_WwfbKECSBGn8D4SGxm5UC2b_yZgvg=s256-rw",
+    "slug": "Hunting-Battle-Hunter-Game",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Hunting-Battle-Hunter-Game.webp"
+  },
+  {
+    "url": "/topgames/LEGO-Star-Wars-TFA",
+    "title": "LEGO® Star Wars™: TFA",
+    "icon": "https://play-lh.googleusercontent.com/ES8CNzGXC3UPmuy7XWppMHXVpwercfFTZ5Slpr_yAlDn9NdfhQ5v5PFi-QEHS3HYu7_GKk31miNpGYzTDl2m=s256-rw",
+    "slug": "LEGO-Star-Wars-TFA",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/LEGO-Star-Wars-TFA.webp"
+  },
+  {
+    "url": "/topgames/Yarn-Loop",
+    "title": "Yarn Loop",
+    "icon": "https://play-lh.googleusercontent.com/DliylMEnevS_giunP2OosFM0RxOwTCl6DLN1krnWvhCt5T90OMWeAzMtntoTK1TqOkA7vd8Xnw_mtbUlBmfDSEA=s256-rw",
+    "slug": "Yarn-Loop",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Yarn-Loop.webp"
+  },
+  {
+    "url": "/topgames/Squishy-Magic-ASMR-Toy-Maker",
+    "title": "Squishy Magic: ASMR Toy Maker",
+    "icon": "https://play-lh.googleusercontent.com/_K4TnXDYwVy_fkIPQYPf5dEllFEMEHNnG-VYRkSmvA-4QQlni1GRlpbeQlE4VKtlkauPK-izKuL6p33HykqqYuM=s256-rw",
+    "slug": "Squishy-Magic-ASMR-Toy-Maker",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Squishy-Magic-ASMR-Toy-Maker.webp"
+  },
+  {
+    "url": "/topgames/Earn-to-Die",
+    "title": "Earn to Die",
+    "icon": "https://play-lh.googleusercontent.com/yQTUFh_hZu2W4D74Vj9GMxe2Lyvm9wzBccQA3d2e4GhfuTSsCL5N9j4kgrWUSQzfR9e-VIhYV7UJLuTTlwgBpAk=s256-rw",
+    "slug": "Earn-to-Die",
+    "category": "Racing",
+    "localIcon": "/assets/media/topgames/Earn-to-Die.webp"
+  },
+  {
+    "url": "/topgames/Sunday-City-Life-RolePlay",
+    "title": "Sunday City: Life RolePlay",
+    "icon": "https://play-lh.googleusercontent.com/NLweqBTw-ZOqfrIysgCK6373GLaJc0MhfE7LzITkIvRZML8n7BDCPlc8v-mdL0HGuY0kQvXJz47RsEfbPNmL=s256-rw",
+    "slug": "Sunday-City-Life-RolePlay",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Sunday-City-Life-RolePlay.webp"
+  },
+  {
+    "url": "/topgames/Loop-Sort",
+    "title": "Loop Sort",
+    "icon": "https://play-lh.googleusercontent.com/obKgCUtg7tviXGMR0ooG8un-oqQztLYC4uJfhRnF1Tow9WGQNZcNk5QTMbm9nPajahXCEjxcNn0J1aGq8HPRQA=s256-rw",
+    "slug": "Loop-Sort",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Loop-Sort.webp"
+  },
+  {
+    "url": "/topgames/Warline-Sniper-Strike",
+    "title": "Warline: Sniper Strike",
+    "icon": "https://play-lh.googleusercontent.com/o5eP5lR1gFW9cvISaYgpbkyGEW9qI-Mw7Z2AxzOij8A6G9s4LYS-GH_C311430htNh9aGMEAKPcjUvy_RMFEiA=s256-rw",
+    "slug": "Warline-Sniper-Strike",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Warline-Sniper-Strike.webp"
+  },
+  {
+    "url": "/topgames/Smurfs-and-the-Magical-Meadow",
+    "title": "Smurfs and the Magical Meadow",
+    "icon": "https://play-lh.googleusercontent.com/FvmzSugeNk3mdRtFfzS9gAHQXEr1BsMbtdnoEpXEDt-3OZXbYUT1uMQGxJ3gkFyJT6m7jiGOldzaFF2VGyXxLS0=s256-rw",
+    "slug": "Smurfs-and-the-Magical-Meadow",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Smurfs-and-the-Magical-Meadow.webp"
+  },
+  {
+    "url": "/topgames/Foodstars-Merge-Cook",
+    "title": "Foodstars: Merge & Cook",
+    "icon": "https://play-lh.googleusercontent.com/qDC6tUG8cFIIqYRaiu5xN7sbUp-OLV2N3iARo2FoS6XNOucwK5WE-4h3qJis8_L2QkvE0m_5Q4Gd8j4nMHfa=s256-rw",
+    "slug": "Foodstars-Merge-Cook",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Foodstars-Merge-Cook.webp"
+  },
+  {
+    "url": "/topgames/Hunting-Sniper",
+    "title": "Hunting Sniper",
+    "icon": "https://play-lh.googleusercontent.com/v8u1MD5_DMVulLHlr5xNjcLhhrrA2usQAXz6FpEkrB7R6XEFJIdkM9P7ZCuFSvbR1q3ub2atD4ODT717in6euA=s256-rw",
+    "slug": "Hunting-Sniper",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Hunting-Sniper.webp"
+  },
+  {
+    "url": "/topgames/Skins-Clothes-Maker-for-Roblox",
+    "title": "Skins & Avatars Clothes Maker",
+    "icon": "https://play-lh.googleusercontent.com/ALCSErABd1KBdaXysJmPjBm-gcQbJuyu3BnhFlZbu-xHSSXJP9kyBBaOiYPT_bCZ0q-dlNwW24xmNFzhUobeRhA=s256-rw",
+    "slug": "Skins-Clothes-Maker-for-Roblox",
+    "category": "Tools",
+    "localIcon": "/assets/media/topgames/Skins-Clothes-Maker-for-Roblox.webp"
+  },
+  {
+    "url": "/topgames/MapleStory-Idle-RPG",
+    "title": "MapleStory : Idle RPG",
+    "icon": "https://play-lh.googleusercontent.com/iqpY1xJzA5iIQdnHxk-IOfQFESViwUyTQ1AIwF1_i3kd8sQTTQDrkMLys26QqSb9tG35M5FTw2VjQuCcoe3MJA=s256-rw",
+    "slug": "MapleStory-Idle-RPG",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/MapleStory-Idle-RPG.webp"
+  },
+  {
+    "url": "/topgames/Home-Clean-Makeover-ASMR",
+    "title": "Home Clean: Makeover ASMR",
+    "icon": "https://play-lh.googleusercontent.com/Tr65S_I7ZDhfxe93tR4U806Pmlbo5X2McMGlzSGBDypsMlCnJx0cd9Z2sl2TwTdcx1k3mgU3N6obPOwIK3hD-xs=s256-rw",
+    "slug": "Home-Clean-Makeover-ASMR",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Home-Clean-Makeover-ASMR.webp"
+  },
+  {
+    "url": "/topgames/The-Game-of-Life-2",
+    "title": "The Game of Life 2",
+    "icon": "https://play-lh.googleusercontent.com/-gsOj5eLtMLpXRFIo-KBPalUP_JxbXqmF1Q7r5tClIlmAlDb-Uoz0OFbkliH5vMofd79IEpYIWMPnBg77IBzLg=s256-rw",
+    "slug": "The-Game-of-Life-2",
+    "category": "Board",
+    "localIcon": "/assets/media/topgames/The-Game-of-Life-2.webp"
+  },
+  {
+    "url": "/topgames/Hungry-Balls",
+    "title": "Hungry Balls",
+    "icon": "https://play-lh.googleusercontent.com/HkGroJZUKG2iIY2gFWKpAXir3uYU3IZpXPNoUXH1v1Kxs-zQV9iznJvah6DQNaTGe4kvUmmI1QZfa8F_aVTCDA=s256-rw",
+    "slug": "Hungry-Balls",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Hungry-Balls.webp"
+  },
+  {
+    "url": "/topgames/Invincible-Guarding-the-Globe",
+    "title": "Invincible: Guarding the Globe",
+    "icon": "https://play-lh.googleusercontent.com/EWg8XdtqQdkRt_mcVQDSHczqiMdULDI_IJfLyo_F-O8U3nmxifEy7NYMBxKf1gCb3cVxiYai-y5Vj9vA2SRX3P0=s256-rw",
+    "slug": "Invincible-Guarding-the-Globe",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Invincible-Guarding-the-Globe.webp"
+  },
+  {
+    "url": "/topgames/Brainloop-Merge-Run",
+    "title": "Monster Merge Run",
+    "icon": "https://play-lh.googleusercontent.com/sMSdA846sd5FQoonz_XdmeAxLL3VpT9J3TANG82Zb1Duc8W_rZ8mBSs94MGFQbnvvgU6dJQKUo6Q82_-Skn5DXA=s256-rw",
+    "slug": "Brainloop-Merge-Run",
+    "category": "Music",
+    "localIcon": "/assets/media/topgames/Brainloop-Merge-Run.webp"
+  },
+  {
+    "url": "/topgames/Muse-Dash",
+    "title": "Muse Dash",
+    "icon": "https://play-lh.googleusercontent.com/1EEqUaxqZkgRMBVuhOCa9r-a8vYusaN5OrDAV5-zrZISHR5w0LmAlAITJ-rS2ESCcxXv7RfvCoqb6lDk-ktSYQ=s256-rw",
+    "slug": "Muse-Dash",
+    "category": "Music",
+    "localIcon": "/assets/media/topgames/Muse-Dash.webp"
+  },
+  {
+    "url": "/topgames/Wartune-Ultra",
+    "title": "Wartune Ultra",
+    "icon": "https://play-lh.googleusercontent.com/w187g5f8xvOHCaVVF_lj_elZBMl1U608Hqe0N-5fw7MnkhvBc_Rd1XWjLv-1prYEZ8m5q5QLgXnGTl9KwA4GFVQ=s256-rw",
+    "slug": "Wartune-Ultra",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/Wartune-Ultra.webp"
+  },
+  {
+    "url": "/topgames/Haunted-Merge-Horror-Story",
+    "title": "Haunted Merge: Horror Story",
+    "icon": "https://play-lh.googleusercontent.com/bj-jc9ay6gZVvpMYA8cBVvY2Gt9056AAJrJORsfNz8zWRFOzUGU-_NuP3Z9MMHhe5xElvV3l1afYpq7VSnAsW2s=s256-rw",
+    "slug": "Haunted-Merge-Horror-Story",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Haunted-Merge-Horror-Story.webp"
+  },
+  {
+    "url": "/topgames/LEGO-Bluey",
+    "title": "LEGO® Bluey",
+    "icon": "https://play-lh.googleusercontent.com/CNAWjKw27YT3HHO77cu1zk_AeIGTyDZi5CosYxvuUDhKN2BgFKY-ltXU6XQ6JGFz5WyDyJeAB50AfmteVbbIEA=s256-rw",
+    "slug": "LEGO-Bluey",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/LEGO-Bluey.webp"
+  },
+  {
+    "url": "/topgames/Construction-Truck-Kids-Games",
+    "title": "Construction Truck Kids Games",
+    "icon": "https://play-lh.googleusercontent.com/CzmUxS0xWfcw4pN7yHZZ7DgAITxFSIxeKVyGTrdn86OT4EQW13GBBKzqtuwP5o79p1RqcytKHPZ0xv_5twh9oQ=s256-rw",
+    "slug": "Construction-Truck-Kids-Games",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Construction-Truck-Kids-Games.webp"
+  },
+  {
+    "url": "/topgames/Genshin-Impact--Cloud",
+    "title": "Genshin Impact · Cloud",
+    "icon": "https://play-lh.googleusercontent.com/Gdeses0wIaY_DvkYD5TOdOB-_K7iO6e2BxHxUQdYJ70aDP0YKe_N80tlm3g2FuCwWaj6EpWvKEUrXg8MyC5ncEQ=s256-rw",
+    "slug": "Genshin-Impact--Cloud",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Genshin-Impact--Cloud.webp"
+  },
+  {
+    "url": "/topgames/Human-Fall-Flat",
+    "title": "Human Fall Flat",
+    "icon": "https://play-lh.googleusercontent.com/nQD0aVi_iWnJS0Da_JHlG7BOVjW00JHkzAxI8Wvmyxun7OZv6vRbV4BKO4SdPloNN1QMJ_X6CL3RDK1MDWe8dg=s256-rw",
+    "slug": "Human-Fall-Flat",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Human-Fall-Flat.webp"
+  },
+  {
+    "url": "/topgames/Papas-Cheeseria-To-Go",
+    "title": "Papa's Cheeseria To Go!",
+    "icon": "https://play-lh.googleusercontent.com/RCa_PaHinAslJLw5RjuH4F4h8t--VSeCsgAHMh4uhxfSXqlUuef3oXa6UKX2vlFsM4KsLMk3JinrgosWBRpy=s256-rw",
+    "slug": "Papas-Cheeseria-To-Go",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Papas-Cheeseria-To-Go.webp"
+  },
+  {
+    "url": "/topgames/Dragon-Traveler",
+    "title": "Dragon Traveler",
+    "icon": "https://play-lh.googleusercontent.com/kxqm89jGpPR_rQgkItp-3z_iiTKqGyANOy_hX5FnMLdUGnrXCzIoUJQbjKooLliIVJSdifkA7k8l_7zJ18c5SA=s256-rw",
+    "slug": "Dragon-Traveler",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Dragon-Traveler.webp"
+  },
+  {
+    "url": "/topgames/Tidy-Puzzle-Perfect-Satisfy",
+    "title": "Tidy Puzzle: Perfect Satisfy",
+    "icon": "https://play-lh.googleusercontent.com/YeW40lMNf0y16xp6nH7dtYgPJXX4AnaqwPpgis-MO38uu8Q6sT-WRb2jtMOkD_RE_UMYFRy3_AHurDic5b9qew=s256-rw",
+    "slug": "Tidy-Puzzle-Perfect-Satisfy",
+    "category": "Puzzle",
+    "localIcon": "/assets/media/topgames/Tidy-Puzzle-Perfect-Satisfy.webp"
+  },
+  {
+    "url": "/topgames/Nut-Sort-Color-Match-Game",
+    "title": "Nut Sort: Color Match Game",
+    "icon": "https://play-lh.googleusercontent.com/eh7smzTt56768qPi6cot1gJKVFY_105JCd2h-nf-EV4oFIRXSLRJxYn_GDeZCURuWk96Hf53HcuI3YXKf1znEQ=s256-rw",
+    "slug": "Nut-Sort-Color-Match-Game",
+    "category": "Trivia",
+    "localIcon": "/assets/media/topgames/Nut-Sort-Color-Match-Game.webp"
+  },
+  {
+    "url": "/topgames/Papas-Mocharia-To-Go",
+    "title": "Papa's Mocharia To Go!",
+    "icon": "https://play-lh.googleusercontent.com/kXiHVDcsKxEP0qCLwguAbDOwJOkniycwh0erJyqpqbZ5tq6wm05_Ih10I_CyyjW3AfRiLtkP1A5dCJzIZq4B=s256-rw",
+    "slug": "Papas-Mocharia-To-Go",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Papas-Mocharia-To-Go.webp"
+  },
+  {
+    "url": "/topgames/Coloring-games-for-kids-2-5-y",
+    "title": "Coloring games for kids: 2-5 y",
+    "icon": "https://play-lh.googleusercontent.com/3MrircWldm9IvgsnKB4QiWUOvZicQkm_mVZcCho-G3rYjznOw8YE6nXKI5SUnraXmQOtC00cnxw2Yu4O0CM-=s256-rw",
+    "slug": "Coloring-games-for-kids-2-5-y",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Coloring-games-for-kids-2-5-y.webp"
+  },
+  {
+    "url": "/topgames/Cocobi-Hospital---Kids-Doctor",
+    "title": "Cocobi Hospital - Kids Doctor",
+    "icon": "https://play-lh.googleusercontent.com/lSBo0WbxZ376Ycj7I4QsR8TMPTNBxZVImpR9EtYjvBFDjn5H7QRVKSUGrR5xOJP3h2Hg0WWpNPqlqKZ_X_LTFsk=s256-rw",
+    "slug": "Cocobi-Hospital---Kids-Doctor",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Cocobi-Hospital---Kids-Doctor.webp"
+  },
+  {
+    "url": "/topgames/Farming-Simulator-23-Mobile",
+    "title": "Farming Simulator 23 Mobile",
+    "icon": "https://play-lh.googleusercontent.com/8AhKZR3O6MCdIVsPPzxTU5c7S82ZY43tfRwBweLwnurXeJyiL9_6P5aaiViWXDA-Cgx3Ou6DzCnCYqHJKNyAtw=s256-rw",
+    "slug": "Farming-Simulator-23-Mobile",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Farming-Simulator-23-Mobile.webp"
+  },
+  {
+    "url": "/topgames/Music-Beats-Cute-or-Scary",
+    "title": "Music Beats: Cute or Scary",
+    "icon": "https://play-lh.googleusercontent.com/xt6H-_xWqyDeBhS4cqdLGp8Kp-sPNSfB_rcZ5CKf_K9ekB26bhZF7ozdR6twzCMIau-XLjFhKEDpU4ZcCDXFJg=s256-rw",
+    "slug": "Music-Beats-Cute-or-Scary",
+    "category": "Music",
+    "localIcon": "/assets/media/topgames/Music-Beats-Cute-or-Scary.webp"
+  },
+  {
+    "url": "/topgames/Five-Nights-at-Freddys-SL",
+    "title": "Five Nights at Freddy's: SL",
+    "icon": "https://play-lh.googleusercontent.com/cJe-kKy3_-ul3tp9GzzUMN0_DuGyfqMraHz9DQRAXHgWkw0YQLj565sjbK-Ee56jKDnCWGzlCbPu00_hbcldXRs=s256-rw",
+    "slug": "Five-Nights-at-Freddys-SL",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Five-Nights-at-Freddys-SL.webp"
+  },
+  {
+    "url": "/topgames/Last-Light",
+    "title": "Last Light",
+    "icon": "https://play-lh.googleusercontent.com/mO8K5bR7WiMvSyo0flHX4mVHiTEb45NVdFebv0wHYJ0mmM4eeiVtO3qzEKDtnUSOQGkFg0fsoHgF1WN24Gj7Rh0=s256-rw",
+    "slug": "Last-Light",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Last-Light.webp"
+  },
+  {
+    "url": "/topgames/Sudoku-Ultimate-Offline-puzzle",
+    "title": "Sudoku Ultimate Offline puzzle",
+    "icon": "https://play-lh.googleusercontent.com/v1GF--pSduPL3_wXpBi5IZ19fHxxLZeoYPApend-FGhq7nr4zHZjtjL1lUOLSOBk3KQi4dISgnDtVfzUUhLi=s256-rw",
+    "slug": "Sudoku-Ultimate-Offline-puzzle",
+    "category": "Board",
+    "localIcon": "/assets/media/topgames/Sudoku-Ultimate-Offline-puzzle.webp"
+  },
+  {
+    "url": "/topgames/Mia-World-Makeover-Life",
+    "title": "Mia World - Makeover Life",
+    "icon": "https://play-lh.googleusercontent.com/uu4QRLX0oh7G626xijWQsXM1QANfqBuyvvVOVwVERW-OlJYawT8fngH_ztfOSJu-8sMn48rOvrl0_YJL6eBs=s256-rw",
+    "slug": "Mia-World-Makeover-Life",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Mia-World-Makeover-Life.webp"
+  },
+  {
+    "url": "/topgames/Fruits-Coloring--Food-Coloring",
+    "title": "Fruits Coloring- Food Coloring",
+    "icon": "https://play-lh.googleusercontent.com/zAwL-3er7iWZtRycB6Q3pM_aDPHyfLkpnNjuzz-eiqkA9V8loVekelTa841n99RY9_tqG9ZJsV9MVvnAtoCCYXw=s256-rw",
+    "slug": "Fruits-Coloring--Food-Coloring",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Fruits-Coloring--Food-Coloring.webp"
+  },
+  {
+    "url": "/topgames/Coloring-Book---Games-for-Kids",
+    "title": "Coloring Book - Games for Kids",
+    "icon": "https://play-lh.googleusercontent.com/GNIhypADmuGafr3n6UmUeijO_YsiNHNvNoiQ1biwCe2QoRCSZdI9cgnoBpLjExZVr1IXyicLebm7CUzKKb7ttQ=s256-rw",
+    "slug": "Coloring-Book---Games-for-Kids",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Coloring-Book---Games-for-Kids.webp"
+  },
+  {
+    "url": "/topgames/Jetpack-Joyride-Classic",
+    "title": "Jetpack Joyride Classic",
+    "icon": "https://play-lh.googleusercontent.com/6kNdx78YsyHBfncCblP4xQ1-Fs7muDvbiQI6p9WeeiC8p0Gc3WbGT-KYZda5Pev4Xyqv_GZdmtPahQjC_H4Lyw=s256-rw",
+    "slug": "Jetpack-Joyride-Classic",
+    "category": "Arcade",
+    "localIcon": "/assets/media/topgames/Jetpack-Joyride-Classic.webp"
+  },
+  {
+    "url": "/topgames/Marvel-HQ-Kids-Super-Hero-Fun",
+    "title": "Marvel HQ: Kids Super Hero Fun",
+    "icon": "https://play-lh.googleusercontent.com/M6bmjfXq8ZypR6ltKpqjglWUlwz7ZYA4XalmV2Wc_5GIMtC3jUcFzrPepuZ_6ZBuWXq82gNWTb-ClWuBPGDg=s256-rw",
+    "slug": "Marvel-HQ-Kids-Super-Hero-Fun",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Marvel-HQ-Kids-Super-Hero-Fun.webp"
+  },
+  {
+    "url": "/topgames/Sniper-Battle-3D-War-Shooter",
+    "title": "Sniper Battle: 3D War Shooter",
+    "icon": "https://play-lh.googleusercontent.com/mcIIbm7yBXgF_aX-2h23mb4BkWy5DWfx-dAvEOVZ-50c5FRahHW11RsUT9CoYOHQxgDsvWWkMzET6cA9aPpUtw=s256-rw",
+    "slug": "Sniper-Battle-3D-War-Shooter",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/Sniper-Battle-3D-War-Shooter.webp"
+  },
+  {
+    "url": "/topgames/Suika-Game",
+    "title": "Suika Game",
+    "icon": "https://play-lh.googleusercontent.com/ffgIRwSyF7OhY3K2mPzzQtvwcJ_k_NQnU1JyHvq2fjNO5p0YLv9C4MBEeYM4xCVd5LNdq4cuHvIlnWf7JADf=s256-rw",
+    "slug": "Suika-Game",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/Suika-Game.webp"
+  },
+  {
+    "url": "/topgames/Coffee-Stack-Run",
+    "title": "Coffee Stack Run",
+    "icon": "https://play-lh.googleusercontent.com/d3yburtYMfsiDe68oBXALjh5Hg20dbtoOIz98xi36hCaEwJdOuGI5fpGb6CXxTj3AV7NOnMij1DbKc3RZ-1Ver8=s256-rw",
+    "slug": "Coffee-Stack-Run",
+    "category": "Trivia",
+    "localIcon": "/assets/media/topgames/Coffee-Stack-Run.webp"
+  },
+  {
+    "url": "/topgames/Papas-Cupcakeria-To-Go",
+    "title": "Papa's Cupcakeria To Go!",
+    "icon": "https://play-lh.googleusercontent.com/UmMPnljIQAxRtV6xHWTDixNuoZSil4OHsDUIl_TIqUJpURN1O_h5UPIoH31U27a3Kjb96U1IXoMyt18RiyEDOhA=s256-rw",
+    "slug": "Papas-Cupcakeria-To-Go",
+    "category": "Strategy",
+    "localIcon": "/assets/media/topgames/Papas-Cupcakeria-To-Go.webp"
+  },
+  {
+    "url": "/topgames/RF-ONLINE-NEXT",
+    "title": "RF ONLINE NEXT",
+    "icon": "https://play-lh.googleusercontent.com/IkNZqliSHoIRoWo-SFO0b8pzt53n1Epi-Tf9p8LbwczkafXbMcuQTpmgpdU-DIKeamrQoyqgRQTars9qnpe0Gg=s256-rw",
+    "slug": "RF-ONLINE-NEXT",
+    "category": "Role Playing",
+    "localIcon": "/assets/media/topgames/RF-ONLINE-NEXT.webp"
+  },
+  {
+    "url": "/topgames/Poly-Bridge-3",
+    "title": "Poly Bridge 3",
+    "icon": "https://play-lh.googleusercontent.com/U6PStQJ22paY2ztSJDox_x9dZ-4jHU26eD5ttRsuwGSEhVS_JIrJ8UQ5rhwSZiOjWTn-yLqjs3-VcuQUHhM6IA=s256-rw",
+    "slug": "Poly-Bridge-3",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Poly-Bridge-3.webp"
+  },
+  {
+    "url": "/topgames/Sonic-Runners-Adventure-game",
+    "title": "Sonic Runners Adventure game",
+    "icon": "https://play-lh.googleusercontent.com/1F-XTSfZL4V6i_0bouwVIXCQF4R-90jWry8eiXTkwsyCNzSw4xd7dL0sWGKqoKytw9WWBweqrcHdsKGWtxMxuTk=s256-rw",
+    "slug": "Sonic-Runners-Adventure-game",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Sonic-Runners-Adventure-game.webp"
+  },
+  {
+    "url": "/topgames/Skins-For-Roblox-Clothes",
+    "title": "Skins For Roblox Clothes",
+    "icon": "https://play-lh.googleusercontent.com/ziPQOF9el-1XAI8Kk582hAD2DXqB8HlOyQ3uHEcpvlfgRI5-KobfQr3e_C7vzAAgemPFOGgEqgAT0ONt0YCbIcY=s256-rw",
+    "slug": "Skins-For-Roblox-Clothes",
+    "category": "Personalization",
+    "localIcon": "/assets/media/topgames/Skins-For-Roblox-Clothes.webp"
+  },
+  {
+    "url": "/topgames/Kids-Puzzle-Games-2-5-years",
+    "title": "Kids Puzzle Games 2-5 years",
+    "icon": "https://play-lh.googleusercontent.com/Lnte7F81_nTCF7hsW_XLI07BRZZjYf3Frvt_L2Pc9LYjXV-pbCG4rmNxb8AJc4NH7xnVuCcEXXJoDX6Oy_emNkI=s256-rw",
+    "slug": "Kids-Puzzle-Games-2-5-years",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Kids-Puzzle-Games-2-5-years.webp"
+  },
+  {
+    "url": "/topgames/Monster-Trucks-Game-for-Kids-3",
+    "title": "Monster Trucks Game for Kids 3",
+    "icon": "https://play-lh.googleusercontent.com/ywfFIExPath-oRLQBYHvGlDRtIeDB8YvoveXH_Zd44tL6dMp0g7TNFeGeVB-CvEag-N64WlHdqJhjdWSC-Kq7aQ=s256-rw",
+    "slug": "Monster-Trucks-Game-for-Kids-3",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/Monster-Trucks-Game-for-Kids-3.webp"
+  },
+  {
+    "url": "/topgames/NARUTO-Ultimate-Ninja-STORM",
+    "title": "NARUTO: Ultimate Ninja STORM",
+    "icon": "https://play-lh.googleusercontent.com/11bPEEUpln4WxSmP8mCFQz7isXWCzeSIcVbO_cAnWa3Ze3skO0U_EiPQdDbs2llL5I4S6MZTSbLEH_iAiDi_=s256-rw",
+    "slug": "NARUTO-Ultimate-Ninja-STORM",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/NARUTO-Ultimate-Ninja-STORM.webp"
+  },
+  {
+    "url": "/topgames/Kapuki-TV-Cartoons-for-Kids",
+    "title": "Kapuki TV: Cartoons for Kids",
+    "icon": "https://play-lh.googleusercontent.com/3fvupCnCNS_3ZNydEaCVR4OX-zQbLFYu0tgNKqfToDbsf0VLFb3gNXSBoDXt4DzOYP7XRlf5EARyux--G2ism0Q=s256-rw",
+    "slug": "Kapuki-TV-Cartoons-for-Kids",
+    "category": "Entertainment",
+    "localIcon": "/assets/media/topgames/Kapuki-TV-Cartoons-for-Kids.webp"
+  },
+  {
+    "url": "/topgames/Boris-and-the-Dark-Survival",
+    "title": "Bendy: Lone Wolf",
+    "icon": "https://play-lh.googleusercontent.com/bbXg8hHiK9txOFEDfr0-nc1hB4BYEGrCDDsWZesTXUJFByPieMo1YJ8POI5aX_zw4WriO4__upPrGTH4G1_o=s256-rw",
+    "slug": "Boris-and-the-Dark-Survival",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/Boris-and-the-Dark-Survival.webp"
+  },
+  {
+    "url": "/topgames/Baby-Shark-Jigsaw-Puzzle-Fun",
+    "title": "Baby Shark Jigsaw Puzzle Fun",
+    "icon": "https://play-lh.googleusercontent.com/SVw_Ug0sJKyL4mwgWO2P4iKWY2I5QJdVJqINWiK1uryb0Bn5hObtWI2cHXvwhjmcLySYaZBQcVq3783rjDz5=s256-rw",
+    "slug": "Baby-Shark-Jigsaw-Puzzle-Fun",
+    "category": "Education",
+    "localIcon": "/assets/media/topgames/Baby-Shark-Jigsaw-Puzzle-Fun.webp"
+  },
+  {
+    "url": "/topgames/ABC-kids---Alphabet-learning",
+    "title": "ABC kids - Alphabet learning!",
+    "icon": "https://play-lh.googleusercontent.com/w5jtYKKr6iexQVfqFl4blqj1_9AV92nAu_5cEWJnUng7TNo3_lVflq_60eTyuoCNw3UVxrgsjg-__YMyyWQq=s256-rw",
+    "slug": "ABC-kids---Alphabet-learning",
+    "category": "Educational",
+    "localIcon": "/assets/media/topgames/ABC-kids---Alphabet-learning.webp"
+  },
+  {
+    "url": "/topgames/LEGO-Star-Wars--TCS",
+    "title": "LEGO® Star Wars™: TCS",
+    "icon": "https://play-lh.googleusercontent.com/_aJSJXG3bAAcJZKrFCLbvzAtb09kNVM_3vE_vf6aDEsiGAsHDJtNxFCISx5L2E5PX1pjNP27EEHRbV1w7upL=s256-rw",
+    "slug": "LEGO-Star-Wars--TCS",
+    "category": "Action",
+    "localIcon": "/assets/media/topgames/LEGO-Star-Wars--TCS.webp"
+  },
+  {
+    "url": "/topgames/LEGO--Batman-Beyond-Gotham",
+    "title": "LEGO ® Batman: Beyond Gotham",
+    "icon": "https://play-lh.googleusercontent.com/JvRjvV3TlZ448xlpvoxbpP4LyXydrh0gjUgM7uqpjIUyIi4DXyiarxDpN8U0pjIby3Hg3RwzuEPR46a_g72Jyw=s256-rw",
+    "slug": "LEGO--Batman-Beyond-Gotham",
+    "category": "Adventure",
+    "localIcon": "/assets/media/topgames/LEGO--Batman-Beyond-Gotham.webp"
+  },
+  {
+    "url": "/topgames/Backyard-Baseball-97",
+    "title": "Backyard Baseball '97",
+    "icon": "https://play-lh.googleusercontent.com/W2xWNU5MAPGvOA97x-PG0CFJDcH-aw-jeTyQmHTBuFvl2eK-QQIZ7odLl6i4D4aHSO2bWMrxQQ54E53abLi-nA=s256-rw",
+    "slug": "Backyard-Baseball-97",
+    "category": "Sports",
+    "localIcon": "/assets/media/topgames/Backyard-Baseball-97.webp"
+  },
+  {
+    "url": "/topgames/Way-of-the-Hunter-Wild-America",
+    "title": "Way of the Hunter Wild America",
+    "icon": "https://play-lh.googleusercontent.com/CS5lBNYjlf0dDkMWMYh_G1x0Ls6E-DDnxhxhxtxkf8nGebnca6DnpvT7jHC43Os9t2xXHY3fbzMavE1HQHwZX_k=s256-rw",
+    "slug": "Way-of-the-Hunter-Wild-America",
+    "category": "Simulation",
+    "localIcon": "/assets/media/topgames/Way-of-the-Hunter-Wild-America.webp"
+  },
+  {
+    "url": "/topgames/A-Game-About-Digging-A-Hole",
+    "title": "A Game About Digging A Hole™",
+    "icon": "https://play-lh.googleusercontent.com/93aOWFiKOrybRdhRtyRVF7DK6Rr_dFzvv5jvTvUrHxQeFTl88yLiF57VXXZEO0F2-X3t12hErUuhjVs0Hwon=s256-rw",
+    "slug": "A-Game-About-Digging-A-Hole",
+    "category": "Casual",
+    "localIcon": "/assets/media/topgames/A-Game-About-Digging-A-Hole.webp"
+  }
+]

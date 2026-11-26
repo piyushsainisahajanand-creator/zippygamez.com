@@ -1,0 +1,30 @@
+{
+  "id": "/app/TeraBox-1TB-Cloud-AI-Space/",
+  "name": "TeraBox: 1TB Cloud & AI Space - ZippyGamez",
+  "short_name": "TeraBox: 1TB Cloud & AI Space",
+  "description": "Open TeraBox: 1TB Cloud & AI Space details and official store access on ZippyGamez.",
+  "start_url": "/app/TeraBox-1TB-Cloud-AI-Space/download/",
+  "scope": "/app/TeraBox-1TB-Cloud-AI-Space/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "tools"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

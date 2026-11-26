@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/match-2d/play/",
+  "name": "Match 2D - ZippyGamez",
+  "short_name": "Match 2D",
+  "description": "Play Match 2D instantly on ZippyGamez.",
+  "start_url": "/playgames/match-2d/play/",
+  "scope": "/playgames/match-2d/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/match-2d-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/match-2d.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

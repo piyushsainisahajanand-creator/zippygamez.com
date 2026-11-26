@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/war-the-knights/play/",
+  "name": "War the Knights - ZippyGamez",
+  "short_name": "War the Knights",
+  "description": "Play War the Knights instantly on ZippyGamez.",
+  "start_url": "/playgames/war-the-knights/play/",
+  "scope": "/playgames/war-the-knights/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/war-the-knights-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/war-the-knights.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

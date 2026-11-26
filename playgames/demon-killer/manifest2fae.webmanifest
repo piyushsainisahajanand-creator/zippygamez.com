@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/demon-killer/play/",
+  "name": "Demon Killer - ZippyGamez",
+  "short_name": "Demon Killer",
+  "description": "Play Demon Killer instantly on ZippyGamez.",
+  "start_url": "/playgames/demon-killer/play/",
+  "scope": "/playgames/demon-killer/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/demon-killer-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/demon-killer.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

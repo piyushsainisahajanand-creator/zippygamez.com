@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/daddy-rabbit/play/",
+  "name": "Daddy Rabbit - ZippyGamez",
+  "short_name": "Daddy Rabbit",
+  "description": "Play Daddy Rabbit instantly on ZippyGamez.",
+  "start_url": "/playgames/daddy-rabbit/play/",
+  "scope": "/playgames/daddy-rabbit/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "strategy"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/daddy-rabbit-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/daddy-rabbit.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/battboy-adventure/play/",
+  "name": "Battboy Adventure - ZippyGamez",
+  "short_name": "Battboy Adventure",
+  "description": "Play Battboy Adventure instantly on ZippyGamez.",
+  "start_url": "/playgames/battboy-adventure/play/",
+  "scope": "/playgames/battboy-adventure/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "action"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/battboy-adventure-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/battboy-adventure.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

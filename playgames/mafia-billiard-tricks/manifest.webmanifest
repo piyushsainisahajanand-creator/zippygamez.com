@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/mafia-billiard-tricks/play/",
+  "name": "Mafia Billiard Tricks - ZippyGamez",
+  "short_name": "Mafia Billiard Tricks",
+  "description": "Play Mafia Billiard Tricks instantly on ZippyGamez.",
+  "start_url": "/playgames/mafia-billiard-tricks/play/",
+  "scope": "/playgames/mafia-billiard-tricks/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/mafia-billiard-tricks-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/mafia-billiard-tricks.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

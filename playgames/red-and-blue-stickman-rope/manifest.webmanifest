@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/red-and-blue-stickman-rope/play/",
+  "name": "Red and Blue Stickman Rope - ZippyGamez",
+  "short_name": "Red and Blue Stickman Rope",
+  "description": "Play Red and Blue Stickman Rope instantly on ZippyGamez.",
+  "start_url": "/playgames/red-and-blue-stickman-rope/play/",
+  "scope": "/playgames/red-and-blue-stickman-rope/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "multiplayer"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/red-and-blue-stickman-rope-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/red-and-blue-stickman-rope.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

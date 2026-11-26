@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/glauron-dragon-tales/play/",
+  "name": "Glauron: dragon tales - ZippyGamez",
+  "short_name": "Glauron: dragon tales",
+  "description": "Play Glauron: dragon tales instantly on ZippyGamez.",
+  "start_url": "/playgames/glauron-dragon-tales/play/",
+  "scope": "/playgames/glauron-dragon-tales/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/glauron-dragon-tales-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/glauron-dragon-tales.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/squidgames-3d/play/",
+  "name": "Squidgames 3D - ZippyGamez",
+  "short_name": "Squidgames 3D",
+  "description": "Play Squidgames 3D instantly on ZippyGamez.",
+  "start_url": "/playgames/squidgames-3d/play/",
+  "scope": "/playgames/squidgames-3d/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/squidgames-3d-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/squidgames-3d.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

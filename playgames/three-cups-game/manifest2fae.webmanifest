@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/three-cups-game/play/",
+  "name": "Three Cups Game - ZippyGamez",
+  "short_name": "Three Cups Game",
+  "description": "Play Three Cups Game instantly on ZippyGamez.",
+  "start_url": "/playgames/three-cups-game/play/",
+  "scope": "/playgames/three-cups-game/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/three-cups-game-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/three-cups-game.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

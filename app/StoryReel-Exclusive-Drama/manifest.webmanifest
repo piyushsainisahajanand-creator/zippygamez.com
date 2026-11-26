@@ -1,0 +1,30 @@
+{
+  "id": "/app/StoryReel-Exclusive-Drama/",
+  "name": "StoryReel: Exclusive Drama - ZippyGamez",
+  "short_name": "StoryReel: Exclusive Drama",
+  "description": "Open StoryReel: Exclusive Drama details and official store access on ZippyGamez.",
+  "start_url": "/app/StoryReel-Exclusive-Drama/download/",
+  "scope": "/app/StoryReel-Exclusive-Drama/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

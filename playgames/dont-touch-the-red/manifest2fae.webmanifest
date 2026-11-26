@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/dont-touch-the-red/play/",
+  "name": "Don't touch the red - ZippyGamez",
+  "short_name": "Don't touch the red",
+  "description": "Play Don't touch the red instantly on ZippyGamez.",
+  "start_url": "/playgames/dont-touch-the-red/play/",
+  "scope": "/playgames/dont-touch-the-red/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "casual"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/dont-touch-the-red-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/dont-touch-the-red.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

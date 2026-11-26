@@ -1,0 +1,30 @@
+{
+  "id": "/app/Word-Document-DOCX-PDF-XLSX/",
+  "name": "Word Document: DOCX, PDF, XLSX - ZippyGamez",
+  "short_name": "Word Document: DOCX, PDF, XLSX",
+  "description": "Open Word Document: DOCX, PDF, XLSX details and official store access on ZippyGamez.",
+  "start_url": "/app/Word-Document-DOCX-PDF-XLSX/download/",
+  "scope": "/app/Word-Document-DOCX-PDF-XLSX/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

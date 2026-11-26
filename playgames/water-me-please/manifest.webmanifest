@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/water-me-please/play/",
+  "name": "Water Me Please! - ZippyGamez",
+  "short_name": "Water Me Please!",
+  "description": "Play Water Me Please! instantly on ZippyGamez.",
+  "start_url": "/playgames/water-me-please/play/",
+  "scope": "/playgames/water-me-please/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/water-me-please-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/water-me-please.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

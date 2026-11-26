@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/fireblob-winter/play/",
+  "name": "FireBlob Winter - ZippyGamez",
+  "short_name": "FireBlob Winter",
+  "description": "Play FireBlob Winter instantly on ZippyGamez.",
+  "start_url": "/playgames/fireblob-winter/play/",
+  "scope": "/playgames/fireblob-winter/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/fireblob-winter-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/fireblob-winter.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/open-dune-2/play/",
+  "name": "Open Dune 2 - ZippyGamez",
+  "short_name": "Open Dune 2",
+  "description": "Play Open Dune 2 instantly on ZippyGamez.",
+  "start_url": "/playgames/open-dune-2/play/",
+  "scope": "/playgames/open-dune-2/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "simulation"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/open-dune-2-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/open-dune-2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

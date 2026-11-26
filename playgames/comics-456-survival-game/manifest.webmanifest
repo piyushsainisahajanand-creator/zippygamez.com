@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/comics-456-survival-game/play/",
+  "name": "Comics 456 - Survival Game - ZippyGamez",
+  "short_name": "Comics 456 - Survival Game",
+  "description": "Play Comics 456 - Survival Game instantly on ZippyGamez.",
+  "start_url": "/playgames/comics-456-survival-game/play/",
+  "scope": "/playgames/comics-456-survival-game/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/comics-456-survival-game-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/comics-456-survival-game.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

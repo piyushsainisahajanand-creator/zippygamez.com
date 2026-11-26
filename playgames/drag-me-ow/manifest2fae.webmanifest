@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/drag-me-ow/play/",
+  "name": "Drag me-ow - ZippyGamez",
+  "short_name": "Drag me-ow",
+  "description": "Play Drag me-ow instantly on ZippyGamez.",
+  "start_url": "/playgames/drag-me-ow/play/",
+  "scope": "/playgames/drag-me-ow/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/drag-me-ow-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/drag-me-ow.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

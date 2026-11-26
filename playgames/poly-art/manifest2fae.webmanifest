@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/poly-art/play/",
+  "name": "Poly Art - ZippyGamez",
+  "short_name": "Poly Art",
+  "description": "Play Poly Art instantly on ZippyGamez.",
+  "start_url": "/playgames/poly-art/play/",
+  "scope": "/playgames/poly-art/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzle"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/poly-art-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/poly-art.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

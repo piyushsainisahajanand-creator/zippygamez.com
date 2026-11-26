@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/green-and-blue-cuteman/play/",
+  "name": "Green and Blue Cuteman - ZippyGamez",
+  "short_name": "Green and Blue Cuteman",
+  "description": "Play Green and Blue Cuteman instantly on ZippyGamez.",
+  "start_url": "/playgames/green-and-blue-cuteman/play/",
+  "scope": "/playgames/green-and-blue-cuteman/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "multiplayer"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/green-and-blue-cuteman-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/green-and-blue-cuteman.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

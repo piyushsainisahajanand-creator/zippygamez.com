@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/skyblock/play/",
+  "name": "Skyblock - ZippyGamez",
+  "short_name": "Skyblock",
+  "description": "Play Skyblock instantly on ZippyGamez.",
+  "start_url": "/playgames/skyblock/play/",
+  "scope": "/playgames/skyblock/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "classics"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/skyblock-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/skyblock.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

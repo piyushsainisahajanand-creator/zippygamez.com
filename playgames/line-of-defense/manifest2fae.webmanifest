@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/line-of-defense/play/",
+  "name": "Line of Defense - ZippyGamez",
+  "short_name": "Line of Defense",
+  "description": "Play Line of Defense instantly on ZippyGamez.",
+  "start_url": "/playgames/line-of-defense/play/",
+  "scope": "/playgames/line-of-defense/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/line-of-defense-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/line-of-defense.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

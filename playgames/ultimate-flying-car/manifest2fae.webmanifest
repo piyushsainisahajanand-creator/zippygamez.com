@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/ultimate-flying-car/play/",
+  "name": "Ultimate Flying Car - ZippyGamez",
+  "short_name": "Ultimate Flying Car",
+  "description": "Play Ultimate Flying Car instantly on ZippyGamez.",
+  "start_url": "/playgames/ultimate-flying-car/play/",
+  "scope": "/playgames/ultimate-flying-car/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/ultimate-flying-car-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/ultimate-flying-car.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

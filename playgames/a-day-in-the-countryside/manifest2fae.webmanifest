@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/a-day-in-the-countryside/play/",
+  "name": "A day in the countryside - ZippyGamez",
+  "short_name": "A day in the countryside",
+  "description": "Play A day in the countryside instantly on ZippyGamez.",
+  "start_url": "/playgames/a-day-in-the-countryside/play/",
+  "scope": "/playgames/a-day-in-the-countryside/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/a-day-in-the-countryside-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/a-day-in-the-countryside.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

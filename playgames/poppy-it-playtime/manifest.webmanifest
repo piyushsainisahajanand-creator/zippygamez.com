@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/poppy-it-playtime/play/",
+  "name": "Poppy it Playtime - ZippyGamez",
+  "short_name": "Poppy it Playtime",
+  "description": "Play Poppy it Playtime instantly on ZippyGamez.",
+  "start_url": "/playgames/poppy-it-playtime/play/",
+  "scope": "/playgames/poppy-it-playtime/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/poppy-it-playtime-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/poppy-it-playtime.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

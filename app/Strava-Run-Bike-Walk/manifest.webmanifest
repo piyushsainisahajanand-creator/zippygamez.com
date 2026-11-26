@@ -1,0 +1,30 @@
+{
+  "id": "/app/Strava-Run-Bike-Walk/",
+  "name": "Strava: Run, Bike, Walk - ZippyGamez",
+  "short_name": "Strava: Run, Bike, Walk",
+  "description": "Open Strava: Run, Bike, Walk details and official store access on ZippyGamez.",
+  "start_url": "/app/Strava-Run-Bike-Walk/download/",
+  "scope": "/app/Strava-Run-Bike-Walk/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "health & fitness"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

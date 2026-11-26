@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/special-strike-zombies/play/",
+  "name": "Special Strike Zombies - ZippyGamez",
+  "short_name": "Special Strike Zombies",
+  "description": "Play Special Strike Zombies instantly on ZippyGamez.",
+  "start_url": "/playgames/special-strike-zombies/play/",
+  "scope": "/playgames/special-strike-zombies/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/special-strike-zombies-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/special-strike-zombies.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

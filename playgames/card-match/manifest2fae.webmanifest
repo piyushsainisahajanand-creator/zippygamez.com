@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/card-match/play/",
+  "name": "Card Match - ZippyGamez",
+  "short_name": "Card Match",
+  "description": "Play Card Match instantly on ZippyGamez.",
+  "start_url": "/playgames/card-match/play/",
+  "scope": "/playgames/card-match/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/card-match-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/card-match.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

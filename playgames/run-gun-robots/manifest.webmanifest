@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/run-gun-robots/play/",
+  "name": "Run Gun Robots - ZippyGamez",
+  "short_name": "Run Gun Robots",
+  "description": "Play Run Gun Robots instantly on ZippyGamez.",
+  "start_url": "/playgames/run-gun-robots/play/",
+  "scope": "/playgames/run-gun-robots/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/run-gun-robots-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/run-gun-robots.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

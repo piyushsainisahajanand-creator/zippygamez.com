@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/knife-smash/play/",
+  "name": "Knife Smash - ZippyGamez",
+  "short_name": "Knife Smash",
+  "description": "Play Knife Smash instantly on ZippyGamez.",
+  "start_url": "/playgames/knife-smash/play/",
+  "scope": "/playgames/knife-smash/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "adventure"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/knife-smash-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/knife-smash.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

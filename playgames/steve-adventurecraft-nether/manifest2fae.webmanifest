@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/steve-adventurecraft-nether/play/",
+  "name": "Steve AdventureCraft Nether - ZippyGamez",
+  "short_name": "Steve AdventureCraft Nether",
+  "description": "Play Steve AdventureCraft Nether instantly on ZippyGamez.",
+  "start_url": "/playgames/steve-adventurecraft-nether/play/",
+  "scope": "/playgames/steve-adventurecraft-nether/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/steve-adventurecraft-nether-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/steve-adventurecraft-nether.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

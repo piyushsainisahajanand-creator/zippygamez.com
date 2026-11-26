@@ -1,0 +1,30 @@
+{
+  "id": "/app/Opera-Mini-browser-beta/",
+  "name": "Opera Mini browser beta - ZippyGamez",
+  "short_name": "Opera Mini browser beta",
+  "description": "Open Opera Mini browser beta details and official access options on ZippyGamez.",
+  "start_url": "/app/Opera-Mini-browser-beta/download/",
+  "scope": "/app/Opera-Mini-browser-beta/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "apps",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "pwa-icon-192.png?v=full-icon-20260709",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pwa-icon-512.png?v=full-icon-20260709",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

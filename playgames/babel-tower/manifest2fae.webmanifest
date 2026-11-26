@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/babel-tower/play/",
+  "name": "Babel Tower - ZippyGamez",
+  "short_name": "Babel Tower",
+  "description": "Play Babel Tower instantly on ZippyGamez.",
+  "start_url": "/playgames/babel-tower/play/",
+  "scope": "/playgames/babel-tower/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "simulation"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/babel-tower-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/babel-tower.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

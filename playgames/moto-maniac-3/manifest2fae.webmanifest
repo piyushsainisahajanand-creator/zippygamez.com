@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/moto-maniac-3/play/",
+  "name": "Moto Maniac 3 - ZippyGamez",
+  "short_name": "Moto Maniac 3",
+  "description": "Play Moto Maniac 3 instantly on ZippyGamez.",
+  "start_url": "/playgames/moto-maniac-3/play/",
+  "scope": "/playgames/moto-maniac-3/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "racing"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/moto-maniac-3-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/moto-maniac-3.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

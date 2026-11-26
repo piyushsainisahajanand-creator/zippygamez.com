@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/zombie-killer/play/",
+  "name": "Zombie Killer - ZippyGamez",
+  "short_name": "Zombie Killer",
+  "description": "Play Zombie Killer instantly on ZippyGamez.",
+  "start_url": "/playgames/zombie-killer/play/",
+  "scope": "/playgames/zombie-killer/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "shooting"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/zombie-killer-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/zombie-killer.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/robot-ball/play/",
+  "name": "Robot Ball - ZippyGamez",
+  "short_name": "Robot Ball",
+  "description": "Play Robot Ball instantly on ZippyGamez.",
+  "start_url": "/playgames/robot-ball/play/",
+  "scope": "/playgames/robot-ball/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/robot-ball-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/robot-ball.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/tap-ninja/play/",
+  "name": "Tap Ninja - ZippyGamez",
+  "short_name": "Tap Ninja",
+  "description": "Play Tap Ninja instantly on ZippyGamez.",
+  "start_url": "/playgames/tap-ninja/play/",
+  "scope": "/playgames/tap-ninja/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "arcade"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/tap-ninja-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/tap-ninja.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

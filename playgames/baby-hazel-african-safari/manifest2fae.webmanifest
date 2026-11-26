@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/baby-hazel-african-safari/play/",
+  "name": "Baby Hazel African Safari - ZippyGamez",
+  "short_name": "Baby Hazel African Safari",
+  "description": "Play Baby Hazel African Safari instantly on ZippyGamez.",
+  "start_url": "/playgames/baby-hazel-african-safari/play/",
+  "scope": "/playgames/baby-hazel-african-safari/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "junior"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/baby-hazel-african-safari-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/baby-hazel-african-safari.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

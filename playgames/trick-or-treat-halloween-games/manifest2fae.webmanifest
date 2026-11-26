@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/trick-or-treat-halloween-games/play/",
+  "name": "Trick or Treat Halloween Games - ZippyGamez",
+  "short_name": "Trick or Treat Halloween Games",
+  "description": "Play Trick or Treat Halloween Games instantly on ZippyGamez.",
+  "start_url": "/playgames/trick-or-treat-halloween-games/play/",
+  "scope": "/playgames/trick-or-treat-halloween-games/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "junior"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/trick-or-treat-halloween-games-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/trick-or-treat-halloween-games.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

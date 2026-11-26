@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/master-chess-multiplayer/play/",
+  "name": "Master Chess Multiplayer - ZippyGamez",
+  "short_name": "Master Chess Multiplayer",
+  "description": "Play Master Chess Multiplayer instantly on ZippyGamez.",
+  "start_url": "/playgames/master-chess-multiplayer/play/",
+  "scope": "/playgames/master-chess-multiplayer/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "multiplayer"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/master-chess-multiplayer-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/master-chess-multiplayer.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

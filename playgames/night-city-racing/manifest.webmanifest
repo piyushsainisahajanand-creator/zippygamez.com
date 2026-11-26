@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/night-city-racing/play/",
+  "name": "Night City Racing - ZippyGamez",
+  "short_name": "Night City Racing",
+  "description": "Play Night City Racing instantly on ZippyGamez.",
+  "start_url": "/playgames/night-city-racing/play/",
+  "scope": "/playgames/night-city-racing/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/night-city-racing-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/night-city-racing.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

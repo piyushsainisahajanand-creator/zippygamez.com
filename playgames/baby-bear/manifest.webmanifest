@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/baby-bear/play/",
+  "name": "Baby Bear - ZippyGamez",
+  "short_name": "Baby Bear",
+  "description": "Play Baby Bear instantly on ZippyGamez.",
+  "start_url": "/playgames/baby-bear/play/",
+  "scope": "/playgames/baby-bear/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/baby-bear-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/baby-bear.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

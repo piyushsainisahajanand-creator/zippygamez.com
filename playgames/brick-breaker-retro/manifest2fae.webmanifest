@@ -1,0 +1,31 @@
+{
+  "id": "/playgames/brick-breaker-retro/play/",
+  "name": "Brick Breaker Retro - ZippyGamez",
+  "short_name": "Brick Breaker Retro",
+  "description": "Play Brick Breaker Retro instantly on ZippyGamez.",
+  "start_url": "/playgames/brick-breaker-retro/play/",
+  "scope": "/playgames/brick-breaker-retro/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef8f9",
+  "theme_color": "#eef8f9",
+  "categories": [
+    "games",
+    "entertainment",
+    "puzzles"
+  ],
+  "icons": [
+    {
+      "src": "/assets/pwa-icons/featured-playgames/brick-breaker-retro-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logos/featured-playgames/brick-breaker-retro.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
