@@ -20,6 +20,10 @@
   const detail = document.querySelector(".detail-page");
   if (!detail) return;
   document.body.classList.add("gm-layout", "gm-page");
+  // The CSS keeps .detail-page invisible until "gm-ready" is set, so the old layout never flashes before the new one is built
+  // (the CSS also reveals the page on its own after a few seconds, in case this script cannot finish).
+  const ready = () => document.body.classList.add("gm-ready");
+  setTimeout(ready, 3500);
 
   const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
@@ -469,5 +473,6 @@
       if (review) review.querySelector(".gm-more").addEventListener("click", () => setTimeout(balance, 60));
       if (window.ResizeObserver) new ResizeObserver(() => { clearTimeout(t); t = setTimeout(balance, 100); }).observe(midCol);
     })
-    .catch(() => {});
+    .catch(() => {})
+    .then(() => requestAnimationFrame(ready));
 })();

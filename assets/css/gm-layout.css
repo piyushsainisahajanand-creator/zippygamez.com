@@ -1,6 +1,11 @@
 /* Three-column game detail layout: Newest Games | content | Advertisement box, Editor's Choice below.
    The existing .ad-slot-top / .ad-slot-mid slots are intentionally left untouched. */
 
+/* No flash of the old layout: the detail area stays invisible until gm-layout.js has built the new one (adds body.gm-ready).
+   The animation is a safety net: if the script never runs, the page appears after 4 s anyway. */
+body:not(.gm-ready) .detail-page { opacity: 0; animation: gm-failsafe 0s linear 4s forwards; }
+@keyframes gm-failsafe { to { opacity: 1; } }
+
 body.gm-layout.gm-page .wrapper {
   width: calc(100% - 24px) !important;
   max-width: none !important;
